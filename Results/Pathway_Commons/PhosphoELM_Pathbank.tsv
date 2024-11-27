@@ -1,0 +1,29 @@
+SubstrateID	Position	Code	KinaseID	Peptide	Kinases	Description	PARTICIPANT_A	PARTICIPANT_B	INTERACTION_DATA_SOURCE	INTERACTION_TYPE
+Q8WV28	72	Y	('P43405',)	FDSDyENPD	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	BLNK	SYK	Pathbank;IntAct;HPRD;BioGRID	interacts-with
+Q8WV28	96	Y	('P43405',)	ADDSyEPPP	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	BLNK	SYK	Pathbank;IntAct;HPRD;BioGRID	interacts-with
+Q8WV28	178	Y	('P43405',)	DEADyVVPV	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	BLNK	SYK	Pathbank;IntAct;HPRD;BioGRID	interacts-with
+Q8WV28	84	Y	('P43405',)	DSEMyVMPA	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	BLNK	SYK	Pathbank;IntAct;HPRD;BioGRID	interacts-with
+P20963	111	Y	('P06241',)	QEGLyNELQ	Fyn	Proto-oncogene tyrosine-protein kinase Fyn	CD247	FYN	BIND;Pathbank;HPRD;BioGRID	interacts-with
+P20963	123	Y	('P06241',)	MAEAySEIG	Fyn	Proto-oncogene tyrosine-protein kinase Fyn	CD247	FYN	BIND;Pathbank;HPRD;BioGRID	interacts-with
+P11912	188	Y	('P07948',)	DENLyEGLN	Lyn	Tyrosine-protein kinase Lyn	CD79A	LYN	Pathbank;NetPath;HPRD	interacts-with
+P40259	207	Y	('P07948',)	QTATyEDIV	Lyn	Tyrosine-protein kinase Lyn	CD79B	LYN	Pathbank;HPRD	interacts-with
+P40259	196	Y	('P07948',)	EDHTyEGLD	Lyn	Tyrosine-protein kinase Lyn	CD79B	LYN	Pathbank;HPRD	interacts-with
+P60953	64	Y	('P12931',)	GQEDyDRLR	SRC	Proto-oncogene tyrosine-protein kinase Src	CDC42	SRC	Pathbank	interacts-with
+P23528	3	S	('P53667',)	sGVAV	LIMK1	LIM domain kinase 1	CFL1	LIMK1	Pathbank;IntAct;DIP;HPRD;BioGRID	interacts-with
+P19419	389	S	('Q16539',)	IAPRsPAKL	MAPK14	mitogen-activated protein kinase 14 (p38alpha)	ELK1	MAPK14	BIND;Pathbank;HPRD	interacts-with
+P19419	383	S	('Q16539',)	WSTLsPIAP	MAPK14	mitogen-activated protein kinase 14 (p38alpha)	ELK1	MAPK14	BIND;Pathbank;HPRD	interacts-with
+P19419	389	S	('P27361',)	IAPRsPAKL	MAPK3	mitogen-activated protein kinase 3 (Erk1)	ELK1	MAPK3	BIND;Pathbank;IntAct;NetPath;HPRD;BioGRID	interacts-with
+P19419	383	S	('P27361',)	WSTLsPIAP	MAPK3	mitogen-activated protein kinase 3 (Erk1)	ELK1	MAPK3	BIND;Pathbank;IntAct;NetPath;HPRD;BioGRID	interacts-with
+P19235	368	Y	('O60674',)	AQDTyLVLD	JAK2	Janus protein-tyrosine kinase 2	EPOR	JAK2	Pathbank;HPRD;BioGRID	interacts-with
+P01100	232	T	('P27361',)	PEVAtPESE	MAPK3	mitogen-activated protein kinase 3 (Erk1)	FOS	MAPK3	Pathbank;BioGRID	interacts-with
+P01100	331	T	('P27361',)	VVTCtPSCT	MAPK3	mitogen-activated protein kinase 3 (Erk1)	FOS	MAPK3	Pathbank;BioGRID	interacts-with
+P01100	325	T	('P27361',)	EPLCtPVVT	MAPK3	mitogen-activated protein kinase 3 (Erk1)	FOS	MAPK3	Pathbank;BioGRID	interacts-with
+P10912	332	Y	('O60674',)	IHDSyKPEF	JAK2	Janus protein-tyrosine kinase 2	GHR	JAK2	Pathbank;HPRD;BioGRID	interacts-with
+P10912	487	Y	('O60674',)	NIDFyAQVS	JAK2	Janus protein-tyrosine kinase 2	GHR	JAK2	Pathbank;HPRD;BioGRID	interacts-with
+P05412	73	S	('P45983',)	LKLAsPELE	MAPK8	mitogen-activated protein kinase 8 (JNK1)	JUN	MAPK8	BIND;Pathbank;IntAct;DIP;HPRD;BioGRID	interacts-with
+P05412	63	S	('P45983',)	DLLTsPDVG	MAPK8	mitogen-activated protein kinase 8 (JNK1)	JUN	MAPK8	BIND;Pathbank;IntAct;DIP;HPRD;BioGRID	interacts-with
+P19174	771	Y	('P43405',)	AEPDyGALY	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	PLCG1	SYK	Pathbank;IntAct;DIP;HPRD;BioGRID	interacts-with
+P19174	783	Y	('P43405',)	NPGFyVEAN	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	PLCG1	SYK	Pathbank;IntAct;DIP;HPRD;BioGRID	interacts-with
+P29353	427	Y	('P43405',)	DDPSyVNVQ	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	SHC1	SYK	Pathbank;HPRD	interacts-with
+P29353	349	Y	('P43405',)	PDHQyYNDF	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	SHC1	SYK	Pathbank;HPRD	interacts-with
+P29353	350	Y	('P43405',)	DHQYyNDFP	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	SHC1	SYK	Pathbank;HPRD	interacts-with

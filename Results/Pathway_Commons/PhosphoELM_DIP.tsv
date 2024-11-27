@@ -1,0 +1,27 @@
+SubstrateID	Position	Code	KinaseID	Peptide	Kinases	Description	PARTICIPANT_A	PARTICIPANT_B	INTERACTION_DATA_SOURCE	INTERACTION_TYPE
+P49407	54	Y	('P12931',)	ERRVyVTLT	SRC	Proto-oncogene tyrosine-protein kinase Src	ARRB1	SRC	IntAct;DIP;BioGRID	interacts-with
+P24864	395	T	('P24941',)	SGLLtPPQS	CDK2	Cell division protein kinase 2	CCNE1	CDK2	BIND;IntAct;NetPath;DIP;HPRD;BioGRID	interacts-with
+P24864	399	S	('P24941',)	TPPQsGKKQ	CDK2	Cell division protein kinase 2	CCNE1	CDK2	BIND;IntAct;NetPath;DIP;HPRD;BioGRID	interacts-with
+P06127	453	Y	('P06239',)	VDNEySQPP	Lck	lymphocyte-specific protein tyrosine kinase	CD5	LCK	DIP;HPRD;BioGRID	interacts-with
+P06127	487	Y	('P06239',)	SDSDyDLHG	Lck	lymphocyte-specific protein tyrosine kinase	CD5	LCK	DIP;HPRD;BioGRID	interacts-with
+P30304	124	S	('O14757',)	KRSHsDSLD	CHK1	Serine/threonine-protein kinase Chk1	CDC25A	CHEK1	BIND;IntAct;DIP;HPRD;BioGRID	interacts-with
+P30304	76	S	('O14757',)	QRMGsSEST	CHK1	Serine/threonine-protein kinase Chk1	CDC25A	CHEK1	BIND;IntAct;DIP;HPRD;BioGRID	interacts-with
+P30304	279	S	('O14757',)	RPERsQEES	CHK1	Serine/threonine-protein kinase Chk1	CDC25A	CHEK1	BIND;IntAct;DIP;HPRD;BioGRID	interacts-with
+P30304	293	S	('O14757',)	KRRKsMSGA	CHK1	Serine/threonine-protein kinase Chk1	CDC25A	CHEK1	BIND;IntAct;DIP;HPRD;BioGRID	interacts-with
+P30304	507	T	('O14757',)	TKSRtWAGE	CHK1	Serine/threonine-protein kinase Chk1	CDC25A	CHEK1	BIND;IntAct;DIP;HPRD;BioGRID	interacts-with
+P30304	178	S	('O14757',)	QRQNsAPAR	CHK1	Serine/threonine-protein kinase Chk1	CDC25A	CHEK1	BIND;IntAct;DIP;HPRD;BioGRID	interacts-with
+P30305	230	S	('O14757',)	QRPSsAPDL	CHK1	Serine/threonine-protein kinase Chk1	CDC25B	CHEK1	DIP;HPRD;BioGRID	interacts-with
+P30307	198	S	('P53350',)	LMEFsLKDQ	PLK1	Polo like kinase 1	CDC25C	PLK1	BIND;IntAct;DIP;HPRD;BioGRID	interacts-with
+P23528	3	S	('P53667',)	sGVAV	LIMK1	LIM domain kinase 1	CFL1	LIMK1	Pathbank;IntAct;DIP;HPRD;BioGRID	interacts-with
+P35222	654	Y	('P12931',)	GVATyAAAV	SRC	Proto-oncogene tyrosine-protein kinase Src	CTNNB1	SRC	IntAct;DIP;HPRD;BioGRID	interacts-with
+P35222	86	Y	('P12931',)	IDGQyAMTR	SRC	Proto-oncogene tyrosine-protein kinase Src	CTNNB1	SRC	IntAct;DIP;HPRD;BioGRID	interacts-with
+P03372	537	Y	('P12931',)	VVPLyDLLL	SRC	Proto-oncogene tyrosine-protein kinase Src	ESR1	SRC	IntAct;DIP;HPRD;BioGRID	interacts-with
+P21333	2152	S	('Q13153',)	RRAPsVANV	PAK1	Serine/threonine-protein kinase PAK1	FLNA	PAK1	IntAct;DIP;HPRD	interacts-with
+P17181	481	Y	('P29597',)	SIDEyFSEQ	Tyk2	Non-receptor tyrosine-protein kinase TYK2	IFNAR1	TYK2	IntAct;DIP;HPRD;BioGRID	interacts-with
+P17181	466	Y	('P29597',)	RCINyVFFP	Tyk2	Non-receptor tyrosine-protein kinase TYK2	IFNAR1	TYK2	IntAct;DIP;HPRD;BioGRID	interacts-with
+P05412	73	S	('P45983',)	LKLAsPELE	MAPK8	mitogen-activated protein kinase 8 (JNK1)	JUN	MAPK8	BIND;Pathbank;IntAct;DIP;HPRD;BioGRID	interacts-with
+P05412	63	S	('P45983',)	DLLTsPDVG	MAPK8	mitogen-activated protein kinase 8 (JNK1)	JUN	MAPK8	BIND;Pathbank;IntAct;DIP;HPRD;BioGRID	interacts-with
+P05412	63	S	('P45984',)	DLLTsPDVG	MAPK9	mitogen-activated protein kinase 9 (JNK3	JUN	MAPK9	BIND;IntAct;DIP;HPRD;BioGRID	interacts-with
+P27986	607	Y	('P12931',)	TEDQySLVE	SRC	Proto-oncogene tyrosine-protein kinase Src	PIK3R1	SRC	IntAct;NetPath;DIP;HPRD;BioGRID	interacts-with
+P19174	771	Y	('P43405',)	AEPDyGALY	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	PLCG1	SYK	Pathbank;IntAct;DIP;HPRD;BioGRID	interacts-with
+P19174	783	Y	('P43405',)	NPGFyVEAN	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	PLCG1	SYK	Pathbank;IntAct;DIP;HPRD;BioGRID	interacts-with

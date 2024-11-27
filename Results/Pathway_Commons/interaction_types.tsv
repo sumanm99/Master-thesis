@@ -1,0 +1,15 @@
+Database	Pathway Commons	interacts-with	controls-state-change-of	controls-phosphorylation-of	controls-transport-of	controls-expression-of
+BioGRID	37110	37110	0	0	0	0
+IntAct	29444	29444	0	0	0	0
+Reactome	23574	0	20534	1994	657	389
+PhosphoSite	11686	0	5843	5843	0	0
+HPRD	9475	9475	0	0	0	0
+PANTHER	9238	0	5959	3257	22	0
+pid	8557	0	5542	2235	407	373
+INOH	6203	0	2806	2234	1163	0
+CTD	5852	0	3994	0	0	1858
+MSigDB	4947	0	0	0	0	4947
+BIND	3226	3226	0	0	0	0
+NetPath	1936	1010	472	454	0	0
+DIP	1343	1343	0	0	0	0
+Pathbank	345	329	16	0	0	0

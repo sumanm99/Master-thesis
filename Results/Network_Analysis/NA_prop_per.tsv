@@ -1,0 +1,3 @@
+Interactomes	# K-S interactions	% coverage of K-S interactions	% of exclusive K-S interactions	PhosphoELM_PC	PhosphoSitePlus_PC	High confidence additions	Medium confidence additions (P.ELM)	Medium confidence additions (PSP)	Total additions	Autophosphorylation
+Pathway Commons + BioGRID	149980	18.2	18.2	1248	9387	806	442	8581	9829	827
+BioGRID + Reactome	109133	13.2	11.7	1761	12606	1258	503	11348	13109	827

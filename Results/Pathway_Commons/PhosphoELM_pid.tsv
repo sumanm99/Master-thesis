@@ -1,0 +1,68 @@
+SubstrateID	Position	Code	KinaseID	Peptide	Kinases	Description	PARTICIPANT_A	PARTICIPANT_B	INTERACTION_DATA_SOURCE	INTERACTION_TYPE
+P38398	988	S	('O96017',)	FPIKsFVKT	CHK2	CHK2 checkpoint homolog	BRCA1	CHEK2	pid	controls-phosphorylation-of
+P10747	209	Y	('Q08881',)	HYQPyAPPR	ITK	Tyrosine-protein kinase ITK/TSK	CD28	ITK	pid	controls-phosphorylation-of
+P10747	218	Y	('Q08881',)	DFAAyRS	ITK	Tyrosine-protein kinase ITK/TSK	CD28	ITK	pid	controls-phosphorylation-of
+P10747	191	Y	('Q08881',)	LHSDyMNMT	ITK	Tyrosine-protein kinase ITK/TSK	CD28	ITK	pid	controls-phosphorylation-of
+P10747	191	Y	('P06239',)	LHSDyMNMT	Lck	lymphocyte-specific protein tyrosine kinase	CD28	LCK	pid	controls-state-change-of
+P30305	160	S	('P06493',)	LLGHsPVLR	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2	CDC25B	CDK1	pid;Reactome	controls-phosphorylation-of
+P38936	130	S	('P24941',)	QAEGsPGGP	CDK2	Cell division protein kinase 2	CDKN1A	CDK2	pid;Reactome	controls-state-change-of
+P49450	7	S	('Q96GD4',)	PRRRsRKPE	Aurora B	Serine/threonine-protein kinase 12 (AURKB)	CENPA	AURKB	pid	controls-state-change-of
+P35222	654	Y	('P12931',)	GVATyAAAV	SRC	Proto-oncogene tyrosine-protein kinase Src	CTNNB1	SRC	pid;Reactome	controls-phosphorylation-of
+P35222	86	Y	('P12931',)	IDGQyAMTR	SRC	Proto-oncogene tyrosine-protein kinase Src	CTNNB1	SRC	pid;Reactome	controls-phosphorylation-of
+P28562	296	S	('P28482',)	RSIIsPNFS	MAPK1	mitogen-activated protein kinase 1 (Erk2)	DUSP1	MAPK1	pid;Reactome	controls-phosphorylation-of
+P28562	323	S	('P28482',)	AEAGsPAMA	MAPK1	mitogen-activated protein kinase 1 (Erk2)	DUSP1	MAPK1	pid;Reactome	controls-phosphorylation-of
+P28562	364	S	('P27361',)	PITTsPSC	MAPK3	mitogen-activated protein kinase 3 (Erk1)	DUSP1	MAPK3	pid;Reactome	controls-phosphorylation-of
+Q16828	159	S	('P28482',)	CSSSsPPLP	MAPK1	mitogen-activated protein kinase 1 (Erk2)	DUSP6	MAPK1	pid;Reactome	controls-phosphorylation-of
+Q16828	159	S	('P27361',)	CSSSsPPLP	MAPK3	mitogen-activated protein kinase 3 (Erk1)	DUSP6	MAPK3	pid;Reactome	controls-phosphorylation-of
+Q01094	332	S	('P06493',)	ATIVsPPPS	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2	E2F1	CDK1	pid;MSigDB;Reactome	controls-expression-of
+Q01094	337	S	('P06493',)	PPPSsPPSS	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2	E2F1	CDK1	pid;MSigDB;Reactome	controls-expression-of
+P19235	368	Y	('O60674',)	AQDTyLVLD	JAK2	Janus protein-tyrosine kinase 2	EPOR	JAK2	pid	controls-phosphorylation-of
+P03372	537	Y	('P12931',)	VVPLyDLLL	SRC	Proto-oncogene tyrosine-protein kinase Src	ESR1	SRC	pid	controls-phosphorylation-of
+Q08050-2	596	T	('P06493',)	PISStPSKS	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2	FOXM1	CDK1	pid	controls-expression-of
+Q13480	476	T	('P28482',)	YVPMtPGTF	MAPK1	mitogen-activated protein kinase 1 (Erk2)	GAB1	MAPK1	pid	controls-phosphorylation-of
+Q13480	627	Y	('P08581',)	KQVEyLDLD	Met	Hepatocyte growth factor receptor	GAB1	MET	pid	controls-state-change-of
+Q13480	589	Y	('P08581',)	SEENyVPMN	Met	Hepatocyte growth factor receptor	GAB1	MET	pid	controls-state-change-of
+Q13480	285	Y	('P08581',)	DGELyVFNT	Met	Hepatocyte growth factor receptor	GAB1	MET	pid	controls-state-change-of
+Q13480	307	Y	('P08581',)	VSISyDIPP	Met	Hepatocyte growth factor receptor	GAB1	MET	pid	controls-state-change-of
+Q13480	659	Y	('P08581',)	ERVDyVVVD	Met	Hepatocyte growth factor receptor	GAB1	MET	pid	controls-state-change-of
+Q13480	373	Y	('P08581',)	TDSSyCIPT	Met	Hepatocyte growth factor receptor	GAB1	MET	pid	controls-state-change-of
+Q13480	406	Y	('P08581',)	SQDCyDIPR	Met	Hepatocyte growth factor receptor	GAB1	MET	pid	controls-state-change-of
+Q13480	472	Y	('P08581',)	QEANyVPMT	Met	Hepatocyte growth factor receptor	GAB1	MET	pid	controls-state-change-of
+Q13480	447	Y	('P08581',)	LDENyVPMN	Met	Hepatocyte growth factor receptor	GAB1	MET	pid	controls-state-change-of
+P19086	16	S	('P17252',)	AARRsRRID	PKC_alpha	Protein kinase C, alpha type	GNAZ	PRKCA	pid;Reactome	controls-state-change-of
+P19086	27	S	('P17252',)	LRSEsQRQR	PKC_alpha	Protein kinase C, alpha type	GNAZ	PRKCA	pid;Reactome	controls-state-change-of
+O14964	329	Y	('P00533',)	ELARyLNRN	EGFR	Epidermal growth factor receptor (Receptor tyrosine-protein kinase ErbB-1)	HGS	EGFR	pid;Reactome	controls-state-change-of
+P35568	616	S	('P27361',)	YMPMsPGVA	MAPK3	mitogen-activated protein kinase 3 (Erk1)	IRS1	MAPK3	pid	controls-phosphorylation-of
+P35568	307	S	('Q05655',)	SRTEsITAT	PKC_delta	Protein kinase C, delta type	IRS1	PRKCD	pid	controls-phosphorylation-of
+P35568	574	S	('Q05655',)	GHRHsAFVP	PKC_delta	Protein kinase C, delta type	IRS1	PRKCD	pid	controls-phosphorylation-of
+P05106	785	Y	('P12931',)	TNITyRGT	SRC	Proto-oncogene tyrosine-protein kinase Src	ITGB3	SRC	pid	controls-phosphorylation-of
+P05106	773	Y	('P12931',)	NNPLyKEAT	SRC	Proto-oncogene tyrosine-protein kinase Src	ITGB3	SRC	pid	controls-phosphorylation-of
+P05106	785	Y	('P43405',)	TNITyRGT	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	ITGB3	SYK	pid	controls-phosphorylation-of
+Q9Y266	274	S	('P53350',)	NPENsKLSD	PLK1	Polo like kinase 1	NUDC	PLK1	pid	controls-state-change-of
+Q9Y266	326	S	('P53350',)	EMDFsKAKF	PLK1	Polo like kinase 1	NUDC	PLK1	pid	controls-state-change-of
+P27986	608	S	('P42336', 'A0A2R8Y2F6', 'A0A6Q8PGN9', 'Q4LE51', 'A0A2P0XI22', 'E2I6G1', 'A0A6B9QIS5', 'C9JAM9', 'A0A3G2C3N5', 'A0A6B9QKK2', 'A0A6Q8PGV1', 'A0A8A2FPJ2', 'C9J951')	EDQYsLVED	PIK3CA		PIK3R1	PIK3CA	pid	controls-state-change-of
+P19174	1248	S	('P17252',)	AREGsFESR	PKC_alpha	Protein kinase C, alpha type	PLCG1	PRKCA	PANTHER;pid;Reactome	controls-state-change-of
+P43119	328	S	('P17252',)	SQLAsGRRD	PKC_alpha	Protein kinase C, alpha type	PTGIR	PRKACA	pid	controls-state-change-of
+Q06124	546	Y	('P09619',)	KGHEyTNIK	PDGFR_beta	platelet-derived growth factor receptor, beta polypeptide	PTPN11	PDGFRB	pid;INOH	controls-phosphorylation-of
+P18031	66	Y	('P00533',)	EDNDyINAS	EGFR	Epidermal growth factor receptor (Receptor tyrosine-protein kinase ErbB-1)	PTPN1	EGFR	pid	controls-phosphorylation-of
+P18031	152	Y	('P06213',)	DIKSyYTVR	INSR	Insulin receptor	PTPN1	INSR	pid	controls-phosphorylation-of
+P18031	153	Y	('P06213',)	IKSYyTVRQ	INSR	Insulin receptor	PTPN1	INSR	pid	controls-phosphorylation-of
+P29350	536	Y	('P06239',)	QESEyGNIT	Lck	lymphocyte-specific protein tyrosine kinase	PTPN6	LCK	pid	controls-phosphorylation-of
+P29350	564	Y	('P06239',)	KEDVyENLH	Lck	lymphocyte-specific protein tyrosine kinase	PTPN6	LCK	pid	controls-phosphorylation-of
+P49023	118	Y	('Q05397',)	EEHVySFPN	FAK	Focal adhesion kinase	PXN	PTK2	pid	controls-phosphorylation-of
+P49023	31	Y	('Q05397',)	EETPySYPT	FAK	Focal adhesion kinase	PXN	PTK2	pid	controls-phosphorylation-of
+P63244	246	Y	('P12931',)	SPNRyWLCA	SRC	Proto-oncogene tyrosine-protein kinase Src	RACK1	SRC	pid	controls-phosphorylation-of
+P63244	228	Y	('P12931',)	GKHLyTLDG	SRC	Proto-oncogene tyrosine-protein kinase Src	RACK1	SRC	pid	controls-phosphorylation-of
+P78314	225	S	('P17252',)	PRAHsFTSK	PKC_alpha	Protein kinase C, alpha type	SH3BP2	PRKCA	pid	controls-state-change-of
+Q15796	464	S	('P36897',)	SVRCsSMS	TGFbR1	TGF-beta receptor type I	SMAD2	TGFBR1	pid	controls-state-change-of
+Q15796	465	S	('P36897',)	VRCSsMS	TGFbR1	TGF-beta receptor type I	SMAD2	TGFBR1	pid	controls-state-change-of
+Q15796	467	S	('P36897',)	CSSMs	TGFbR1	TGF-beta receptor type I	SMAD2	TGFBR1	pid	controls-state-change-of
+O14543	204	Y	('P06239',)	HLDSyEKVT	Lck	lymphocyte-specific protein tyrosine kinase	SOCS3	LCK	pid	controls-phosphorylation-of
+O14543	221	Y	('P06239',)	FLDQyDAPL	Lck	lymphocyte-specific protein tyrosine kinase	SOCS3	LCK	pid	controls-phosphorylation-of
+Q07889	1193	S	('P28482',)	SKAYsPRYS	MAPK1	mitogen-activated protein kinase 1 (Erk2)	SOS1	MAPK1	pid	controls-phosphorylation-of
+Q07889	1132	S	('P28482',)	HGPRsASVS	MAPK1	mitogen-activated protein kinase 1 (Erk2)	SOS1	MAPK1	pid	controls-phosphorylation-of
+Q07889	1197	S	('P28482',)	SPRYsISDR	MAPK1	mitogen-activated protein kinase 1 (Erk2)	SOS1	MAPK1	pid	controls-phosphorylation-of
+Q07889	1167	S	('P28482',)	PAESsPSKI	MAPK1	mitogen-activated protein kinase 1 (Erk2)	SOS1	MAPK1	pid	controls-phosphorylation-of
+Q07889	1178	S	('P28482',)	KHLDsPPAI	MAPK1	mitogen-activated protein kinase 1 (Erk2)	SOS1	MAPK1	pid	controls-phosphorylation-of
+Q13507	712	S	('P17252',)	SLVPsPKSF	PKC_alpha	Protein kinase C, alpha type	TRPC3	PRKCA	pid;Reactome	controls-state-change-of
+Q9H1D0	702	T	('P17252',)	LRQGtLRRD	PKC_alpha	Protein kinase C, alpha type	TRPV6	PRKCA	pid;Reactome	controls-state-change-of

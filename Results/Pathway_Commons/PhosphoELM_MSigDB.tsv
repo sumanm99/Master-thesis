@@ -1,0 +1,14 @@
+SubstrateID	Position	Code	KinaseID	Peptide	Kinases	Description	PARTICIPANT_A	PARTICIPANT_B	INTERACTION_DATA_SOURCE	INTERACTION_TYPE
+P16220	133	S	('P51812',)	SRRPsYRKI	RSK-3	Ribosomal protein S6 kinase alpha 3	CREB1	RPS6KA3	MSigDB	controls-expression-of
+Q01094	31	S	('Q13315',)	LLDSsQIVI	ATM	Ataxia telangiectasia mutated	E2F1	ATM	CTD;MSigDB	controls-expression-of
+Q01094	332	S	('P06493',)	ATIVsPPPS	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2	E2F1	CDK1	pid;MSigDB;Reactome	controls-expression-of
+Q01094	337	S	('P06493',)	PPPSsPPSS	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2	E2F1	CDK1	pid;MSigDB;Reactome	controls-expression-of
+P19419	389	S	('Q16539',)	IAPRsPAKL	MAPK14	mitogen-activated protein kinase 14 (p38alpha)	ELK1	MAPK14	MSigDB	controls-expression-of
+P19419	383	S	('Q16539',)	WSTLsPIAP	MAPK14	mitogen-activated protein kinase 14 (p38alpha)	ELK1	MAPK14	MSigDB	controls-expression-of
+P98177	451	T	('P45983',)	KALGtPVLT	MAPK8	mitogen-activated protein kinase 8 (JNK1)	FOXO4	MAPK8	MSigDB	controls-expression-of
+P98177	455	T	('P45983',)	TPVLtPPTE	MAPK8	mitogen-activated protein kinase 8 (JNK1)	FOXO4	MAPK8	MSigDB	controls-expression-of
+Q9UJU2	166	S	('Q9UBE8',)	DEHFsPGSH	NLK	Serine/threonine kinase NLK	LEF1	NLK	MSigDB	controls-expression-of
+Q9UJU2	155	T	('Q9UBE8',)	VHPLtPLIT	NLK	Serine/threonine kinase NLK	LEF1	NLK	MSigDB	controls-expression-of
+P56270	72	T	('P27361',)	APPPtPQAP	MAPK3	mitogen-activated protein kinase 3 (Erk1)	MAZ	MAPK3	MSigDB	controls-expression-of
+P01106	58	T	('P49841',)	ELLPtPPLS	GSK-3_beta	Glycogen synthase kinase-3 beta	MYC	GSK3B	MSigDB	controls-expression-of
+P11831	85	S	('P49137',)	GDSEsGEEE	MAPKAPK2	MAP kinase-activated protein kinase 2	SRF	MAPKAPK2	MSigDB	controls-expression-of

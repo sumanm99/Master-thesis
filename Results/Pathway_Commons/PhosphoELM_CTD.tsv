@@ -1,0 +1,58 @@
+SubstrateID	Position	Code	KinaseID	Peptide	Kinases	Description	PARTICIPANT_A	PARTICIPANT_B	INTERACTION_DATA_SOURCE	INTERACTION_TYPE
+P07550	384	T	('P25098',)	DLPGtEDFV	GRK-2	G protein-coupled receptor kinase 2 = beta-ARK1 (beta-adrenergic receptor kinase 1)	ADRB2	GRK2	CTD	controls-expression-of
+P07550	396	S	('P25098',)	GTVPsDNID	GRK-2	G protein-coupled receptor kinase 2 = beta-ARK1 (beta-adrenergic receptor kinase 1)	ADRB2	GRK2	CTD	controls-expression-of
+P07550	401	S	('P25098',)	DNIDsQGRN	GRK-2	G protein-coupled receptor kinase 2 = beta-ARK1 (beta-adrenergic receptor kinase 1)	ADRB2	GRK2	CTD	controls-expression-of
+P07550	407	S	('P25098',)	GRNCsTNDS	GRK-2	G protein-coupled receptor kinase 2 = beta-ARK1 (beta-adrenergic receptor kinase 1)	ADRB2	GRK2	CTD	controls-expression-of
+P49407	54	Y	('P12931',)	ERRVyVTLT	SRC	Proto-oncogene tyrosine-protein kinase Src	ARRB1	SRC	CTD	controls-state-change-of
+P38398	1423	S	('Q13315',)	EQHGsQPSN	ATM	Ataxia telangiectasia mutated	BRCA1	ATM	CTD;Reactome	controls-expression-of
+P38398	1457	S	('Q13315',)	AVLTsQKSS	ATM	Ataxia telangiectasia mutated	BRCA1	ATM	CTD;Reactome	controls-expression-of
+P38398	1330	S	('Q13315',)	HQSEsQGVG	ATM	Ataxia telangiectasia mutated	BRCA1	ATM	CTD;Reactome	controls-expression-of
+P38398	1466	S	('Q13315',)	EYPIsQNPE	ATM	Ataxia telangiectasia mutated	BRCA1	ATM	CTD;Reactome	controls-expression-of
+P38398	1497	S	('Q13315',)	VERSsPSKC	ATM	Ataxia telangiectasia mutated	BRCA1	ATM	CTD;Reactome	controls-expression-of
+P38398	1387	S	('Q13315',)	SGLSsQSDI	ATM	Ataxia telangiectasia mutated	BRCA1	ATM	CTD;Reactome	controls-expression-of
+P38398	1524	S	('Q13315',)	RNYPsQEEL	ATM	Ataxia telangiectasia mutated	BRCA1	ATM	CTD;Reactome	controls-expression-of
+P38398	1497	S	('P24941',)	VERSsPSKC	CDK2	Cell division protein kinase 2	BRCA1	CDK2	CTD	controls-expression-of
+Q03135	14	Y	('P06241',)	EGHLyTVPI	Fyn	Proto-oncogene tyrosine-protein kinase Fyn	CAV1	FYN	CTD	controls-expression-of
+P30307	214	S	('P06493',)	GLYRsPSMP	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2	CDC25C	CDK1	CTD;Reactome	controls-state-change-of
+P30307	67	T	('P06493',)	LSGGtPKRC	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2	CDC25C	CDK1	CTD;Reactome	controls-state-change-of
+P30307	48	T	('P06493',)	DVPRtPVGK	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2	CDC25C	CDK1	CTD;Reactome	controls-state-change-of
+P30307	122	S	('P06493',)	LMKCsPAQL	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2	CDC25C	CDK1	CTD;Reactome	controls-state-change-of
+P30307	168	S	('P06493',)	KYLGsPITT	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2	CDC25C	CDK1	CTD;Reactome	controls-state-change-of
+P30307	130	T	('P06493',)	LLCStPNGL	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2	CDC25C	CDK1	CTD;Reactome	controls-state-change-of
+P38936	130	S	('P24941',)	QAEGsPGGP	CDK2	Cell division protein kinase 2	CDKN1A	CDK2	CTD	controls-expression-of
+P46527	187	T	('P24941',)	SVEQtPKKP	CDK2	Cell division protein kinase 2	CDKN1B	CDK2	CTD	controls-expression-of
+Q01094	31	S	('Q13315',)	LLDSsQIVI	ATM	Ataxia telangiectasia mutated	E2F1	ATM	CTD;MSigDB	controls-expression-of
+P05198	49	S	('P19525',)	MILLsELSR	EIF2AK2	Interferon-inducible RNA-dependent protein kinase	EIF2S1	EIF2AK2	CTD	controls-state-change-of
+P05198	52	S	('P19525',)	LSELsRRRI	EIF2AK2	Interferon-inducible RNA-dependent protein kinase	EIF2S1	EIF2AK2	CTD	controls-state-change-of
+P19235	368	Y	('O60674',)	AQDTyLVLD	JAK2	Janus protein-tyrosine kinase 2	EPOR	JAK2	CTD	controls-expression-of
+P03372	106	S	('P49841',)	SVSPsPLML	GSK-3_beta	Glycogen synthase kinase-3 beta	ESR1	GSK3B	CTD	controls-state-change-of
+P03372	102	S	('P49841',)	PPLNsVSPS	GSK-3_beta	Glycogen synthase kinase-3 beta	ESR1	GSK3B	CTD	controls-state-change-of
+P03372	118	S	('P49841',)	PPQLsPFLQ	GSK-3_beta	Glycogen synthase kinase-3 beta	ESR1	GSK3B	CTD	controls-state-change-of
+P03372	104	S	('P49841',)	LNSVsPSPL	GSK-3_beta	Glycogen synthase kinase-3 beta	ESR1	GSK3B	CTD	controls-state-change-of
+P03372	118	S	('P28482',)	PPQLsPFLQ	MAPK1	mitogen-activated protein kinase 1 (Erk2)	ESR1	MAPK1	CTD	controls-state-change-of
+P03372	118	S	('P27361',)	PPQLsPFLQ	MAPK3	mitogen-activated protein kinase 3 (Erk1)	ESR1	MAPK3	CTD	controls-state-change-of
+P03372	537	Y	('P12931',)	VVPLyDLLL	SRC	Proto-oncogene tyrosine-protein kinase Src	ESR1	SRC	CTD;pid;Reactome	controls-state-change-of
+P35367	398	S	('P25098',)	LRSHsRQYV	GRK-2	G protein-coupled receptor kinase 2 = beta-ARK1 (beta-adrenergic receptor kinase 1)	HRH1	GRK2	CTD	controls-state-change-of
+P15941	1229	Y	('P00533',)	DRSPyEKVS	EGFR	Epidermal growth factor receptor (Receptor tyrosine-protein kinase ErbB-1)	MUC1	EGFR	CTD	controls-expression-of
+P14598	345	S	('P27361',)	PGPQsPGSP	MAPK3	mitogen-activated protein kinase 3 (Erk1)	NCF1	MAPK3	CTD	controls-state-change-of
+P14598	348	S	('P27361',)	QSPGsPLEE	MAPK3	mitogen-activated protein kinase 3 (Erk1)	NCF1	MAPK3	CTD	controls-state-change-of
+Q15788	1179	T	('P28482',)	TNPGtPPAS	MAPK1	mitogen-activated protein kinase 1 (Erk2)	NCOA1	MAPK1	CTD	controls-state-change-of
+Q15788	1185	S	('P28482',)	PASTsPFSQ	MAPK1	mitogen-activated protein kinase 1 (Erk2)	NCOA1	MAPK1	CTD	controls-state-change-of
+Q15788	395	S	('P28482',)	NPSIsPAHG	MAPK1	mitogen-activated protein kinase 1 (Erk2)	NCOA1	MAPK1	CTD	controls-state-change-of
+Q15788	1179	T	('P27361',)	TNPGtPPAS	MAPK3	mitogen-activated protein kinase 3 (Erk1)	NCOA1	MAPK3	CTD	controls-expression-of
+Q15788	1185	S	('P27361',)	PASTsPFSQ	MAPK3	mitogen-activated protein kinase 3 (Erk1)	NCOA1	MAPK3	CTD	controls-expression-of
+P60484	362	S	('P49841',)	EASSsTSVT	GSK-3_beta	Glycogen synthase kinase-3 beta	PTEN	GSK3B	CTD	controls-state-change-of
+P60484	366	T	('P49841',)	STSVtPDVS	GSK-3_beta	Glycogen synthase kinase-3 beta	PTEN	GSK3B	CTD	controls-state-change-of
+Q99708	664	S	('Q13315',)	GADLsQYKM	ATM	Ataxia telangiectasia mutated	RBBP8	ATM	CTD	controls-expression-of
+Q99708	745	S	('Q13315',)	ADSFsQAAD	ATM	Ataxia telangiectasia mutated	RBBP8	ATM	CTD	controls-expression-of
+Q04206	435	T	('P28482',)	AGEGtLSEA	MAPK1	mitogen-activated protein kinase 1 (Erk2)	RELA	MAPK1	CTD	controls-state-change-of
+P84022	8	T	('P24941',)	ILPFtPPIV	CDK2	Cell division protein kinase 2	SMAD3	CDK2	CTD	controls-state-change-of
+P84022	179	T	('P24941',)	NIPEtPPPG	CDK2	Cell division protein kinase 2	SMAD3	CDK2	CTD	controls-state-change-of
+P84022	213	S	('P24941',)	PNPMsPAHN	CDK2	Cell division protein kinase 2	SMAD3	CDK2	CTD	controls-state-change-of
+P37840	129	S	('P68400',)	YEMPsEEGY	CK2_alpha	casein kinase 2, alpha 1 polypeptide	SNCA	CSNK2A1	CTD	controls-state-change-of
+P04637	215	S	('O14965',)	TFRHsVVVP	Aurora A	Serine/threonine-protein kinase 6 (STK6)	TP53	AURKA	CTD	controls-expression-of
+P04637	315	S	('O14965',)	NTSSsPQPK	Aurora A	Serine/threonine-protein kinase 6 (STK6)	TP53	AURKA	CTD	controls-expression-of
+P04637	20	S	('O14757',)	QETFsDLWK	CHK1	Serine/threonine-protein kinase Chk1	TP53	CHEK1	CTD	controls-expression-of
+P04637	20	S	('O96017',)	QETFsDLWK	CHK2	CHK2 checkpoint homolog	TP53	CHEK2	CTD	controls-expression-of
+P04637	37	S	('P78527',)	SPLPsQAMD	DNA-PK	DNA-dependent protein kinase catalytic subunit	TP53	PRKDC	CTD	controls-expression-of
+P04637	15	S	('P78527',)	EPPLsQETF	DNA-PK	DNA-dependent protein kinase catalytic subunit	TP53	PRKDC	CTD	controls-expression-of

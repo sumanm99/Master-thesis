@@ -1,0 +1,11 @@
+SubstrateID	Position	Code	KinaseID	Peptide	Kinases	Description	PARTICIPANT_A	PARTICIPANT_B	INTERACTION_DATA_SOURCE	INTERACTION_TYPE
+Q03135	14	Y	('P06241',)	EGHLyTVPI	Fyn	Proto-oncogene tyrosine-protein kinase Fyn	CAV1	FYN	PANTHER	controls-state-change-of
+P19174	1248	S	('P17252',)	AREGsFESR	PKC_alpha	Protein kinase C, alpha type	PLCG1	PRKCA	PANTHER;pid;Reactome	controls-state-change-of
+Q9UD71	34	T	('P17612',)	RRRPtPAML	PKA_alpha	protein kinase, cAMP-dependent, catalytic, alpha	PPP1R1B	PRKACA	PANTHER	controls-state-change-of
+P29350	591	S	('P17252',)	KSKGsLKRK	PKC_alpha	Protein kinase C, alpha type	PTPN6	PRKCA	PANTHER	controls-state-change-of
+P49023	40	Y	('P12931',)	GNHTyQEIA	SRC	Proto-oncogene tyrosine-protein kinase Src	PXN	SRC	PANTHER	controls-state-change-of
+P49023	88	Y	('P12931',)	SSPVyGSSA	SRC	Proto-oncogene tyrosine-protein kinase Src	PXN	SRC	PANTHER	controls-state-change-of
+P40763	727	S	('Q05655',)	DLPMsPRTL	PKC_delta	Protein kinase C, delta type	STAT3	PRKCD	PANTHER	controls-state-change-of
+Q15750	431	T	('Q16539',)	LDEAtPTLT	MAPK14	mitogen-activated protein kinase 14 (p38alpha)	TAB1	MAPK14	PANTHER	controls-phosphorylation-of
+Q15750	423	S	('Q16539',)	NGAHsASTL	MAPK14	mitogen-activated protein kinase 14 (p38alpha)	TAB1	MAPK14	PANTHER	controls-phosphorylation-of
+Q15750	438	S	('Q16539',)	LTNQsPTLT	MAPK14	mitogen-activated protein kinase 14 (p38alpha)	TAB1	MAPK14	PANTHER	controls-phosphorylation-of

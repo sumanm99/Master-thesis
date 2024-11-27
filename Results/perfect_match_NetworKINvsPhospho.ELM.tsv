@@ -1,0 +1,99 @@
+SubstrateID	Position	Code	KinaseID	Peptide	predictor	genesymbol_kinase	Kinases	motif_score	context_score	Description
+P15336	349	S	('P05771',)	RAAAsRCRQ	PKC	PRKCB1	PKC_beta	0.83	0.977	protein kinase C, beta 1
+P15336	322	S	('P05771',)	TQSTsGRRR	PKC	PRKCB1	PKC_beta	0.728	0.977	protein kinase C, beta 1
+P24864	395	T	('P24941',)	SGLLtPPQS	cdk5	CDK2	CDK2	0.703	0.999	Cell division protein kinase 2
+O60934	397	S	('Q13315',)	FRMLsQDAP	ATM	ATM	ATM	0.687	0.999	Ataxia telangiectasia mutated
+Q9BXW9	222	S	('Q13315',)	ILGDsQHAD	ATM	ATM	ATM	0.68	0.999	Ataxia telangiectasia mutated
+Q14191	1141	S	('Q13315',)	AYSSsQPVI	ATM	ATM	ATM	0.678	0.998	Ataxia telangiectasia mutated
+Q14683	966	S	('Q13315',)	SVSGsQRIS	ATM	ATM	ATM	0.673	0.999	Ataxia telangiectasia mutated
+Q01094	31	S	('Q13315',)	LLDSsQIVI	ATM	ATM	ATM	0.671	0.997	Ataxia telangiectasia mutated
+P38398	1457	S	('Q13315',)	AVLTsQKSS	ATM	ATM	ATM	0.668	0.999	Ataxia telangiectasia mutated
+P04637	15	S	('Q13315',)	EPPLsQETF	ATM	ATM	ATM	0.666	0.999	Ataxia telangiectasia mutated
+O60934	343	S	('Q13315',)	GPSLsQGVS	ATM	ATM	ATM	0.665	0.999	Ataxia telangiectasia mutated
+P54274	219	S	('Q13315',)	LMIIsQKDT	ATM	ATM	ATM	0.665	0.999	Ataxia telangiectasia mutated
+O60934	278	S	('Q13315',)	GITNsQTLI	ATM	ATM	ATM	0.661	0.999	Ataxia telangiectasia mutated
+O96017	28	S	('Q13315',)	SVTQsQGSS	ATM	ATM	ATM	0.661	0.999	Ataxia telangiectasia mutated
+Q14683	957	S	('Q13315',)	EEGSsQGED	ATM	ATM	ATM	0.66	0.999	Ataxia telangiectasia mutated
+Q08999	417	T	('P24941',)	SPCVtPVST	cdk5	CDK2	CDK2	0.66	0.997	Cell division protein kinase 2
+Q99741	74	S	('P24941',)	LPPCsPPKQ	cdk5	CDK2	CDK2	0.657	0.997	Cell division protein kinase 2
+Q9BXW9	1257	S	('Q13315',)	TAADsQQIH	ATM	ATM	ATM	0.653	0.999	Ataxia telangiectasia mutated
+Q99708	664	S	('Q13315',)	GADLsQYKM	ATM	ATM	ATM	0.652	0.997	Ataxia telangiectasia mutated
+P00519	446	S	('Q13315',)	GIDLsQVYE	ATM	ATM	ATM	0.651	0.999	Ataxia telangiectasia mutated
+P38398	1387	S	('Q13315',)	SGLSsQSDI	ATM	ATM	ATM	0.651	0.999	Ataxia telangiectasia mutated
+Q99638	272	S	('Q13315',)	TDSHsQDLG	ATM	ATM	ATM	0.651	0.996	Ataxia telangiectasia mutated
+P38398	1423	S	('Q13315',)	EQHGsQPSN	ATM	ATM	ATM	0.64	0.999	Ataxia telangiectasia mutated
+P38398	1524	S	('Q13315',)	RNYPsQEEL	ATM	ATM	ATM	0.63	0.999	Ataxia telangiectasia mutated
+Q14191	1292	S	('Q13315',)	GMHLsQAVK	ATM	ATM	ATM	0.628	0.998	Ataxia telangiectasia mutated
+O96017	68	T	('Q13315',)	ETVStQELY	ATM	ATM	ATM	0.625	0.999	Ataxia telangiectasia mutated
+P04637	15	S	('P78527',)	EPPLsQETF	DNAPK	PRKDC	DNA-PK	0.625	0.997	DNA-dependent protein kinase catalytic subunit
+P05412	249	S	('P78527',)	IDMEsQERI	DNAPK	PRKDC	DNA-PK	0.625	0.996	DNA-dependent protein kinase catalytic subunit
+P15927	33	S	('P78527',)	SPAPsQAEK	DNAPK	PRKDC	DNA-PK	0.625	0.996	DNA-dependent protein kinase catalytic subunit
+O96017	35	S	('Q13315',)	SSSQsQGIS	ATM	ATM	ATM	0.624	0.999	Ataxia telangiectasia mutated
+Q08999	662	S	('P24941',)	RSITsPTTL	cdk5	CDK2	CDK2	0.624	0.997	Cell division protein kinase 2
+P49917	199	S	('Q13315',)	KLGVsQQTI	ATM	ATM	ATM	0.624	0.986	Ataxia telangiectasia mutated
+P00533	693	T	('P27361',)	VEPLtPSGE	Erk1	MAPK3	MAPK3	0.62	0.996	mitogen-activated protein kinase 3 (Erk1)
+P10244	577	S	('P24941',)	GLRRsPIKK	cdk5	CDK2	CDK2	0.617	0.998	Cell division protein kinase 2
+Q99708	745	S	('Q13315',)	ADSFsQAAD	ATM	ATM	ATM	0.615	0.997	Ataxia telangiectasia mutated
+P11831	435	S	('P78527',)	LNAFsQAPS	DNAPK	PRKDC	DNA-PK	0.613	0.994	DNA-dependent protein kinase catalytic subunit
+Q08999	694	T	('P24941',)	SDGGtPGRM	cdk5	CDK2	CDK2	0.612	0.997	Cell division protein kinase 2
+Q00987	395	S	('Q13315',)	SEDYsQPST	ATM	ATM	ATM	0.611	0.999	Ataxia telangiectasia mutated
+P47712	505	S	('P28482',)	SYPLsPLSD	Erk1	MAPK1	MAPK1	0.611	0.976	mitogen-activated protein kinase 1 (Erk2)
+Q12888	6	S	('Q13315',)	DPTGsQLDS	ATM	ATM	ATM	0.61	0.998	Ataxia telangiectasia mutated
+O96017	26	T	('Q13315',)	HGSVtQSQG	ATM	ATM	ATM	0.609	0.999	Ataxia telangiectasia mutated
+P49459	120	S	('P24941',)	PNPNsPANS	cdk5	CDK2	CDK2	0.607	0.973	Cell division protein kinase 2
+P11831	446	S	('P78527',)	QVSHsQVQE	DNAPK	PRKDC	DNA-PK	0.606	0.994	DNA-dependent protein kinase catalytic subunit
+P04637	37	S	('P78527',)	SPLPsQAMD	DNAPK	PRKDC	DNA-PK	0.599	0.997	DNA-dependent protein kinase catalytic subunit
+P04637	46	S	('Q13315',)	DLMLsPDDI	ATM	ATM	ATM	0.598	0.999	Ataxia telangiectasia mutated
+O43521	69	S	('P28482',)	APPAsPGPF	Erk1	MAPK1	MAPK1	0.592	0.997	mitogen-activated protein kinase 1 (Erk2)
+O75943	656	S	('Q13315',)	ELPAsQPQP	ATM	ATM	ATM	0.592	0.996	Ataxia telangiectasia mutated
+Q9UJY1	87	T	('P27361',)	AEGRtPPPF	Erk1	MAPK3	MAPK3	0.588	0.941	mitogen-activated protein kinase 3 (Erk1)
+Q99741	54	S	('P24941',)	ALPLsPRKR	cdk5	CDK2	CDK2	0.586	0.997	Cell division protein kinase 2
+Q12888	25	S	('Q13315',)	IIEDsQPES	ATM	ATM	ATM	0.585	0.998	Ataxia telangiectasia mutated
+P16885	1197	Y	('P06239',)	EEELySSCR	SRC	LCK	Lck	0.585	0.974	lymphocyte-specific protein tyrosine kinase
+P52735	142	Y	('P06239',)	DDDVyRSLE	SRC	LCK	Lck	0.581	0.989	lymphocyte-specific protein tyrosine kinase
+Q08999	952	S	('P24941',)	SHQNsPTEL	cdk5	CDK2	CDK2	0.577	0.997	Cell division protein kinase 2
+P49959	264	S	('Q13315',)	LFYIsQPGS	ATM	ATM	ATM	0.576	0.999	Ataxia telangiectasia mutated
+Q08999	1044	S	('P24941',)	VRTGsPRRI	cdk5	CDK2	CDK2	0.576	0.997	Cell division protein kinase 2
+Q15831	363	T	('Q13315',)	DIIYtQDFT	ATM	ATM	ATM	0.576	0.99	Ataxia telangiectasia mutated
+P01106	62	S	('P28482',)	TPPLsPSRR	Erk1	MAPK1	MAPK1	0.572	0.997	mitogen-activated protein kinase 1 (Erk2)
+P18031	153	Y	('P06213',)	IKSYyTVRQ	INSR	INSR	INSR	0.569	0.999	Insulin receptor
+O14757	345	S	('Q13315',)	GISFsQPTC	ATM	ATM	ATM	0.567	0.999	Ataxia telangiectasia mutated
+O96017	33	S	('Q13315',)	QGSSsQSQG	ATM	ATM	ATM	0.566	0.999	Ataxia telangiectasia mutated
+P10244	444	T	('P24941',)	TPKStPVKT	cdk5	CDK2	CDK2	0.566	0.998	Cell division protein kinase 2
+P18031	152	Y	('P06213',)	DIKSyYTVR	INSR	INSR	INSR	0.56	0.999	Insulin receptor
+Q12888	29	S	('Q13315',)	SQPEsQVLE	ATM	ATM	ATM	0.557	0.998	Ataxia telangiectasia mutated
+P19419	389	S	('Q16539',)	IAPRsPAKL	p38MAPK	MAPK14	MAPK14	0.557	0.992	mitogen-activated protein kinase 14 (p38alpha)
+Q08999	639	S	('P24941',)	CIAGsPLTP	cdk5	CDK2	CDK2	0.556	0.997	Cell division protein kinase 2
+O75943	646	S	('Q13315',)	SLPLsQNSA	ATM	ATM	ATM	0.556	0.996	Ataxia telangiectasia mutated
+P37231	112	S	('P28482',)	VEPAsPPYY	Erk1	MAPK1	MAPK1	0.553	0.996	mitogen-activated protein kinase 1 (Erk2)
+P14598	345	S	('Q16539',)	PGPQsPGSP	p38MAPK	MAPK14	MAPK14	0.551	0.99	mitogen-activated protein kinase 14 (p38alpha)
+P13807	645	S	('P49841',)	SVPPsPSLS	GSK3	GSK3B	GSK-3_beta	0.551	0.98	Glycogen synthase kinase-3 beta
+P17480	117	T	('P28482',)	KKPLtPYFR	Erk1	MAPK1	MAPK1	0.55	0.98	mitogen-activated protein kinase 1 (Erk2)
+Q15750	438	S	('Q16539',)	LTNQsPTLT	p38MAPK	MAPK14	MAPK14	0.547	0.99	mitogen-activated protein kinase 14 (p38alpha)
+O96017	19	S	('Q13315',)	SSACsQPHG	ATM	ATM	ATM	0.546	0.999	Ataxia telangiectasia mutated
+Q02078	453	S	('Q16539',)	EMGRsPVDS	p38MAPK	MAPK14	MAPK14	0.546	0.987	mitogen-activated protein kinase 14 (p38alpha)
+P25963	42	Y	('P06239',)	KDEEyEQMV	SRC	LCK	Lck	0.545	0.996	lymphocyte-specific protein tyrosine kinase
+P10244	494	T	('P24941',)	HRDKtPLHQ	cdk5	CDK2	CDK2	0.544	0.998	Cell division protein kinase 2
+P62753	235	S	('P23443',)	RRRLsSLRA	RSK	RPS6KB1	p70S6K	0.541	0.994	ribosomal protein S6 kinase, 70kDa, polypeptide 1
+P01106	58	T	('P49841',)	ELLPtPPLS	GSK3	GSK3B	GSK-3_beta	0.541	0.992	Glycogen synthase kinase-3 beta
+P19419	383	S	('Q16539',)	WSTLsPIAP	p38MAPK	MAPK14	MAPK14	0.541	0.992	mitogen-activated protein kinase 14 (p38alpha)
+Q9UBK2	266	S	('Q16539',)	LTPEsPNDP	p38MAPK	MAPK14	MAPK14	0.541	0.989	mitogen-activated protein kinase 14 (p38alpha)
+Q92878	635	S	('Q13315',)	DVCGsQDFE	ATM	ATM	ATM	0.536	0.999	Ataxia telangiectasia mutated
+P50613	164	S	('P24941',)	KSFGsPNRA	cdk5	CDK2	CDK2	0.536	0.998	Cell division protein kinase 2
+P04150	508	S	('P78527',)	TTGVsQETS	DNAPK	PRKDC	DNA-PK	0.536	0.995	DNA-dependent protein kinase catalytic subunit
+Q08999	1112	S	('P24941',)	DGSEsPAKR	cdk5	CDK2	CDK2	0.534	0.997	Cell division protein kinase 2
+P62753	236	S	('P23443',)	RRLSsLRAS	RSK	RPS6KB1	p70S6K	0.531	0.994	ribosomal protein S6 kinase, 70kDa, polypeptide 1
+P14598	348	S	('Q16539',)	QSPGsPLEE	p38MAPK	MAPK14	MAPK14	0.531	0.99	mitogen-activated protein kinase 14 (p38alpha)
+Q9UBK2	263	T	('Q16539',)	SLPLtPESP	p38MAPK	MAPK14	MAPK14	0.531	0.989	mitogen-activated protein kinase 14 (p38alpha)
+Q9UBK2	299	T	('Q16539',)	TPPTtPPHK	p38MAPK	MAPK14	MAPK14	0.531	0.989	mitogen-activated protein kinase 14 (p38alpha)
+P24864	395	T	('P49841',)	SGLLtPPQS	GSK3	GSK3B	GSK-3_beta	0.526	0.993	Glycogen synthase kinase-3 beta
+Q07666	84	T	('Q16539',)	GPAPtPLLP	p38MAPK	MAPK14	MAPK14	0.526	0.992	mitogen-activated protein kinase 14 (p38alpha)
+Q08999	1097	T	('P24941',)	RTGEtPTKK	cdk5	CDK2	CDK2	0.525	0.997	Cell division protein kinase 2
+P38432	184	S	('P24941',)	AKRKsPKKK	cdk5	CDK2	CDK2	0.515	0.996	Cell division protein kinase 2
+Q08999	1080	S	('P24941',)	YFSNsPSKR	cdk5	CDK2	CDK2	0.511	0.997	Cell division protein kinase 2
+P20936	460	Y	('P00533',)	GKEIyNTIR	EGFR	EGFR	EGFR	0.51	0.996	Epidermal growth factor receptor (Receptor tyrosine-protein kinase ErbB-1)
+P03372	106	S	('P49841',)	SVSPsPLML	GSK3	GSK3B	GSK-3_beta	0.51	0.993	Glycogen synthase kinase-3 beta
+P03372	118	S	('P49841',)	PPQLsPFLQ	GSK3	GSK3B	GSK-3_beta	0.51	0.993	Glycogen synthase kinase-3 beta
+O14757	317	S	('Q13315',)	KYSSsQPEP	ATM	ATM	ATM	0.505	0.999	Ataxia telangiectasia mutated
+P60484	366	T	('P49841',)	STSVtPDVS	GSK3	GSK3B	GSK-3_beta	0.505	0.993	Glycogen synthase kinase-3 beta
+P13807	649	S	('P49841',)	SPSLsRHSS	GSK3	GSK3B	GSK-3_beta	0.505	0.98	Glycogen synthase kinase-3 beta

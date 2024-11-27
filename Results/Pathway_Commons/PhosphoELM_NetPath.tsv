@@ -1,0 +1,44 @@
+SubstrateID	Position	Code	KinaseID	Peptide	Kinases	Description	PARTICIPANT_A	PARTICIPANT_B	INTERACTION_DATA_SOURCE	INTERACTION_TYPE
+P55211	125	T	('P28482',)	LRPEtPRPV	MAPK1	mitogen-activated protein kinase 1 (Erk2)	CASP9	MAPK1	NetPath;HPRD;BioGRID	interacts-with
+P55211	125	T	('P27361',)	LRPEtPRPV	MAPK3	mitogen-activated protein kinase 3 (Erk1)	CASP9	MAPK3	NetPath;HPRD	interacts-with
+Q03135	14	Y	('P12931',)	EGHLyTVPI	SRC	Proto-oncogene tyrosine-protein kinase Src	CAV1	SRC	IntAct;NetPath;HPRD;BioGRID	interacts-with
+P51636	19	Y	('P12931',)	DDDSySHHS	SRC	Proto-oncogene tyrosine-protein kinase Src	CAV2	SRC	NetPath;HPRD;BioGRID	interacts-with
+P22681	774	Y	('P06241',)	EDDGyDVPK	Fyn	Proto-oncogene tyrosine-protein kinase Fyn	CBL	FYN	BIND;IntAct;NetPath;HPRD;BioGRID	interacts-with
+P22681	731	Y	('P06241',)	DSCTyEAMY	Fyn	Proto-oncogene tyrosine-protein kinase Fyn	CBL	FYN	BIND;IntAct;NetPath;HPRD;BioGRID	interacts-with
+P22681	700	Y	('P06241',)	EDTEyMTPS	Fyn	Proto-oncogene tyrosine-protein kinase Fyn	CBL	FYN	BIND;IntAct;NetPath;HPRD;BioGRID	interacts-with
+P22681	774	Y	('P43405',)	EDDGyDVPK	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	CBL	SYK	IntAct;NetPath;HPRD;BioGRID	interacts-with
+P22681	731	Y	('P43405',)	DSCTyEAMY	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	CBL	SYK	IntAct;NetPath;HPRD;BioGRID	interacts-with
+P22681	700	Y	('P43405',)	EDTEyMTPS	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	CBL	SYK	IntAct;NetPath;HPRD;BioGRID	interacts-with
+P24864	395	T	('P24941',)	SGLLtPPQS	CDK2	Cell division protein kinase 2	CCNE1	CDK2	BIND;IntAct;NetPath;DIP;HPRD;BioGRID	interacts-with
+P24864	399	S	('P24941',)	TPPQsGKKQ	CDK2	Cell division protein kinase 2	CCNE1	CDK2	BIND;IntAct;NetPath;DIP;HPRD;BioGRID	interacts-with
+P15391	531	Y	('P07948',)	DADSyENMD	Lyn	Tyrosine-protein kinase Lyn	CD19	LYN	NetPath;HPRD;BioGRID	interacts-with
+P15391	500	Y	('P07948',)	GSQSyEDMR	Lyn	Tyrosine-protein kinase Lyn	CD19	LYN	NetPath;HPRD;BioGRID	interacts-with
+P11912	199	Y	('P06241',)	DCSMyEDIS	Fyn	Proto-oncogene tyrosine-protein kinase Fyn	CD79A	FYN	NetPath;HPRD	interacts-with
+P11912	188	Y	('P07948',)	DENLyEGLN	Lyn	Tyrosine-protein kinase Lyn	CD79A	LYN	Pathbank;NetPath;HPRD	interacts-with
+P51452	138	Y	('P43403',)	LVIAyLMMR	ZAP70	Tyrosine-protein kinase ZAP-70	DUSP3	ZAP70	NetPath;HPRD	interacts-with
+P19419	389	S	('P27361',)	IAPRsPAKL	MAPK3	mitogen-activated protein kinase 3 (Erk1)	ELK1	MAPK3	BIND;Pathbank;IntAct;NetPath;HPRD;BioGRID	interacts-with
+P19419	383	S	('P27361',)	WSTLsPIAP	MAPK3	mitogen-activated protein kinase 3 (Erk1)	ELK1	MAPK3	BIND;Pathbank;IntAct;NetPath;HPRD;BioGRID	interacts-with
+O15117	651	Y	('P06241',)	GDEVyDDVD	Fyn	Proto-oncogene tyrosine-protein kinase Fyn	FYB1	FYN	IntAct;NetPath;HPRD;BioGRID	interacts-with
+O15117	595	Y	('P06241',)	DQEVyDDVA	Fyn	Proto-oncogene tyrosine-protein kinase Fyn	FYB1	FYN	IntAct;NetPath;HPRD;BioGRID	interacts-with
+Q13480	476	T	('P28482',)	YVPMtPGTF	MAPK1	mitogen-activated protein kinase 1 (Erk2)	GAB1	MAPK1	NetPath;HPRD	interacts-with
+Q9UQC2	623	S	('P27361',)	FQPSsPSPH	MAPK3	mitogen-activated protein kinase 3 (Erk1)	GAB2	MAPK3	IntAct;NetPath;HPRD;BioGRID	interacts-with
+Q9UQC2	614	Y	('P43403',)	GSVDyLALD	ZAP70	Tyrosine-protein kinase ZAP-70	GAB2	ZAP70	NetPath;HPRD;BioGRID	interacts-with
+P14784	384	Y	('P06239',)	VYFTyDPYS	Lck	lymphocyte-specific protein tyrosine kinase	IL2RB	LCK	NetPath;HPRD;BioGRID	interacts-with
+P14784	418	Y	('P06239',)	EDDAyCTFP	Lck	lymphocyte-specific protein tyrosine kinase	IL2RB	LCK	NetPath;HPRD;BioGRID	interacts-with
+P14784	387	Y	('P06239',)	TYDPySEED	Lck	lymphocyte-specific protein tyrosine kinase	IL2RB	LCK	NetPath;HPRD;BioGRID	interacts-with
+P14784	536	Y	('P06239',)	NTDAyLSLQ	Lck	lymphocyte-specific protein tyrosine kinase	IL2RB	LCK	NetPath;HPRD;BioGRID	interacts-with
+P14784	381	Y	('P06239',)	ACQVyFTYD	Lck	lymphocyte-specific protein tyrosine kinase	IL2RB	LCK	NetPath;HPRD;BioGRID	interacts-with
+P40189	890	T	('Q05655',)	ERFEtVGME	PKC_delta	Protein kinase C, delta type	IL6ST	PRKCD	BIND;NetPath;HPRD;BioGRID	interacts-with
+Q9UJU2	166	S	('Q9UBE8',)	DEHFsPGSH	NLK	Serine/threonine kinase NLK	LEF1	NLK	NetPath;HPRD;BioGRID	interacts-with
+Q9UJU2	155	T	('Q9UBE8',)	VHPLtPLIT	NLK	Serine/threonine kinase NLK	LEF1	NLK	NetPath;HPRD;BioGRID	interacts-with
+P25963	42	Y	('P12931',)	KDEEyEQMV	SRC	Proto-oncogene tyrosine-protein kinase Src	NFKBIA	SRC	IntAct;NetPath;HPRD;BioGRID	interacts-with
+P27986	607	Y	('P12931',)	TEDQySLVE	SRC	Proto-oncogene tyrosine-protein kinase Src	PIK3R1	SRC	IntAct;NetPath;DIP;HPRD;BioGRID	interacts-with
+O14939	252	T	('P17252',)	MCLEtGAIS	PKC_alpha	Protein kinase C, alpha type	PLD2	PRKCA	NetPath;HPRD;BioGRID	interacts-with
+O14939	243	S	('P17252',)	VVKDsFLLY	PKC_alpha	Protein kinase C, alpha type	PLD2	PRKCA	NetPath;HPRD;BioGRID	interacts-with
+Q04206	276	S	('O75582',)	LRRPsDREL	RSK-5	ribosomal protein S6 kinase, 90kDa, polypeptide 5 (MSK1)	RELA	RPS6KA5	IntAct;NetPath;HPRD;BioGRID	interacts-with
+P29353	427	Y	('P43403',)	DDPSyVNVQ	ZAP70	Tyrosine-protein kinase ZAP-70	SHC1	ZAP70	BIND;IntAct;NetPath;HPRD;BioGRID	interacts-with
+P29353	349	Y	('P43403',)	PDHQyYNDF	ZAP70	Tyrosine-protein kinase ZAP-70	SHC1	ZAP70	BIND;IntAct;NetPath;HPRD;BioGRID	interacts-with
+P29353	350	Y	('P43403',)	DHQYyNDFP	ZAP70	Tyrosine-protein kinase ZAP-70	SHC1	ZAP70	BIND;IntAct;NetPath;HPRD;BioGRID	interacts-with
+Q15796	464	S	('P36897',)	SVRCsSMS	TGFbR1	TGF-beta receptor type I	SMAD2	TGFBR1	BIND;IntAct;NetPath;BioGRID	interacts-with
+Q15796	465	S	('P36897',)	VRCSsMS	TGFbR1	TGF-beta receptor type I	SMAD2	TGFBR1	BIND;IntAct;NetPath;BioGRID	interacts-with
+Q15796	467	S	('P36897',)	CSSMs	TGFbR1	TGF-beta receptor type I	SMAD2	TGFBR1	BIND;IntAct;NetPath;BioGRID	interacts-with

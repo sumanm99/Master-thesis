@@ -1,0 +1,110 @@
+SubstrateID	Position	Code	KinaseID	Peptide	Kinases	Description	PARTICIPANT_A	PARTICIPANT_B	INTERACTION_DATA_SOURCE	INTERACTION_TYPE
+Q8WXE1	224	S	('P24941',)	VSHVsPRKN	CDK2	Cell division protein kinase 2	ATRIP	CDK2	Reactome	controls-state-change-of
+Q8WXE1	239	S	('P24941',)	PEACsPQFG	CDK2	Cell division protein kinase 2	ATRIP	CDK2	Reactome	controls-state-change-of
+O43521	69	S	('P28482',)	APPAsPGPF	MAPK1	mitogen-activated protein kinase 1 (Erk2)	BCL2L11	MAPK1	Reactome	controls-state-change-of
+O43521	69	S	('P27361',)	APPAsPGPF	MAPK3	mitogen-activated protein kinase 3 (Erk1)	BCL2L11	MAPK3	Reactome	controls-state-change-of
+P38398	1423	S	('Q13315',)	EQHGsQPSN	ATM	Ataxia telangiectasia mutated	BRCA1	ATM	CTD;Reactome	controls-expression-of
+P38398	1457	S	('Q13315',)	AVLTsQKSS	ATM	Ataxia telangiectasia mutated	BRCA1	ATM	CTD;Reactome	controls-expression-of
+P38398	1330	S	('Q13315',)	HQSEsQGVG	ATM	Ataxia telangiectasia mutated	BRCA1	ATM	CTD;Reactome	controls-expression-of
+P38398	1466	S	('Q13315',)	EYPIsQNPE	ATM	Ataxia telangiectasia mutated	BRCA1	ATM	CTD;Reactome	controls-expression-of
+P38398	1497	S	('Q13315',)	VERSsPSKC	ATM	Ataxia telangiectasia mutated	BRCA1	ATM	CTD;Reactome	controls-expression-of
+P38398	1387	S	('Q13315',)	SGLSsQSDI	ATM	Ataxia telangiectasia mutated	BRCA1	ATM	CTD;Reactome	controls-expression-of
+P38398	1524	S	('Q13315',)	RNYPsQEEL	ATM	Ataxia telangiectasia mutated	BRCA1	ATM	CTD;Reactome	controls-expression-of
+P38398	1423	S	('Q13535',)	EQHGsQPSN	ATR	Ataxia telangiectasia and Rad3-related protein (FRAP-related protein 1)	BRCA1	ATR	Reactome	controls-expression-of
+P38398	1457	S	('Q13535',)	AVLTsQKSS	ATR	Ataxia telangiectasia and Rad3-related protein (FRAP-related protein 1)	BRCA1	ATR	Reactome	controls-expression-of
+P38398	1524	S	('Q13535',)	RNYPsQEEL	ATR	Ataxia telangiectasia and Rad3-related protein (FRAP-related protein 1)	BRCA1	ATR	Reactome	controls-expression-of
+P38398	988	S	('O96017',)	FPIKsFVKT	CHK2	CHK2 checkpoint homolog	BRCA1	CHEK2	pid;Reactome	controls-state-change-of
+P14635	128	S	('P53350',)	TASPsPMET	PLK1	Polo like kinase 1	CCNB1	PLK1	Reactome	controls-state-change-of
+P14635	147	S	('P53350',)	CQAFsDVIL	PLK1	Polo like kinase 1	CCNB1	PLK1	Reactome	controls-state-change-of
+P14635	133	S	('P53350',)	PMETsGCAP	PLK1	Polo like kinase 1	CCNB1	PLK1	Reactome	controls-state-change-of
+P14635	126	S	('P53350',)	VDTAsPSPM	PLK1	Polo like kinase 1	CCNB1	PLK1	Reactome	controls-state-change-of
+P20963	111	Y	('P06241',)	QEGLyNELQ	Fyn	Proto-oncogene tyrosine-protein kinase Fyn	CD247	FYN	Reactome	controls-state-change-of
+P20963	123	Y	('P06241',)	MAEAySEIG	Fyn	Proto-oncogene tyrosine-protein kinase Fyn	CD247	FYN	Reactome	controls-state-change-of
+P10747	209	Y	('Q08881',)	HYQPyAPPR	ITK	Tyrosine-protein kinase ITK/TSK	CD28	ITK	pid;Reactome	controls-state-change-of
+P10747	218	Y	('Q08881',)	DFAAyRS	ITK	Tyrosine-protein kinase ITK/TSK	CD28	ITK	pid;Reactome	controls-state-change-of
+P10747	191	Y	('Q08881',)	LHSDyMNMT	ITK	Tyrosine-protein kinase ITK/TSK	CD28	ITK	pid;Reactome	controls-state-change-of
+P30304	18	S	('P06493',)	LFACsPPPA	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2	CDC25A	CDK1	Reactome	controls-phosphorylation-of
+P30304	116	S	('P06493',)	LLGCsPALK	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2	CDC25A	CDK1	Reactome	controls-phosphorylation-of
+P30305	160	S	('P06493',)	LLGHsPVLR	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2	CDC25B	CDK1	pid;Reactome	controls-phosphorylation-of
+P30307	214	S	('P06493',)	GLYRsPSMP	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2	CDC25C	CDK1	Reactome	controls-phosphorylation-of
+P30307	67	T	('P06493',)	LSGGtPKRC	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2	CDC25C	CDK1	Reactome	controls-phosphorylation-of
+P30307	48	T	('P06493',)	DVPRtPVGK	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2	CDC25C	CDK1	Reactome	controls-phosphorylation-of
+P30307	122	S	('P06493',)	LMKCsPAQL	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2	CDC25C	CDK1	Reactome	controls-phosphorylation-of
+P30307	168	S	('P06493',)	KYLGsPITT	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2	CDC25C	CDK1	Reactome	controls-phosphorylation-of
+P30307	130	T	('P06493',)	LLCStPNGL	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2	CDC25C	CDK1	Reactome	controls-phosphorylation-of
+P38936	130	S	('P24941',)	QAEGsPGGP	CDK2	Cell division protein kinase 2	CDKN1A	CDK2	pid;Reactome	controls-state-change-of
+P46527	187	T	('P24941',)	SVEQtPKKP	CDK2	Cell division protein kinase 2	CDKN1B	CDK2	Reactome	controls-state-change-of
+P35222	654	Y	('P12931',)	GVATyAAAV	SRC	Proto-oncogene tyrosine-protein kinase Src	CTNNB1	SRC	pid;Reactome	controls-phosphorylation-of
+P35222	86	Y	('P12931',)	IDGQyAMTR	SRC	Proto-oncogene tyrosine-protein kinase Src	CTNNB1	SRC	pid;Reactome	controls-phosphorylation-of
+Q9BY84	446	S	('P28482',)	LCQFsPVQE	MAPK1	mitogen-activated protein kinase 1 (Erk2)	DUSP16	MAPK1	Reactome	controls-phosphorylation-of
+P28562	296	S	('P28482',)	RSIIsPNFS	MAPK1	mitogen-activated protein kinase 1 (Erk2)	DUSP1	MAPK1	pid;Reactome	controls-phosphorylation-of
+P28562	323	S	('P28482',)	AEAGsPAMA	MAPK1	mitogen-activated protein kinase 1 (Erk2)	DUSP1	MAPK1	pid;Reactome	controls-phosphorylation-of
+P28562	364	S	('P27361',)	PITTsPSC	MAPK3	mitogen-activated protein kinase 3 (Erk1)	DUSP1	MAPK3	pid;Reactome	controls-phosphorylation-of
+Q16828	159	S	('P28482',)	CSSSsPPLP	MAPK1	mitogen-activated protein kinase 1 (Erk2)	DUSP6	MAPK1	pid;Reactome	controls-phosphorylation-of
+Q16828	159	S	('P27361',)	CSSSsPPLP	MAPK3	mitogen-activated protein kinase 3 (Erk1)	DUSP6	MAPK3	pid;Reactome	controls-phosphorylation-of
+Q01094	332	S	('P06493',)	ATIVsPPPS	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2	E2F1	CDK1	pid;MSigDB;Reactome	controls-expression-of
+Q01094	337	S	('P06493',)	PPPSsPPSS	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2	E2F1	CDK1	pid;MSigDB;Reactome	controls-expression-of
+P19235	368	Y	('O60674',)	AQDTyLVLD	JAK2	Janus protein-tyrosine kinase 2	EPOR	JAK2	pid;Reactome	controls-state-change-of
+P03372	167	S	('P31751',)	ERLAsTNDK	PKB_beta	v-akt murine thymoma viral oncogene homolog 2	ESR1	AKT2	Reactome	controls-state-change-of
+P03372	537	Y	('P06239',)	VVPLyDLLL	Lck	lymphocyte-specific protein tyrosine kinase	ESR1	LCK	Reactome	controls-state-change-of
+P03372	537	Y	('P12931',)	VVPLyDLLL	SRC	Proto-oncogene tyrosine-protein kinase Src	ESR1	SRC	CTD;pid;Reactome	controls-state-change-of
+Q9BXW9	1257	S	('Q13315',)	TAADsQQIH	ATM	Ataxia telangiectasia mutated	FANCD2	ATM	Reactome	controls-expression-of
+Q9BXW9	222	S	('Q13315',)	ILGDsQHAD	ATM	Ataxia telangiectasia mutated	FANCD2	ATM	Reactome	controls-expression-of
+P12318	288	Y	('P06241',)	ADGGyMTLN	Fyn	Proto-oncogene tyrosine-protein kinase Fyn	FCGR2A	FYN	Reactome	controls-state-change-of
+P12318	281	Y	('P06241',)	TNNDyETAD	Fyn	Proto-oncogene tyrosine-protein kinase Fyn	FCGR2A	FYN	Reactome	controls-state-change-of
+P12318	304	Y	('P06241',)	DKNIyLTLP	Fyn	Proto-oncogene tyrosine-protein kinase Fyn	FCGR2A	FYN	Reactome	controls-state-change-of
+P12318	288	Y	('P43405',)	ADGGyMTLN	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	FCGR2A	SYK	Reactome	controls-state-change-of
+P12318	281	Y	('P43405',)	TNNDyETAD	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	FCGR2A	SYK	Reactome	controls-state-change-of
+P12318	304	Y	('P43405',)	DKNIyLTLP	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	FCGR2A	SYK	Reactome	controls-state-change-of
+Q13480	627	Y	('P00533',)	KQVEyLDLD	EGFR	Epidermal growth factor receptor (Receptor tyrosine-protein kinase ErbB-1)	GAB1	EGFR	Reactome	controls-state-change-of
+Q13480	589	Y	('P00533',)	SEENyVPMN	EGFR	Epidermal growth factor receptor (Receptor tyrosine-protein kinase ErbB-1)	GAB1	EGFR	Reactome	controls-state-change-of
+Q13480	285	Y	('P00533',)	DGELyVFNT	EGFR	Epidermal growth factor receptor (Receptor tyrosine-protein kinase ErbB-1)	GAB1	EGFR	Reactome	controls-state-change-of
+Q13480	307	Y	('P00533',)	VSISyDIPP	EGFR	Epidermal growth factor receptor (Receptor tyrosine-protein kinase ErbB-1)	GAB1	EGFR	Reactome	controls-state-change-of
+Q13480	659	Y	('P00533',)	ERVDyVVVD	EGFR	Epidermal growth factor receptor (Receptor tyrosine-protein kinase ErbB-1)	GAB1	EGFR	Reactome	controls-state-change-of
+Q13480	373	Y	('P00533',)	TDSSyCIPT	EGFR	Epidermal growth factor receptor (Receptor tyrosine-protein kinase ErbB-1)	GAB1	EGFR	Reactome	controls-state-change-of
+Q13480	406	Y	('P00533',)	SQDCyDIPR	EGFR	Epidermal growth factor receptor (Receptor tyrosine-protein kinase ErbB-1)	GAB1	EGFR	Reactome	controls-state-change-of
+Q13480	472	Y	('P00533',)	QEANyVPMT	EGFR	Epidermal growth factor receptor (Receptor tyrosine-protein kinase ErbB-1)	GAB1	EGFR	Reactome	controls-state-change-of
+Q13480	447	Y	('P00533',)	LDENyVPMN	EGFR	Epidermal growth factor receptor (Receptor tyrosine-protein kinase ErbB-1)	GAB1	EGFR	Reactome	controls-state-change-of
+P10912	332	Y	('O60674',)	IHDSyKPEF	JAK2	Janus protein-tyrosine kinase 2	GHR	JAK2	Reactome	controls-state-change-of
+P10912	487	Y	('O60674',)	NIDFyAQVS	JAK2	Janus protein-tyrosine kinase 2	GHR	JAK2	Reactome	controls-state-change-of
+P19086	16	S	('P17252',)	AARRsRRID	PKC_alpha	Protein kinase C, alpha type	GNAZ	PRKACA	Reactome	controls-state-change-of
+P19086	27	S	('P17252',)	LRSEsQRQR	PKC_alpha	Protein kinase C, alpha type	GNAZ	PRKACA	Reactome	controls-state-change-of
+P62993	209	Y	('P00533',)	FPRNyVTPV	EGFR	Epidermal growth factor receptor (Receptor tyrosine-protein kinase ErbB-1)	GRB2	EGFR	Reactome	controls-state-change-of
+P42261	849	S	('P17252',)	IPQQsINEA	PKC_alpha	Protein kinase C, alpha type	GRIA1	PRKCA	Reactome	controls-state-change-of
+Q13224	1303	S	('P17252',)	RRQHsYDTF	PKC_alpha	Protein kinase C, alpha type	GRIN2B	PRKCA	Reactome	controls-state-change-of
+Q13224	1323	S	('P17252',)	PRSVsLKDK	PKC_alpha	Protein kinase C, alpha type	GRIN2B	PRKCA	Reactome	controls-state-change-of
+O14964	329	Y	('P00533',)	ELARyLNRN	EGFR	Epidermal growth factor receptor (Receptor tyrosine-protein kinase ErbB-1)	HGS	EGFR	pid;Reactome	controls-state-change-of
+P17181	481	Y	('P29597',)	SIDEyFSEQ	Tyk2	Non-receptor tyrosine-protein kinase TYK2	IFNAR1	TYK2	Reactome	controls-state-change-of
+P17181	466	Y	('P29597',)	RCINyVFFP	Tyk2	Non-receptor tyrosine-protein kinase TYK2	IFNAR1	TYK2	Reactome	controls-state-change-of
+P15260	457	Y	('P23458',)	TSFGyDKPH	JAK1	Janus protein-tyrosine kinase 1	IFNGR1	JAK1	Reactome	controls-state-change-of
+Q9Y6K9	43	S	('O14920',)	LHLPsEQGA	IKK_beta	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta	IKBKG	IKBKB	Reactome	controls-state-change-of
+Q9Y6K9	376	S	('O14920',)	PAYLsSPLA	IKK_beta	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta	IKBKG	IKBKB	Reactome	controls-state-change-of
+Q9Y6K9	31	S	('O14920',)	LGEEsPLGK	IKK_beta	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta	IKBKG	IKBKB	Reactome	controls-state-change-of
+Q13651	446	Y	('P29597',)	AFQGyLRQT	Tyk2	Non-receptor tyrosine-protein kinase TYK2	IL10RA	TYK2	Reactome	controls-state-change-of
+Q13651	496	Y	('P29597',)	LAKGyLKQD	Tyk2	Non-receptor tyrosine-protein kinase TYK2	IL10RA	TYK2	Reactome	controls-state-change-of
+Q14653	385	S	('Q9UHD2',)	VGGAsSLEN	TBK1	TANK-binding kinase 1	IRF3	TBK1	Reactome	controls-state-change-of
+Q14653	386	S	('Q9UHD2',)	GGASsLENT	TBK1	TANK-binding kinase 1	IRF3	TBK1	Reactome	controls-state-change-of
+P05106	785	Y	('P12931',)	TNITyRGT	SRC	Proto-oncogene tyrosine-protein kinase Src	ITGB3	SRC	pid;Reactome	controls-state-change-of
+P05106	773	Y	('P12931',)	NNPLyKEAT	SRC	Proto-oncogene tyrosine-protein kinase Src	ITGB3	SRC	pid;Reactome	controls-state-change-of
+P05106	785	Y	('P43405',)	TNITyRGT	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	ITGB3	SYK	pid;Reactome	controls-state-change-of
+Q13094	145	Y	('P42681',)	DDADyEPPP	TXK	Syn= Rlk	LCP2	TXK	Reactome	controls-state-change-of
+P49959	264	S	('Q13315',)	LFYIsQPGS	ATM	Ataxia telangiectasia mutated	MRE11	ATM	Reactome	controls-state-change-of
+O60934	397	S	('Q13315',)	FRMLsQDAP	ATM	Ataxia telangiectasia mutated	NBN	ATM	Reactome	controls-state-change-of
+O60934	278	S	('Q13315',)	GITNsQTLI	ATM	Ataxia telangiectasia mutated	NBN	ATM	Reactome	controls-state-change-of
+O60934	343	S	('Q13315',)	GPSLsQGVS	ATM	Ataxia telangiectasia mutated	NBN	ATM	Reactome	controls-state-change-of
+P19174	1248	S	('P17252',)	AREGsFESR	PKC_alpha	Protein kinase C, alpha type	PLCG1	PRKCA	PANTHER;pid;Reactome	controls-state-change-of
+P16885	1217	Y	('Q06187',)	QLFLyDTHQ	BTK	Bruton`s tyrosine kinase (AGMX1) (ATK) (BPK)	PLCG2	BTK	Reactome	controls-state-change-of
+P16885	1197	Y	('Q06187',)	EEELySSCR	BTK	Bruton`s tyrosine kinase (AGMX1) (ATK) (BPK)	PLCG2	BTK	Reactome	controls-state-change-of
+P16885	753	Y	('Q06187',)	INSLyDVSR	BTK	Bruton`s tyrosine kinase (AGMX1) (ATK) (BPK)	PLCG2	BTK	Reactome	controls-state-change-of
+P16885	759	Y	('Q06187',)	VSRMyVDPS	BTK	Bruton`s tyrosine kinase (AGMX1) (ATK) (BPK)	PLCG2	BTK	Reactome	controls-state-change-of
+P29350	536	Y	('P06239',)	QESEyGNIT	Lck	lymphocyte-specific protein tyrosine kinase	PTPN6	LCK	pid;Reactome	controls-state-change-of
+P29350	564	Y	('P06239',)	KEDVyENLH	Lck	lymphocyte-specific protein tyrosine kinase	PTPN6	LCK	pid;Reactome	controls-state-change-of
+Q92878	635	S	('Q13315',)	DVCGsQDFE	ATM	Ataxia telangiectasia mutated	RAD50	ATM	Reactome	controls-state-change-of
+P15927	21	T	('Q13315',)	AGGYtQSPG	ATM	Ataxia telangiectasia mutated	RPA2	ATM	Reactome	controls-state-change-of
+P29353	427	Y	('P43405',)	DDPSyVNVQ	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	SHC1	SYK	Reactome	controls-state-change-of
+P29353	349	Y	('P43405',)	PDHQyYNDF	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	SHC1	SYK	Reactome	controls-state-change-of
+P29353	350	Y	('P43405',)	DHQYyNDFP	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	SHC1	SYK	Reactome	controls-state-change-of
+Q13507	712	S	('P17252',)	SLVPsPKSF	PKC_alpha	Protein kinase C, alpha type	TRPC3	PRKCA	pid;Reactome	controls-state-change-of
+Q9H1D0	702	T	('P17252',)	LRQGtLRRD	PKC_alpha	Protein kinase C, alpha type	TRPV6	PRKCA	pid;Reactome	controls-state-change-of
+O43914	91	Y	('P43405',)	TESPyQELQ	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	TYROBP	SYK	Reactome	controls-state-change-of
+O43914	102	Y	('P43405',)	RSDVySDLN	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	TYROBP	SYK	Reactome	controls-state-change-of

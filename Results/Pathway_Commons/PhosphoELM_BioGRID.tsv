@@ -1,0 +1,334 @@
+SubstrateID	Position	Code	KinaseID	Peptide	Kinases	Description	PARTICIPANT_A	PARTICIPANT_B	INTERACTION_DATA_SOURCE	INTERACTION_TYPE
+Q13444	715	Y	('P08631',)	LGASyWYRA	HCK	Tyrosine-protein kinase HCK	ADAM15	HCK	IntAct;HPRD;BioGRID	interacts-with
+Q13444	735	Y	('P12931',)	PTCQyRAAQ	SRC	Proto-oncogene tyrosine-protein kinase Src	ADAM15	SRC	IntAct;HPRD;BioGRID	interacts-with
+Q13444	715	Y	('P12931',)	LGASyWYRA	SRC	Proto-oncogene tyrosine-protein kinase Src	ADAM15	SRC	IntAct;HPRD;BioGRID	interacts-with
+P07550	384	T	('P25098',)	DLPGtEDFV	GRK-2	G protein-coupled receptor kinase 2 = beta-ARK1 (beta-adrenergic receptor kinase 1)	ADRB2	GRK2	BioGRID	interacts-with
+P07550	396	S	('P25098',)	GTVPsDNID	GRK-2	G protein-coupled receptor kinase 2 = beta-ARK1 (beta-adrenergic receptor kinase 1)	ADRB2	GRK2	BioGRID	interacts-with
+P07550	401	S	('P25098',)	DNIDsQGRN	GRK-2	G protein-coupled receptor kinase 2 = beta-ARK1 (beta-adrenergic receptor kinase 1)	ADRB2	GRK2	BioGRID	interacts-with
+P07550	407	S	('P25098',)	GRNCsTNDS	GRK-2	G protein-coupled receptor kinase 2 = beta-ARK1 (beta-adrenergic receptor kinase 1)	ADRB2	GRK2	BioGRID	interacts-with
+P07550	384	T	('P34947',)	DLPGtEDFV	GRK-5	G protein-coupled receptor kinase 5	ADRB2	GRK5	HPRD;BioGRID	interacts-with
+P07550	393	T	('P34947',)	GHQGtVPSD	GRK-5	G protein-coupled receptor kinase 5	ADRB2	GRK5	HPRD;BioGRID	interacts-with
+P07550	396	S	('P34947',)	GTVPsDNID	GRK-5	G protein-coupled receptor kinase 5	ADRB2	GRK5	HPRD;BioGRID	interacts-with
+P07550	401	S	('P34947',)	DNIDsQGRN	GRK-5	G protein-coupled receptor kinase 5	ADRB2	GRK5	HPRD;BioGRID	interacts-with
+P07550	407	S	('P34947',)	GRNCsTNDS	GRK-5	G protein-coupled receptor kinase 5	ADRB2	GRK5	HPRD;BioGRID	interacts-with
+P07550	411	S	('P34947',)	STNDsLL	GRK-5	G protein-coupled receptor kinase 5	ADRB2	GRK5	HPRD;BioGRID	interacts-with
+P09917	272	S	('P49137',)	ERQLsLEQE	MAPKAPK2	MAP kinase-activated protein kinase 2	ALOX5	MAPKAPK2	IntAct;HPRD;BioGRID	interacts-with
+P49418	293	S	('Q13627',)	ARPRsPSQT	DYRK1A	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 1A	AMPH	DYRK1A	BioGRID	interacts-with
+P04083	21	Y	('P00533',)	EEQEyVQTV	EGFR	Epidermal growth factor receptor (Receptor tyrosine-protein kinase ErbB-1)	ANXA1	EGFR	IntAct;HPRD;BioGRID	interacts-with
+P25054	1392	S	('P49674',)	TSVSsLDSF	CK1_epsilon	casein kinase 1, epsilon	APC	CSNK1E	IntAct;HPRD;BioGRID	interacts-with
+P25054	1279	S	('P49674',)	SSLSsLSSA	CK1_epsilon	casein kinase 1, epsilon	APC	CSNK1E	IntAct;HPRD;BioGRID	interacts-with
+Q06481	736	T	('P45983',)	DPMLtPEER	MAPK8	mitogen-activated protein kinase 8 (JNK1)	APLP2	MAPK8	BioGRID	interacts-with
+P05067	743	T	('P49841',)	DAAVtPEER	GSK-3_beta	Glycogen synthase kinase-3 beta	APP	GSK3B	HPRD;BioGRID	interacts-with
+P52565	174	S	('Q13153',)	LARGsYSIK	PAK1	Serine/threonine-protein kinase PAK1	ARHGDIA	PAK1	BIND;BioGRID	interacts-with
+P52565	101	S	('Q13153',)	FKKQsFVLK	PAK1	Serine/threonine-protein kinase PAK1	ARHGDIA	PAK1	BIND;BioGRID	interacts-with
+Q92974	885	S	('Q13153',)	PRRRsSPQA	PAK1	Serine/threonine-protein kinase PAK1	ARHGEF2	PAK1	BioGRID	interacts-with
+P49407	54	Y	('P12931',)	ERRVyVTLT	SRC	Proto-oncogene tyrosine-protein kinase Src	ARRB1	SRC	IntAct;DIP;BioGRID	interacts-with
+P32121	382	T	('P68400',)	TNYAtDDDI	CK2_alpha	casein kinase 2, alpha 1 polypeptide	ARRB2	CSNK2A1	IntAct;HPRD;BioGRID	interacts-with
+P15336	480	S	('Q13315',)	MAPSsQSQP	ATM	Ataxia telangiectasia mutated	ATF2	ATM	BIND;BioGRID	interacts-with
+P15336	472	S	('Q13315',)	EPALsQIVM	ATM	Ataxia telangiectasia mutated	ATF2	ATM	BIND;BioGRID	interacts-with
+P15336	53	T	('Q16539',)	DQTPtPTRF	MAPK14	mitogen-activated protein kinase 14 (p38alpha)	ATF2	MAPK14	BIND;IntAct;HPRD;BioGRID	interacts-with
+P15336	53	T	('P45983',)	DQTPtPTRF	MAPK8	mitogen-activated protein kinase 8 (JNK1)	ATF2	MAPK8	BIND;IntAct;HPRD;BioGRID	interacts-with
+P54252	256	S	('P49841',)	AIQLsMQGS	GSK-3_beta	Glycogen synthase kinase-3 beta	ATXN3	GSK3B	IntAct;BioGRID	interacts-with
+P56817	498	S	('P48730',)	ADDIsLLK	CK1_delta	casein kinase 1, delta	BACE1	CSNK1D	IntAct;HPRD;BioGRID	interacts-with
+Q92934	99	S	('Q13153',)	GRSRsAPPN	PAK1	Serine/threonine-protein kinase PAK1	BAD	PAK1	HPRD;BioGRID	interacts-with
+Q92934	75	S	('Q15418',)	SRHSsYPAG	RSK-1	Ribosomal protein S6 kinase alpha 1	BAD	RPS6KA1	HPRD;BioGRID	interacts-with
+Q92934	118	S	('Q15418',)	LRRMsDEFV	RSK-1	Ribosomal protein S6 kinase alpha 1	BAD	RPS6KA1	HPRD;BioGRID	interacts-with
+P56945	653	Y	('P12931',)	PDGQyENSE	SRC	Proto-oncogene tyrosine-protein kinase Src	BCAR1	SRC	BIND;IntAct;HPRD;BioGRID	interacts-with
+O43521	69	S	('P28482',)	APPAsPGPF	MAPK1	mitogen-activated protein kinase 1 (Erk2)	BCL2L11	MAPK1	BioGRID	interacts-with
+O43521	69	S	('P27361',)	APPAsPGPF	MAPK3	mitogen-activated protein kinase 3 (Erk1)	BCL2L11	MAPK3	BioGRID	interacts-with
+O43521-2	44	S	('P45983',)	PQDRsPAPM	MAPK8	mitogen-activated protein kinase 8 (JNK1)	BCL2L11	MAPK8	HPRD;BioGRID	interacts-with
+Q07817	62	S	('P45983',)	HLADsPAVN	MAPK8	mitogen-activated protein kinase 8 (JNK1)	BCL2L1	MAPK8	IntAct;HPRD;BioGRID	interacts-with
+Q07817	115	T	('P45983',)	QLHItPGTA	MAPK8	mitogen-activated protein kinase 8 (JNK1)	BCL2L1	MAPK8	IntAct;HPRD;BioGRID	interacts-with
+Q07817	47	T	('P45983',)	SEMEtPSAI	MAPK8	mitogen-activated protein kinase 8 (JNK1)	BCL2L1	MAPK8	IntAct;HPRD;BioGRID	interacts-with
+P10415	70	S	('P45983',)	VARTsPLQT	MAPK8	mitogen-activated protein kinase 8 (JNK1)	BCL2	MAPK8	IntAct;HPRD;BioGRID	interacts-with
+P10415	87	S	('P45983',)	GPALsPVPP	MAPK8	mitogen-activated protein kinase 8 (JNK1)	BCL2	MAPK8	IntAct;HPRD;BioGRID	interacts-with
+Q14457	119	T	('P53355',)	RLKVtGDLF	DAPK1	death-associated protein kinase 1	BECN1	DAPK1	IntAct;BioGRID	interacts-with
+Q8WV28	72	Y	('P43405',)	FDSDyENPD	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	BLNK	SYK	Pathbank;IntAct;HPRD;BioGRID	interacts-with
+Q8WV28	96	Y	('P43405',)	ADDSyEPPP	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	BLNK	SYK	Pathbank;IntAct;HPRD;BioGRID	interacts-with
+Q8WV28	178	Y	('P43405',)	DEADyVVPV	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	BLNK	SYK	Pathbank;IntAct;HPRD;BioGRID	interacts-with
+Q8WV28	84	Y	('P43405',)	DSEMyVMPA	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	BLNK	SYK	Pathbank;IntAct;HPRD;BioGRID	interacts-with
+P38398	1497	S	('P24941',)	VERSsPSKC	CDK2	Cell division protein kinase 2	BRCA1	CDK2	BIND;HPRD;BioGRID	interacts-with
+P38398	988	S	('O96017',)	FPIKsFVKT	CHK2	CHK2 checkpoint homolog	BRCA1	CHEK2	BIND;IntAct;HPRD;BioGRID	interacts-with
+P51587	193	S	('P53350',)	DPDMsWSSS	PLK1	Polo like kinase 1	BRCA2	PLK1	HPRD;BioGRID	interacts-with
+P17655	50	S	('P28482',)	FQDPsFPAI	MAPK1	mitogen-activated protein kinase 1 (Erk2)	CAPN2	MAPK1	BioGRID	interacts-with
+P42574	150	S	('Q16539',)	DRCRsLTGK	MAPK14	mitogen-activated protein kinase 14 (p38alpha)	CASP3	MAPK14	BioGRID	interacts-with
+Q14790	347	S	('Q16539',)	LKCPsLAGK	MAPK14	mitogen-activated protein kinase 14 (p38alpha)	CASP8	MAPK14	BioGRID	interacts-with
+P55211	125	T	('P28482',)	LRPEtPRPV	MAPK1	mitogen-activated protein kinase 1 (Erk2)	CASP9	MAPK1	NetPath;HPRD;BioGRID	interacts-with
+P41180	888	T	('P17252',)	AARAtLRRS	PKC_alpha	Protein kinase C, alpha type	CASR	PRKCA	HPRD;BioGRID	interacts-with
+Q03135	14	Y	('P06241',)	EGHLyTVPI	Fyn	Proto-oncogene tyrosine-protein kinase Fyn	CAV1	FYN	HPRD;BioGRID	interacts-with
+Q03135	14	Y	('P12931',)	EGHLyTVPI	SRC	Proto-oncogene tyrosine-protein kinase Src	CAV1	SRC	IntAct;NetPath;HPRD;BioGRID	interacts-with
+P51636	19	Y	('P12931',)	DDDSySHHS	SRC	Proto-oncogene tyrosine-protein kinase Src	CAV2	SRC	NetPath;HPRD;BioGRID	interacts-with
+P22681	774	Y	('P06241',)	EDDGyDVPK	Fyn	Proto-oncogene tyrosine-protein kinase Fyn	CBL	FYN	BIND;IntAct;NetPath;HPRD;BioGRID	interacts-with
+P22681	731	Y	('P06241',)	DSCTyEAMY	Fyn	Proto-oncogene tyrosine-protein kinase Fyn	CBL	FYN	BIND;IntAct;NetPath;HPRD;BioGRID	interacts-with
+P22681	700	Y	('P06241',)	EDTEyMTPS	Fyn	Proto-oncogene tyrosine-protein kinase Fyn	CBL	FYN	BIND;IntAct;NetPath;HPRD;BioGRID	interacts-with
+P22681	774	Y	('P43405',)	EDDGyDVPK	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	CBL	SYK	IntAct;NetPath;HPRD;BioGRID	interacts-with
+P22681	731	Y	('P43405',)	DSCTyEAMY	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	CBL	SYK	IntAct;NetPath;HPRD;BioGRID	interacts-with
+P22681	700	Y	('P43405',)	EDTEyMTPS	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	CBL	SYK	IntAct;NetPath;HPRD;BioGRID	interacts-with
+P22681	774	Y	('P07947',)	EDDGyDVPK	Yes	Proto-oncogene tyrosine-protein kinase Yes	CBL	YES1	BioGRID	interacts-with
+P22681	731	Y	('P07947',)	DSCTyEAMY	Yes	Proto-oncogene tyrosine-protein kinase Yes	CBL	YES1	BioGRID	interacts-with
+P22681	700	Y	('P07947',)	EDTEyMTPS	Yes	Proto-oncogene tyrosine-protein kinase Yes	CBL	YES1	BioGRID	interacts-with
+O00257	495	T	('Q9H2X6',)	VKPEtPASA	HIPK2	homeodomain interacting protein kinase 2	CBX4	HIPK2	BioGRID	interacts-with
+P24864	395	T	('P24941',)	SGLLtPPQS	CDK2	Cell division protein kinase 2	CCNE1	CDK2	BIND;IntAct;NetPath;DIP;HPRD;BioGRID	interacts-with
+P24864	399	S	('P24941',)	TPPQsGKKQ	CDK2	Cell division protein kinase 2	CCNE1	CDK2	BIND;IntAct;NetPath;DIP;HPRD;BioGRID	interacts-with
+P24864	395	T	('P49841',)	SGLLtPPQS	GSK-3_beta	Glycogen synthase kinase-3 beta	CCNE1	GSK3B	IntAct;HPRD;BioGRID	interacts-with
+P15391	531	Y	('P07948',)	DADSyENMD	Lyn	Tyrosine-protein kinase Lyn	CD19	LYN	NetPath;HPRD;BioGRID	interacts-with
+P15391	500	Y	('P07948',)	GSQSyEDMR	Lyn	Tyrosine-protein kinase Lyn	CD19	LYN	NetPath;HPRD;BioGRID	interacts-with
+P20963	111	Y	('P06241',)	QEGLyNELQ	Fyn	Proto-oncogene tyrosine-protein kinase Fyn	CD247	FYN	BIND;Pathbank;HPRD;BioGRID	interacts-with
+P20963	123	Y	('P06241',)	MAEAySEIG	Fyn	Proto-oncogene tyrosine-protein kinase Fyn	CD247	FYN	BIND;Pathbank;HPRD;BioGRID	interacts-with
+P06127	482	S	('P68400',)	QPDNsSDSD	CK2_alpha	casein kinase 2, alpha 1 polypeptide	CD5	CSNK2A1	HPRD;BioGRID	interacts-with
+P06127	483	S	('P68400',)	PDNSsDSDY	CK2_alpha	casein kinase 2, alpha 1 polypeptide	CD5	CSNK2A1	HPRD;BioGRID	interacts-with
+P06127	485	S	('P68400',)	NSSDsDYDL	CK2_alpha	casein kinase 2, alpha 1 polypeptide	CD5	CSNK2A1	HPRD;BioGRID	interacts-with
+P06127	453	Y	('P06239',)	VDNEySQPP	Lck	lymphocyte-specific protein tyrosine kinase	CD5	LCK	DIP;HPRD;BioGRID	interacts-with
+P06127	487	Y	('P06239',)	SDSDyDLHG	Lck	lymphocyte-specific protein tyrosine kinase	CD5	LCK	DIP;HPRD;BioGRID	interacts-with
+P30304	124	S	('O14757',)	KRSHsDSLD	CHK1	Serine/threonine-protein kinase Chk1	CDC25A	CHEK1	BIND;IntAct;DIP;HPRD;BioGRID	interacts-with
+P30304	76	S	('O14757',)	QRMGsSEST	CHK1	Serine/threonine-protein kinase Chk1	CDC25A	CHEK1	BIND;IntAct;DIP;HPRD;BioGRID	interacts-with
+P30304	279	S	('O14757',)	RPERsQEES	CHK1	Serine/threonine-protein kinase Chk1	CDC25A	CHEK1	BIND;IntAct;DIP;HPRD;BioGRID	interacts-with
+P30304	293	S	('O14757',)	KRRKsMSGA	CHK1	Serine/threonine-protein kinase Chk1	CDC25A	CHEK1	BIND;IntAct;DIP;HPRD;BioGRID	interacts-with
+P30304	507	T	('O14757',)	TKSRtWAGE	CHK1	Serine/threonine-protein kinase Chk1	CDC25A	CHEK1	BIND;IntAct;DIP;HPRD;BioGRID	interacts-with
+P30304	178	S	('O14757',)	QRQNsAPAR	CHK1	Serine/threonine-protein kinase Chk1	CDC25A	CHEK1	BIND;IntAct;DIP;HPRD;BioGRID	interacts-with
+P30304	124	S	('O96017',)	KRSHsDSLD	CHK2	CHK2 checkpoint homolog	CDC25A	CHEK2	IntAct;HPRD;BioGRID	interacts-with
+P30304	279	S	('O96017',)	RPERsQEES	CHK2	CHK2 checkpoint homolog	CDC25A	CHEK2	IntAct;HPRD;BioGRID	interacts-with
+P30304	293	S	('O96017',)	KRRKsMSGA	CHK2	CHK2 checkpoint homolog	CDC25A	CHEK2	IntAct;HPRD;BioGRID	interacts-with
+P30304	178	S	('O96017',)	QRQNsAPAR	CHK2	CHK2 checkpoint homolog	CDC25A	CHEK2	IntAct;HPRD;BioGRID	interacts-with
+P30304	116	S	('P11309',)	LLGCsPALK	PIM-1	pim-1 oncogene	CDC25A	PIM1	HPRD;BioGRID	interacts-with
+P30305	160	S	('P06493',)	LLGHsPVLR	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2	CDC25B	CDK1	HPRD;BioGRID	interacts-with
+P30305	230	S	('O14757',)	QRPSsAPDL	CHK1	Serine/threonine-protein kinase Chk1	CDC25B	CHEK1	DIP;HPRD;BioGRID	interacts-with
+P30305	187	S	('P68400',)	GAASsSGED	CK2_alpha	casein kinase 2, alpha 1 polypeptide	CDC25B	CSNK2A1	HPRD;BioGRID	interacts-with
+P30305	186	S	('P68400',)	SGAAsSSGE	CK2_alpha	casein kinase 2, alpha 1 polypeptide	CDC25B	CSNK2A1	HPRD;BioGRID	interacts-with
+P30305	323	S	('P49137',)	FRSPsMPCS	MAPKAPK2	MAP kinase-activated protein kinase 2	CDC25B	MAPKAPK2	BIND;BioGRID	interacts-with
+P30305	323	S	('Q14680',)	FRSPsMPCS	Eg3 kinase	member of the KIN1/PAR-1/MARK family	CDC25B	MELK	IntAct;HPRD;BioGRID	interacts-with
+P30305	169	S	('Q14680',)	NITNsQAPD	Eg3 kinase	member of the KIN1/PAR-1/MARK family	CDC25B	MELK	IntAct;HPRD;BioGRID	interacts-with
+P30307	214	S	('P06493',)	GLYRsPSMP	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2	CDC25C	CDK1	IntAct;HPRD;BioGRID	interacts-with
+P30307	67	T	('P06493',)	LSGGtPKRC	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2	CDC25C	CDK1	IntAct;HPRD;BioGRID	interacts-with
+P30307	48	T	('P06493',)	DVPRtPVGK	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2	CDC25C	CDK1	IntAct;HPRD;BioGRID	interacts-with
+P30307	122	S	('P06493',)	LMKCsPAQL	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2	CDC25C	CDK1	IntAct;HPRD;BioGRID	interacts-with
+P30307	168	S	('P06493',)	KYLGsPITT	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2	CDC25C	CDK1	IntAct;HPRD;BioGRID	interacts-with
+P30307	130	T	('P06493',)	LLCStPNGL	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2	CDC25C	CDK1	IntAct;HPRD;BioGRID	interacts-with
+P30307	216	S	('O96017',)	YRSPsMPEN	CHK2	CHK2 checkpoint homolog	CDC25C	CHEK2	HPRD;BioGRID	interacts-with
+P30307	198	S	('P53350',)	LMEFsLKDQ	PLK1	Polo like kinase 1	CDC25C	PLK1	BIND;IntAct;DIP;HPRD;BioGRID	interacts-with
+P30307	191	S	('Q9H4B4',)	AEEIsDELM	PLK3	Polo like kinase 3	CDC25C	PLK3	HPRD;BioGRID	interacts-with
+P30307	198	S	('Q9H4B4',)	LMEFsLKDQ	PLK3	Polo like kinase 3	CDC25C	PLK3	HPRD;BioGRID	interacts-with
+Q16543	13	S	('P68400',)	HIEVsDDED	CK2_alpha	casein kinase 2, alpha 1 polypeptide	CDC37	CSNK2A1	HPRD;BioGRID	interacts-with
+Q99741	74	S	('P24941',)	LPPCsPPKQ	CDK2	Cell division protein kinase 2	CDC6	CDK2	BIND;HPRD;BioGRID	interacts-with
+Q99741	106	S	('P24941',)	LTIKsPSKR	CDK2	Cell division protein kinase 2	CDC6	CDK2	BIND;HPRD;BioGRID	interacts-with
+Q99741	54	S	('P24941',)	ALPLsPRKR	CDK2	Cell division protein kinase 2	CDC6	CDK2	BIND;HPRD;BioGRID	interacts-with
+Q53HL2	230	T	('P33981',)	EIFLtVPVG	TTK	TTK protein kinase	CDCA8	TTK	IntAct;BioGRID	interacts-with
+Q53HL2	169	T	('P33981',)	SRANtVTPA	TTK	TTK protein kinase	CDCA8	TTK	IntAct;BioGRID	interacts-with
+Q53HL2	88	T	('P33981',)	EEAAtADLD	TTK	TTK protein kinase	CDCA8	TTK	IntAct;BioGRID	interacts-with
+Q53HL2	94	T	('P33981',)	DLDItEINK	TTK	TTK protein kinase	CDCA8	TTK	IntAct;BioGRID	interacts-with
+P12830	844	S	('P48730',)	SEAAsLSSL	CK1_delta	casein kinase 1, delta	CDH1	CSNK1D	BioGRID	interacts-with
+P38936	98	S	('Q99683',)	RPGTsPALL	MAP3K5	mitogen-activated protein kinase kinase kinase 5 (ASK1)	CDKN1A	MAP3K5	HPRD;BioGRID	interacts-with
+P38936	146	S	('P11309',)	RRQTsMTDF	PIM-1	pim-1 oncogene	CDKN1A	PIM1	HPRD;BioGRID	interacts-with
+P38936	145	T	('P11309',)	KRRQtSMTD	PIM-1	pim-1 oncogene	CDKN1A	PIM1	HPRD;BioGRID	interacts-with
+P38936	146	S	('P17252',)	RRQTsMTDF	PKC_alpha	Protein kinase C, alpha type	CDKN1A	PRKACA	BioGRID	interacts-with
+P38936	145	T	('P17252',)	KRRQtSMTD	PKC_alpha	Protein kinase C, alpha type	CDKN1A	PRKACA	BioGRID	interacts-with
+P46527	74	Y	('P12931',)	LEGKyEWQE	SRC	Proto-oncogene tyrosine-protein kinase Src	CDKN1B	SRC	IntAct;HPRD;BioGRID	interacts-with
+P46527	88	Y	('P12931',)	LPEFyYRPP	SRC	Proto-oncogene tyrosine-protein kinase Src	CDKN1B	SRC	IntAct;HPRD;BioGRID	interacts-with
+P46527	89	Y	('P12931',)	PEFYyRPPR	SRC	Proto-oncogene tyrosine-protein kinase Src	CDKN1B	SRC	IntAct;HPRD;BioGRID	interacts-with
+P23528	3	S	('P53667',)	sGVAV	LIMK1	LIM domain kinase 1	CFL1	LIMK1	Pathbank;IntAct;DIP;HPRD;BioGRID	interacts-with
+P23528	3	S	('P53671',)	sGVAV	LIMK2	LIM domain kinase 2	CFL1	LIMK2	HPRD;BioGRID	interacts-with
+P13569	686	S	('P17252',)	TKKQsFKQT	PKC_alpha	Protein kinase C, alpha type	CFTR	PRKACA	HPRD;BioGRID	interacts-with
+Q00610	1477	Y	('P12931',)	TEEDyQALR	SRC	Proto-oncogene tyrosine-protein kinase Src	CLTC	SRC	IntAct;BioGRID	interacts-with
+P16410	201	Y	('O60674',)	TTGVyVKMP	JAK2	Janus protein-tyrosine kinase 2	CTLA4	JAK2	BIND;HPRD;BioGRID	interacts-with
+P35222	142	Y	('P06241',)	NLINyQDDA	Fyn	Proto-oncogene tyrosine-protein kinase Fyn	CTNNB1	FYN	IntAct;HPRD;BioGRID	interacts-with
+P35222	654	Y	('P12931',)	GVATyAAAV	SRC	Proto-oncogene tyrosine-protein kinase Src	CTNNB1	SRC	IntAct;DIP;HPRD;BioGRID	interacts-with
+P35222	86	Y	('P12931',)	IDGQyAMTR	SRC	Proto-oncogene tyrosine-protein kinase Src	CTNNB1	SRC	IntAct;DIP;HPRD;BioGRID	interacts-with
+Q14118	892	Y	('P12931',)	SPPPyVPP	SRC	Proto-oncogene tyrosine-protein kinase Src	DAG1	SRC	IntAct;HPRD;BioGRID	interacts-with
+Q9UJU6	334	Y	('P43403',)	EEAVyEEPP	ZAP70	Tyrosine-protein kinase ZAP-70	DBNL	ZAP70	HPRD;BioGRID	interacts-with
+Q9UJU6	344	Y	('P43403',)	QETFyEQPP	ZAP70	Tyrosine-protein kinase ZAP-70	DBNL	ZAP70	HPRD;BioGRID	interacts-with
+Q05193	857	S	('Q13627',)	SRPEsPRPP	DYRK1A	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 1A	DNM1	DYRK1A	BioGRID	interacts-with
+Q99704	362	Y	('P06213',)	EDPIyDEPE	INSR	Insulin receptor	DOK1	INSR	HPRD;BioGRID	interacts-with
+Q99704	398	Y	('P06213',)	KEEGyELPY	INSR	Insulin receptor	DOK1	INSR	HPRD;BioGRID	interacts-with
+Q9BY84	446	S	('P28482',)	LCQFsPVQE	MAPK1	mitogen-activated protein kinase 1 (Erk2)	DUSP16	MAPK1	HPRD;BioGRID	interacts-with
+P28562	296	S	('P28482',)	RSIIsPNFS	MAPK1	mitogen-activated protein kinase 1 (Erk2)	DUSP1	MAPK1	IntAct;HPRD;BioGRID	interacts-with
+P28562	323	S	('P28482',)	AEAGsPAMA	MAPK1	mitogen-activated protein kinase 1 (Erk2)	DUSP1	MAPK1	IntAct;HPRD;BioGRID	interacts-with
+P28562	364	S	('P27361',)	PITTsPSC	MAPK3	mitogen-activated protein kinase 3 (Erk1)	DUSP1	MAPK3	IntAct;HPRD;BioGRID	interacts-with
+Q16828	159	S	('P28482',)	CSSSsPPLP	MAPK1	mitogen-activated protein kinase 1 (Erk2)	DUSP6	MAPK1	IntAct;HPRD;BioGRID	interacts-with
+Q16828	159	S	('P27361',)	CSSSsPPLP	MAPK3	mitogen-activated protein kinase 3 (Erk1)	DUSP6	MAPK3	IntAct;HPRD;BioGRID	interacts-with
+P52799	304	Y	('P29323',)	FCPHyEKVS	EphB2	EPH receptor B2	EFNB2	EPHB2	BIND;IntAct;HPRD;BioGRID	interacts-with
+P05198	49	S	('P19525',)	MILLsELSR	EIF2AK2	Interferon-inducible RNA-dependent protein kinase	EIF2A	EIF2AK2	BioGRID	interacts-with
+P05198	52	S	('P19525',)	LSELsRRRI	EIF2AK2	Interferon-inducible RNA-dependent protein kinase	EIF2A	EIF2AK2	BioGRID	interacts-with
+Q13541	65	S	('P42345',)	ECRNsPVTK	mTOR	FK506 binding protein 12-rapamycin associated protein 1	EIF4EBP1	MTOR	IntAct;HPRD;BioGRID	interacts-with
+Q13541	37	T	('P42345',)	DYSTtPGGT	mTOR	FK506 binding protein 12-rapamycin associated protein 1	EIF4EBP1	MTOR	IntAct;HPRD;BioGRID	interacts-with
+Q13541	83	S	('P42345',)	PGVTsPSSD	mTOR	FK506 binding protein 12-rapamycin associated protein 1	EIF4EBP1	MTOR	IntAct;HPRD;BioGRID	interacts-with
+Q13541	70	T	('P42345',)	PVTKtPPRD	mTOR	FK506 binding protein 12-rapamycin associated protein 1	EIF4EBP1	MTOR	IntAct;HPRD;BioGRID	interacts-with
+Q13541	46	T	('P42345',)	LFSTtPGGT	mTOR	FK506 binding protein 12-rapamycin associated protein 1	EIF4EBP1	MTOR	IntAct;HPRD;BioGRID	interacts-with
+Q13541	101	S	('P42345',)	HLRNsPEDK	mTOR	FK506 binding protein 12-rapamycin associated protein 1	EIF4EBP1	MTOR	IntAct;HPRD;BioGRID	interacts-with
+P06730	209	S	('Q9BUB5',)	TKSGsTTKN	Mnk1	MAP kinase interacting serine/threonine kinase 1	EIF4E	MKNK1	BIND;IntAct;HPRD;BioGRID	interacts-with
+P19419	389	S	('P27361',)	IAPRsPAKL	MAPK3	mitogen-activated protein kinase 3 (Erk1)	ELK1	MAPK3	BIND;Pathbank;IntAct;NetPath;HPRD;BioGRID	interacts-with
+P19419	383	S	('P27361',)	WSTLsPIAP	MAPK3	mitogen-activated protein kinase 3 (Erk1)	ELK1	MAPK3	BIND;Pathbank;IntAct;NetPath;HPRD;BioGRID	interacts-with
+P06733	44	Y	('P12931',)	STGIyEALE	SRC	Proto-oncogene tyrosine-protein kinase Src	ENO1	SRC	BioGRID	interacts-with
+Q09472	89	S	('P17252',)	LRSGsSPNL	PKC_alpha	Protein kinase C, alpha type	EP300	PRKCA	BioGRID	interacts-with
+Q09472	89	S	('Q05655',)	LRSGsSPNL	PKC_delta	Protein kinase C, delta type	EP300	PRKCD	HPRD;BioGRID	interacts-with
+P19235	368	Y	('O60674',)	AQDTyLVLD	JAK2	Janus protein-tyrosine kinase 2	EPOR	JAK2	Pathbank;HPRD;BioGRID	interacts-with
+P19235	368	Y	('P07948',)	AQDTyLVLD	Lyn	Tyrosine-protein kinase Lyn	EPOR	LYN	HPRD;BioGRID	interacts-with
+P03372	118	S	('P28482',)	PPQLsPFLQ	MAPK1	mitogen-activated protein kinase 1 (Erk2)	ESR1	MAPK1	HPRD;BioGRID	interacts-with
+P03372	305	S	('Q13153',)	SKKNsLALS	PAK1	Serine/threonine-protein kinase PAK1	ESR1	PAK1	HPRD;BioGRID	interacts-with
+P03372	537	Y	('P12931',)	VVPLyDLLL	SRC	Proto-oncogene tyrosine-protein kinase Src	ESR1	SRC	IntAct;DIP;HPRD;BioGRID	interacts-with
+P14921	38	T	('Q13164',)	VPLLtPSSK	MAPK7	mitogen-activated protein kinase 7 (Erk5)	ETS1	MAPK7	HPRD;BioGRID	interacts-with
+Q13158	194	S	('Q9H422',)	SGAMsPMSW	HIPK3	homeodomain interacting protein kinase 3	FADD	HIPK3	HPRD;BioGRID	interacts-with
+P12318	288	Y	('P07948',)	ADGGyMTLN	Lyn	Tyrosine-protein kinase Lyn	FCGR2A	LYN	HPRD;BioGRID	interacts-with
+P12318	281	Y	('P07948',)	TNNDyETAD	Lyn	Tyrosine-protein kinase Lyn	FCGR2A	LYN	HPRD;BioGRID	interacts-with
+P12318	304	Y	('P07948',)	DKNIyLTLP	Lyn	Tyrosine-protein kinase Lyn	FCGR2A	LYN	HPRD;BioGRID	interacts-with
+P12318	288	Y	('P43405',)	ADGGyMTLN	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	FCGR2A	SYK	IntAct;HPRD;BioGRID	interacts-with
+P12318	281	Y	('P43405',)	TNNDyETAD	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	FCGR2A	SYK	IntAct;HPRD;BioGRID	interacts-with
+P12318	304	Y	('P43405',)	DKNIyLTLP	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	FCGR2A	SYK	IntAct;HPRD;BioGRID	interacts-with
+P31994	292	Y	('P07948',)	NTITySLLM	Lyn	Tyrosine-protein kinase Lyn	FCGR2B	LYN	IntAct;HPRD;BioGRID	interacts-with
+P09038	73	S	('P17252',)	RGVVsIKGV	PKC_alpha	Protein kinase C, alpha type	FGF2	PRKACA	BioGRID	interacts-with
+P01100	232	T	('P28482',)	PEVAtPESE	MAPK1	mitogen-activated protein kinase 1 (Erk2)	FOS	MAPK1	HPRD;BioGRID	interacts-with
+P01100	232	T	('P27361',)	PEVAtPESE	MAPK3	mitogen-activated protein kinase 3 (Erk1)	FOS	MAPK3	Pathbank;BioGRID	interacts-with
+P01100	331	T	('P27361',)	VVTCtPSCT	MAPK3	mitogen-activated protein kinase 3 (Erk1)	FOS	MAPK3	Pathbank;BioGRID	interacts-with
+P01100	325	T	('P27361',)	EPLCtPVVT	MAPK3	mitogen-activated protein kinase 3 (Erk1)	FOS	MAPK3	Pathbank;BioGRID	interacts-with
+P01100	362	S	('Q15349',)	HRKGsSSNE	RSK-2	Ribosomal protein S6 kinase alpha 2	FOS	RPS6KA2	BioGRID	interacts-with
+O43524	644	S	('O14920',)	FNFDsLIST	IKK_beta	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta	FOXO3	IKBKB	BIND;IntAct;HPRD;BioGRID	interacts-with
+O15117	651	Y	('P06241',)	GDEVyDDVD	Fyn	Proto-oncogene tyrosine-protein kinase Fyn	FYB1	FYN	IntAct;NetPath;HPRD;BioGRID	interacts-with
+O15117	595	Y	('P06241',)	DQEVyDDVA	Fyn	Proto-oncogene tyrosine-protein kinase Fyn	FYB1	FYN	IntAct;NetPath;HPRD;BioGRID	interacts-with
+Q13480	627	Y	('P08581',)	KQVEyLDLD	Met	Hepatocyte growth factor receptor	GAB1	MET	BIND;IntAct;HPRD;BioGRID	interacts-with
+Q13480	589	Y	('P08581',)	SEENyVPMN	Met	Hepatocyte growth factor receptor	GAB1	MET	BIND;IntAct;HPRD;BioGRID	interacts-with
+Q13480	285	Y	('P08581',)	DGELyVFNT	Met	Hepatocyte growth factor receptor	GAB1	MET	BIND;IntAct;HPRD;BioGRID	interacts-with
+Q13480	307	Y	('P08581',)	VSISyDIPP	Met	Hepatocyte growth factor receptor	GAB1	MET	BIND;IntAct;HPRD;BioGRID	interacts-with
+Q13480	659	Y	('P08581',)	ERVDyVVVD	Met	Hepatocyte growth factor receptor	GAB1	MET	BIND;IntAct;HPRD;BioGRID	interacts-with
+Q13480	373	Y	('P08581',)	TDSSyCIPT	Met	Hepatocyte growth factor receptor	GAB1	MET	BIND;IntAct;HPRD;BioGRID	interacts-with
+Q13480	406	Y	('P08581',)	SQDCyDIPR	Met	Hepatocyte growth factor receptor	GAB1	MET	BIND;IntAct;HPRD;BioGRID	interacts-with
+Q13480	472	Y	('P08581',)	QEANyVPMT	Met	Hepatocyte growth factor receptor	GAB1	MET	BIND;IntAct;HPRD;BioGRID	interacts-with
+Q13480	447	Y	('P08581',)	LDENyVPMN	Met	Hepatocyte growth factor receptor	GAB1	MET	BIND;IntAct;HPRD;BioGRID	interacts-with
+Q9UQC2	623	S	('P27361',)	FQPSsPSPH	MAPK3	mitogen-activated protein kinase 3 (Erk1)	GAB2	MAPK3	IntAct;NetPath;HPRD;BioGRID	interacts-with
+Q9UQC2	614	Y	('P43403',)	GSVDyLALD	ZAP70	Tyrosine-protein kinase ZAP-70	GAB2	ZAP70	NetPath;HPRD;BioGRID	interacts-with
+P10912	332	Y	('O60674',)	IHDSyKPEF	JAK2	Janus protein-tyrosine kinase 2	GHR	JAK2	Pathbank;HPRD;BioGRID	interacts-with
+P10912	487	Y	('O60674',)	NIDFyAQVS	JAK2	Janus protein-tyrosine kinase 2	GHR	JAK2	Pathbank;HPRD;BioGRID	interacts-with
+P17302	368	S	('Q02156',)	SSRAsSRAS	PKC_epsilon	Protein kinase C, epsilon type	GJA1	PRKCE	HPRD;BioGRID	interacts-with
+Q13322	67	Y	('P12931',)	LESLySACS	SRC	Proto-oncogene tyrosine-protein kinase Src	GRB10	SRC	HPRD;BioGRID	interacts-with
+Q13224	1303	S	('P17252',)	RRQHsYDTF	PKC_alpha	Protein kinase C, alpha type	GRIN2B	PRKCA	HPRD;BioGRID	interacts-with
+Q13224	1323	S	('P17252',)	PRSVsLKDK	PKC_alpha	Protein kinase C, alpha type	GRIN2B	PRKCA	HPRD;BioGRID	interacts-with
+P06396	465	Y	('P12931',)	DPATyGQFY	SRC	Proto-oncogene tyrosine-protein kinase Src	GSN	SRC	IntAct;BioGRID	interacts-with
+P14317	378	Y	('P07948',)	PENDyEDVE	Lyn	Tyrosine-protein kinase Lyn	HCLS1	LYN	IntAct;HPRD;BioGRID	interacts-with
+P14317	222	Y	('P07948',)	PTTAyKKTT	Lyn	Tyrosine-protein kinase Lyn	HCLS1	LYN	IntAct;HPRD;BioGRID	interacts-with
+P14317	397	Y	('P07948',)	PEGDyEEVL	Lyn	Tyrosine-protein kinase Lyn	HCLS1	LYN	IntAct;HPRD;BioGRID	interacts-with
+P14317	378	Y	('P43405',)	PENDyEDVE	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	HCLS1	SYK	IntAct;HPRD;BioGRID	interacts-with
+P14317	397	Y	('P43405',)	PEGDyEEVL	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	HCLS1	SYK	IntAct;HPRD;BioGRID	interacts-with
+Q8WUI4	155	S	('Q15139',)	RKTVsEPNL	PKD1	protein kinase D1	HDAC7	PRKD1	HPRD;BioGRID	interacts-with
+P68431	4	T	('Q99986',)	tKQTA	VRK1	vaccinia related kinase 1	HIST1H3A	VRK1	BioGRID	interacts-with
+P68431	11	S	('Q99986',)	TARKsTGGK	VRK1	vaccinia related kinase 1	HIST1H3A	VRK1	BioGRID	interacts-with
+P61978	230	Y	('P12931',)	DPNFyDETY	SRC	Proto-oncogene tyrosine-protein kinase Src	HNRNPK	SRC	BIND;IntAct;HPRD;BioGRID	interacts-with
+P61978	380	Y	('P12931',)	GRGSyGDLG	SRC	Proto-oncogene tyrosine-protein kinase Src	HNRNPK	SRC	BIND;IntAct;HPRD;BioGRID	interacts-with
+P61978	234	Y	('P12931',)	YDETyDYGG	SRC	Proto-oncogene tyrosine-protein kinase Src	HNRNPK	SRC	BIND;IntAct;HPRD;BioGRID	interacts-with
+P61978	236	Y	('P12931',)	ETYDyGGFT	SRC	Proto-oncogene tyrosine-protein kinase Src	HNRNPK	SRC	BIND;IntAct;HPRD;BioGRID	interacts-with
+Q00613	121	S	('P49137',)	RKVTsVSTL	MAPKAPK2	MAP kinase-activated protein kinase 2	HSF1	MAPKAPK2	IntAct;HPRD;BioGRID	interacts-with
+P07900	7	T	('P78527',)	EETQtQDQP	DNA-PK	DNA-dependent protein kinase catalytic subunit	HSP90AA1	PRKDC	HPRD;BioGRID	interacts-with
+P04792	78	S	('P49137',)	SRALsRQLS	MAPKAPK2	MAP kinase-activated protein kinase 2	HSPB1	MAPKAPK2	BIND;IntAct;HPRD;BioGRID	interacts-with
+P04792	15	S	('P49137',)	LRGPsWDPF	MAPKAPK2	MAP kinase-activated protein kinase 2	HSPB1	MAPKAPK2	BIND;IntAct;HPRD;BioGRID	interacts-with
+P04792	82	S	('P49137',)	SRQLsSGVS	MAPKAPK2	MAP kinase-activated protein kinase 2	HSPB1	MAPKAPK2	BIND;IntAct;HPRD;BioGRID	interacts-with
+P04792	82	S	('Q15139',)	SRQLsSGVS	PKD1	protein kinase D1	HSPB1	PRKD1	BioGRID	interacts-with
+P17181	481	Y	('P29597',)	SIDEyFSEQ	Tyk2	Non-receptor tyrosine-protein kinase TYK2	IFNAR1	TYK2	IntAct;DIP;HPRD;BioGRID	interacts-with
+P17181	466	Y	('P29597',)	RCINyVFFP	Tyk2	Non-receptor tyrosine-protein kinase TYK2	IFNAR1	TYK2	IntAct;DIP;HPRD;BioGRID	interacts-with
+P15260	457	Y	('P23458',)	TSFGyDKPH	JAK1	Janus protein-tyrosine kinase 1	IFNGR1	JAK1	IntAct;HPRD;BioGRID	interacts-with
+P14784	384	Y	('P06239',)	VYFTyDPYS	Lck	lymphocyte-specific protein tyrosine kinase	IL2RB	LCK	NetPath;HPRD;BioGRID	interacts-with
+P14784	418	Y	('P06239',)	EDDAyCTFP	Lck	lymphocyte-specific protein tyrosine kinase	IL2RB	LCK	NetPath;HPRD;BioGRID	interacts-with
+P14784	387	Y	('P06239',)	TYDPySEED	Lck	lymphocyte-specific protein tyrosine kinase	IL2RB	LCK	NetPath;HPRD;BioGRID	interacts-with
+P14784	536	Y	('P06239',)	NTDAyLSLQ	Lck	lymphocyte-specific protein tyrosine kinase	IL2RB	LCK	NetPath;HPRD;BioGRID	interacts-with
+P14784	381	Y	('P06239',)	ACQVyFTYD	Lck	lymphocyte-specific protein tyrosine kinase	IL2RB	LCK	NetPath;HPRD;BioGRID	interacts-with
+P40189	890	T	('Q05655',)	ERFEtVGME	PKC_delta	Protein kinase C, delta type	IL6ST	PRKCD	BIND;NetPath;HPRD;BioGRID	interacts-with
+Q14653	385	S	('Q9UHD2',)	VGGAsSLEN	TBK1	TANK-binding kinase 1	IRF3	TBK1	IntAct;HPRD;BioGRID	interacts-with
+Q14653	386	S	('Q9UHD2',)	GGASsLENT	TBK1	TANK-binding kinase 1	IRF3	TBK1	IntAct;HPRD;BioGRID	interacts-with
+P35568	616	S	('P27361',)	YMPMsPGVA	MAPK3	mitogen-activated protein kinase 3 (Erk1)	IRS1	MAPK3	BioGRID	interacts-with
+P35568	307	S	('Q05655',)	SRTEsITAT	PKC_delta	Protein kinase C, delta type	IRS1	PRKCD	HPRD;BioGRID	interacts-with
+P35568	574	S	('Q05655',)	GHRHsAFVP	PKC_delta	Protein kinase C, delta type	IRS1	PRKCD	HPRD;BioGRID	interacts-with
+P05107	745	S	('P17252',)	EKLKsQWNN	PKC_alpha	Protein kinase C, alpha type	ITGB2	PRKCA	HPRD;BioGRID	interacts-with
+P05107	758	T	('P17252',)	FKSAtTTVM	PKC_alpha	Protein kinase C, alpha type	ITGB2	PRKCA	HPRD;BioGRID	interacts-with
+P05107	745	S	('P05771',)	EKLKsQWNN	PKC_beta	protein kinase C, beta 1	ITGB2	PRKCB	HPRD;BioGRID	interacts-with
+P05107	745	S	('Q05655',)	EKLKsQWNN	PKC_delta	Protein kinase C, delta type	ITGB2	PRKCD	HPRD;BioGRID	interacts-with
+P05107	758	T	('Q05655',)	FKSAtTTVM	PKC_delta	Protein kinase C, delta type	ITGB2	PRKCD	HPRD;BioGRID	interacts-with
+P05106	777	T	('O15530',)	YKEAtSTFT	PDK-1	3-phosphoinositide dependent protein kinase 1	ITGB3	PDK1	BioGRID	interacts-with
+P05106	779	T	('O15530',)	EATStFTNI	PDK-1	3-phosphoinositide dependent protein kinase 1	ITGB3	PDK1	BioGRID	interacts-with
+P05106	785	Y	('P12931',)	TNITyRGT	SRC	Proto-oncogene tyrosine-protein kinase Src	ITGB3	SRC	HPRD;BioGRID	interacts-with
+P05106	773	Y	('P12931',)	NNPLyKEAT	SRC	Proto-oncogene tyrosine-protein kinase Src	ITGB3	SRC	HPRD;BioGRID	interacts-with
+P05106	785	Y	('P43405',)	TNITyRGT	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	ITGB3	SYK	BioGRID	interacts-with
+P05412	73	S	('P45983',)	LKLAsPELE	MAPK8	mitogen-activated protein kinase 8 (JNK1)	JUN	MAPK8	BIND;Pathbank;IntAct;DIP;HPRD;BioGRID	interacts-with
+P05412	63	S	('P45983',)	DLLTsPDVG	MAPK8	mitogen-activated protein kinase 8 (JNK1)	JUN	MAPK8	BIND;Pathbank;IntAct;DIP;HPRD;BioGRID	interacts-with
+P05412	63	S	('P45984',)	DLLTsPDVG	MAPK9	mitogen-activated protein kinase 9 (JNK3	JUN	MAPK9	BIND;IntAct;DIP;HPRD;BioGRID	interacts-with
+P05412	249	S	('P78527',)	IDMEsQERI	DNA-PK	DNA-dependent protein kinase catalytic subunit	JUN	PRKDC	IntAct;HPRD;BioGRID	interacts-with
+P05412	73	S	('Q99986',)	LKLAsPELE	VRK1	vaccinia related kinase 1	JUN	VRK1	IntAct;BioGRID	interacts-with
+P05412	63	S	('Q99986',)	DLLTsPDVG	VRK1	vaccinia related kinase 1	JUN	VRK1	IntAct;BioGRID	interacts-with
+P05783	53	S	('Q02156',)	SRSTsFRGG	PKC_epsilon	Protein kinase C, epsilon type	KRT18	PRKCE	HPRD;BioGRID	interacts-with
+P05787	74	S	('Q16539',)	QSLLsPLVL	MAPK14	mitogen-activated protein kinase 14 (p38alpha)	KRT8	MAPK14	HPRD;BioGRID	interacts-with
+P05787	74	S	('P45983',)	QSLLsPLVL	MAPK8	mitogen-activated protein kinase 8 (JNK1)	KRT8	MAPK8	HPRD;BioGRID	interacts-with
+Q13094	128	Y	('P43405',)	DDGDyESPN	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	LCP2	SYK	HPRD;BioGRID	interacts-with
+Q13094	113	Y	('P43405',)	EEDDyESPN	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	LCP2	SYK	HPRD;BioGRID	interacts-with
+Q13094	128	Y	('P43403',)	DDGDyESPN	ZAP70	Tyrosine-protein kinase ZAP-70	LCP2	ZAP70	IntAct;HPRD;BioGRID	interacts-with
+Q13094	145	Y	('P43403',)	DDADyEPPP	ZAP70	Tyrosine-protein kinase ZAP-70	LCP2	ZAP70	IntAct;HPRD;BioGRID	interacts-with
+Q13094	113	Y	('P43403',)	EEDDyESPN	ZAP70	Tyrosine-protein kinase ZAP-70	LCP2	ZAP70	IntAct;HPRD;BioGRID	interacts-with
+Q9UJU2	166	S	('Q9UBE8',)	DEHFsPGSH	NLK	Serine/threonine kinase NLK	LEF1	NLK	NetPath;HPRD;BioGRID	interacts-with
+Q9UJU2	155	T	('Q9UBE8',)	VHPLtPLIT	NLK	Serine/threonine kinase NLK	LEF1	NLK	NetPath;HPRD;BioGRID	interacts-with
+P49917	650	T	('P78527',)	APNLtNVNK	DNA-PK	DNA-dependent protein kinase catalytic subunit	LIG4	PRKDC	IntAct;HPRD;BioGRID	interacts-with
+P20700	395	S	('P05771',)	SPSPsSRVT	PKC_beta	protein kinase C, beta 1	LMNB1	PRKCB	HPRD;BioGRID	interacts-with
+P20700	405	S	('P05771',)	SRASsSRSV	PKC_beta	protein kinase C, beta 1	LMNB1	PRKCB	HPRD;BioGRID	interacts-with
+Q07954	4507	Y	('P12931',)	TNPVyATLY	SRC	Proto-oncogene tyrosine-protein kinase Src	LRP1	SRC	HPRD;BioGRID	interacts-with
+P33241	252	S	('P49137',)	ARQAsIELP	MAPKAPK2	MAP kinase-activated protein kinase 2	LSP1	MAPKAPK2	HPRD;BioGRID	interacts-with
+P33241	204	S	('P49137',)	DRTEsLNRS	MAPKAPK2	MAP kinase-activated protein kinase 2	LSP1	MAPKAPK2	HPRD;BioGRID	interacts-with
+Q9UQF2	103	T	('P45984',)	ATGDtPGAE	MAPK9	mitogen-activated protein kinase 9 (JNK3	MAPK8IP1	MAPK9	IntAct;HPRD;BioGRID	interacts-with
+P29966	163	S	('P17252',)	SFKKsFKLS	PKC_alpha	Protein kinase C, alpha type	MARCKS	PRKACA	BioGRID	interacts-with
+P29966	159	S	('P17252',)	KKRFsFKKS	PKC_alpha	Protein kinase C, alpha type	MARCKS	PRKACA	BioGRID	interacts-with
+O95297	263	Y	('P12931',)	ESVVyADIR	SRC	Proto-oncogene tyrosine-protein kinase Src	MPZL1	SRC	HPRD;BioGRID	interacts-with
+O95297	241	Y	('P12931',)	GPVIyAQLD	SRC	Proto-oncogene tyrosine-protein kinase Src	MPZL1	SRC	HPRD;BioGRID	interacts-with
+P15941	1224	T	('Q05655',)	PPSStDRSP	PKC_delta	Protein kinase C, delta type	MUC1	PRKCD	HPRD;BioGRID	interacts-with
+P15941	1229	Y	('P12931',)	DRSPyEKVS	SRC	Proto-oncogene tyrosine-protein kinase Src	MUC1	SRC	BIND;IntAct;HPRD;BioGRID	interacts-with
+P14598	320	S	('P17252',)	RKRLsQDAY	PKC_alpha	Protein kinase C, alpha type	NCF1	PRKCA	IntAct;HPRD;BioGRID	interacts-with
+P14598	315	S	('P17252',)	IHQRsRKRL	PKC_alpha	Protein kinase C, alpha type	NCF1	PRKCA	IntAct;HPRD;BioGRID	interacts-with
+P14598	370	S	('P17252',)	PPRPsADLI	PKC_alpha	Protein kinase C, alpha type	NCF1	PRKCA	IntAct;HPRD;BioGRID	interacts-with
+P14598	328	S	('P17252',)	YRRNsVRFL	PKC_alpha	Protein kinase C, alpha type	NCF1	PRKCA	IntAct;HPRD;BioGRID	interacts-with
+P14598	303	S	('P17252',)	PPRRsSIRN	PKC_alpha	Protein kinase C, alpha type	NCF1	PRKCA	IntAct;HPRD;BioGRID	interacts-with
+P14598	359	S	('P17252',)	QTQRsKPQP	PKC_alpha	Protein kinase C, alpha type	NCF1	PRKCA	IntAct;HPRD;BioGRID	interacts-with
+P14598	304	S	('P17252',)	PRRSsIRNA	PKC_alpha	Protein kinase C, alpha type	NCF1	PRKCA	IntAct;HPRD;BioGRID	interacts-with
+P14598	348	S	('P17252',)	QSPGsPLEE	PKC_alpha	Protein kinase C, alpha type	NCF1	PRKCA	IntAct;HPRD;BioGRID	interacts-with
+O14777	165	S	('P51955',)	PFALsKSSM	NEK2	Serine/threonine-protein kinase Nek2 (NimA-related protein kinase 2)	NDC80	NEK2	IntAct;HPRD;BioGRID	interacts-with
+P25963	42	Y	('P12931',)	KDEEyEQMV	SRC	Proto-oncogene tyrosine-protein kinase Src	NFKBIA	SRC	IntAct;NetPath;HPRD;BioGRID	interacts-with
+Q9Y2I6	686	S	('P53350',)	LHEKsQEVI	PLK1	Polo like kinase 1	NINL	PLK1	IntAct;BioGRID	interacts-with
+Q9Y2I6	88	S	('P53350',)	DEDSsSLES	PLK1	Polo like kinase 1	NINL	PLK1	IntAct;BioGRID	interacts-with
+Q9Y2I6	87	S	('P53350',)	SDEDsSSLE	PLK1	Polo like kinase 1	NINL	PLK1	IntAct;BioGRID	interacts-with
+Q9Y2I6	161	T	('P53350',)	EAEStKEAQ	PLK1	Polo like kinase 1	NINL	PLK1	IntAct;BioGRID	interacts-with
+P04150	508	S	('P78527',)	TTGVsQETS	DNA-PK	DNA-dependent protein kinase catalytic subunit	NR3C1	PRKDC	HPRD;BioGRID	interacts-with
+Q9Y266	274	S	('P53350',)	NPENsKLSD	PLK1	Polo like kinase 1	NUDC	PLK1	HPRD;BioGRID	interacts-with
+Q9Y266	326	S	('P53350',)	EMDFsKAKF	PLK1	Polo like kinase 1	NUDC	PLK1	HPRD;BioGRID	interacts-with
+P08559	300	S	('Q15118',)	DPGVsYRTR	PDHK1	pyruvate dehydrogenase kinase, isozyme 1	PDHA1	PDK1	IntAct;HPRD;BioGRID	interacts-with
+P08559	293	S	('Q15118',)	YHGHsMSDP	PDHK1	pyruvate dehydrogenase kinase, isozyme 1	PDHA1	PDK1	IntAct;HPRD;BioGRID	interacts-with
+P08559	300	S	('Q15120',)	DPGVsYRTR	PDHK3	pyruvate dehydrogenase kinase, isozyme 3	PDHA1	PDK3	BIND;IntAct;HPRD;BioGRID	interacts-with
+P08559	293	S	('Q15120',)	YHGHsMSDP	PDHK3	pyruvate dehydrogenase kinase, isozyme 3	PDHA1	PDK3	BIND;IntAct;HPRD;BioGRID	interacts-with
+P27986	607	Y	('P12931',)	TEDQySLVE	SRC	Proto-oncogene tyrosine-protein kinase Src	PIK3R1	SRC	IntAct;NetPath;DIP;HPRD;BioGRID	interacts-with
+Q13526	65	S	('P53350',)	LVKHsQSRR	PLK1	Polo like kinase 1	PIN1	PLK1	BIND;HPRD;BioGRID	interacts-with
+P19174	771	Y	('P43405',)	AEPDyGALY	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	PLCG1	SYK	Pathbank;IntAct;DIP;HPRD;BioGRID	interacts-with
+P19174	783	Y	('P43405',)	NPGFyVEAN	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	PLCG1	SYK	Pathbank;IntAct;DIP;HPRD;BioGRID	interacts-with
+O14939	252	T	('P17252',)	MCLEtGAIS	PKC_alpha	Protein kinase C, alpha type	PLD2	PRKCA	NetPath;HPRD;BioGRID	interacts-with
+O14939	243	S	('P17252',)	VVKDsFLLY	PKC_alpha	Protein kinase C, alpha type	PLD2	PRKCA	NetPath;HPRD;BioGRID	interacts-with
+O15162	74	Y	('P12931',)	NQPVyNQPV	SRC	Proto-oncogene tyrosine-protein kinase Src	PLSCR1	SRC	BioGRID	interacts-with
+O15162	69	Y	('P12931',)	NQPVyNQPV	SRC	Proto-oncogene tyrosine-protein kinase Src	PLSCR1	SRC	BioGRID	interacts-with
+Q9BY77	383	S	('P23443',)	RRVNsASSS	p70S6K	ribosomal protein S6 kinase, 70kDa, polypeptide 1	POLDIP3	RPS6KB1	BioGRID	interacts-with
+Q96A00	38	T	('P17252',)	HARVtVKYD	PKC_alpha	Protein kinase C, alpha type	PPP1R14A	PRKCA	HPRD;BioGRID	interacts-with
+Q96A00	38	T	('Q02156',)	HARVtVKYD	PKC_epsilon	Protein kinase C, epsilon type	PPP1R14A	PRKCE	HPRD;BioGRID	interacts-with
+Q96A00	38	T	('Q05513',)	HARVtVKYD	PKC_zeta	Protein kinase C, zeta type	PPP1R14A	PRKCZ	HPRD;BioGRID	interacts-with
+Q96A00	38	T	('Q15139',)	HARVtVKYD	PKD1	protein kinase D1	PPP1R14A	PRKD1	HPRD;BioGRID	interacts-with
+P60484	382	T	('Q15831',)	RYSDtTDSD	LKB1	serine/threonine kinase 11 (LKB1)	PTEN	STK11	HPRD;BioGRID	interacts-with
+P29350	536	Y	('P12931',)	QESEyGNIT	SRC	Proto-oncogene tyrosine-protein kinase Src	PTPN6	SRC	HPRD;BioGRID	interacts-with
+P29350	564	Y	('P12931',)	KEDVyENLH	SRC	Proto-oncogene tyrosine-protein kinase Src	PTPN6	SRC	HPRD;BioGRID	interacts-with
+P49023	40	Y	('P12931',)	GNHTyQEIA	SRC	Proto-oncogene tyrosine-protein kinase Src	PXN	SRC	IntAct;HPRD;BioGRID	interacts-with
+P49023	88	Y	('P12931',)	SSPVyGSSA	SRC	Proto-oncogene tyrosine-protein kinase Src	PXN	SRC	IntAct;HPRD;BioGRID	interacts-with
+P63244	246	Y	('P12931',)	SPNRyWLCA	SRC	Proto-oncogene tyrosine-protein kinase Src	RACK1	SRC	HPRD;BioGRID	interacts-with
+P63244	228	Y	('P12931',)	GKHLyTLDG	SRC	Proto-oncogene tyrosine-protein kinase Src	RACK1	SRC	HPRD;BioGRID	interacts-with
+P63244	194	Y	('P29597',)	GHTGyLNTV	Tyk2	Non-receptor tyrosine-protein kinase TYK2	RACK1	TYK2	BIND;HPRD;BioGRID	interacts-with
+Q04206	276	S	('O75582',)	LRRPsDREL	RSK-5	ribosomal protein S6 kinase, 90kDa, polypeptide 5 (MSK1)	RELA	RPS6KA5	IntAct;NetPath;HPRD;BioGRID	interacts-with
+Q04206	536	S	('Q9UHD2',)	EDFSsIADM	TBK1	TANK-binding kinase 1	RELA	TBK1	HPRD;BioGRID	interacts-with
+O15492	177	Y	('P12931',)	KSPAyRDLA	SRC	Proto-oncogene tyrosine-protein kinase Src	RGS16	SRC	BIND;HPRD;BioGRID	interacts-with
+O15492	168	Y	('P12931',)	EKDSyPRFL	SRC	Proto-oncogene tyrosine-protein kinase Src	RGS16	SRC	BIND;HPRD;BioGRID	interacts-with
+P62753	235	S	('P23443',)	RRRLsSLRA	p70S6K	ribosomal protein S6 kinase, 70kDa, polypeptide 1	RPS6	RPS6KB1	BIND;IntAct;BioGRID	interacts-with
+P62753	236	S	('P23443',)	RRLSsLRAS	p70S6K	ribosomal protein S6 kinase, 70kDa, polypeptide 1	RPS6	RPS6KB1	BIND;IntAct;BioGRID	interacts-with
+P29353	427	Y	('P43403',)	DDPSyVNVQ	ZAP70	Tyrosine-protein kinase ZAP-70	SHC1	ZAP70	BIND;IntAct;NetPath;HPRD;BioGRID	interacts-with
+P29353	349	Y	('P43403',)	PDHQyYNDF	ZAP70	Tyrosine-protein kinase ZAP-70	SHC1	ZAP70	BIND;IntAct;NetPath;HPRD;BioGRID	interacts-with
+P29353	350	Y	('P43403',)	DHQYyNDFP	ZAP70	Tyrosine-protein kinase ZAP-70	SHC1	ZAP70	BIND;IntAct;NetPath;HPRD;BioGRID	interacts-with
+P02730	359	Y	('P43405',)	DSSFyKGLD	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	SLC4A1	SYK	HPRD;BioGRID	interacts-with
+P02730	904	Y	('P43405',)	GRDEyDEVA	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	SLC4A1	SYK	HPRD;BioGRID	interacts-with
+P02730	8	Y	('P43405',)	LQDDyEDMM	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	SLC4A1	SYK	HPRD;BioGRID	interacts-with
+P02730	21	Y	('P43405',)	EQEEyEDPD	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).	SLC4A1	SYK	HPRD;BioGRID	interacts-with
+Q15796	464	S	('P36897',)	SVRCsSMS	TGFbR1	TGF-beta receptor type I	SMAD2	TGFBR1	BIND;IntAct;NetPath;BioGRID	interacts-with
+Q15796	465	S	('P36897',)	VRCSsMS	TGFbR1	TGF-beta receptor type I	SMAD2	TGFBR1	BIND;IntAct;NetPath;BioGRID	interacts-with
+Q15796	467	S	('P36897',)	CSSMs	TGFbR1	TGF-beta receptor type I	SMAD2	TGFBR1	BIND;IntAct;NetPath;BioGRID	interacts-with
+P04637	18	T	('P33981',)	LSQEtFSDL	TTK	TTK protein kinase	TP53	TTK	BioGRID	interacts-with
+P04637	18	T	('Q99986',)	LSQEtFSDL	VRK1	vaccinia related kinase 1	TP53	VRK1	IntAct;HPRD;BioGRID	interacts-with

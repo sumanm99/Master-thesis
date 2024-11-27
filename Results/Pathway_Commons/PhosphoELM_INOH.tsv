@@ -1,0 +1,2 @@
+SubstrateID	Position	Code	KinaseID	Peptide	Kinases	Description	PARTICIPANT_A	PARTICIPANT_B	INTERACTION_DATA_SOURCE	INTERACTION_TYPE
+Q06124	546	Y	('P09619',)	KGHEyTNIK	PDGFR_beta	platelet-derived growth factor receptor, beta polypeptide	PTPN11	PDGFRB	pid;INOH	controls-phosphorylation-of

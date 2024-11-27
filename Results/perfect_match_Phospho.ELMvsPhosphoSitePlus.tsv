@@ -1,0 +1,1583 @@
+SubstrateID	Position	Code	KinaseID	Peptide	KINASE	GENE	Kinases	Description
+P05198	52	S	Q9BQI3	LSELsRRRI	HRI	EIF2AK1	HRI	Eukaryotic translation initiation factor 2-alpha kinase 1 (GENE: Name=EIF2AK1)
+P05198	49	S	Q9BQI3	MILLsELSR	HRI	EIF2AK1	HRI	Eukaryotic translation initiation factor 2-alpha kinase 1 (GENE: Name=EIF2AK1)
+P61978	302	S	Q05655	GRGGsRARN	PKCD	PRKCD	PKC_delta	Protein kinase C, delta type
+P15941	1224	T	Q05655	PPSStDRSP	PKCD	PRKCD	PKC_delta	Protein kinase C, delta type
+Q9UBS0	473	S	Q05655	GTKKsKRGR	PKCD	PRKCD	PKC_delta	Protein kinase C, delta type
+P05107	758	T	Q05655	FKSAtTTVM	PKCD	PRKCD	PKC_delta	Protein kinase C, delta type
+P05787	74	S	Q05655	QSLLsPLVL	PKCD	PRKCD	PKC_delta	Protein kinase C, delta type
+P05107	745	S	Q05655	EKLKsQWNN	PKCD	PRKCD	PKC_delta	Protein kinase C, delta type
+Q15139	742	S	Q05655	SFRRsVVGT	PKCD	PRKCD	PKC_delta	Protein kinase C, delta type
+P35568	574	S	Q05655	GHRHsAFVP	PKCD	PRKCD	PKC_delta	Protein kinase C, delta type
+P53671	283	S	Q05655	LRRRsLRRS	PKCD	PRKCD	PKC_delta	Protein kinase C, delta type
+P40189	890	T	Q05655	ERFEtVGME	PKCD	PRKCD	PKC_delta	Protein kinase C, delta type
+Q15139	738	S	Q05655	IGEKsFRRS	PKCD	PRKCD	PKC_delta	Protein kinase C, delta type
+P35568	307	S	Q05655	SRTEsITAT	PKCD	PRKCD	PKC_delta	Protein kinase C, delta type
+P40763	727	S	Q05655	DLPMsPRTL	PKCD	PRKCD	PKC_delta	Protein kinase C, delta type
+Q09472	89	S	Q05655	LRSGsSPNL	PKCD	PRKCD	PKC_delta	Protein kinase C, delta type
+P08581	985	S	Q05655	DRLVsARSV	PKCD	PRKCD	PKC_delta	Protein kinase C, delta type
+P30086	153	S	Q05655	FKVAsFRKK	PKCD	PRKCD	PKC_delta	Protein kinase C, delta type
+P35367	142	T	Q9UQM7	YRTKtRASA	CAMK2A	CAMK2A	CaM-KII_alpha	calcium/calmodulin-dependent protein kinase (CaM kinase) II alpha
+P23677	311	T	Q9UQM7	QRAVtKPRY	CAMK2A	CAMK2A	CaM-KII_alpha	calcium/calmodulin-dependent protein kinase (CaM kinase) II alpha
+Q9UQM7	286	T	Q9UQM7	HRQEtVDCL	CAMK2A	CAMK2A	CaM-KII_alpha	calcium/calmodulin-dependent protein kinase (CaM kinase) II alpha
+P14921	285	S	Q9UQM7	PSYDsFDSE	CAMK2A	CAMK2A	CaM-KII_alpha	calcium/calmodulin-dependent protein kinase (CaM kinase) II alpha
+P08670	83	S	Q9UQM7	LLQDsVDFS	CAMK2A	CAMK2A	CaM-KII_alpha	calcium/calmodulin-dependent protein kinase (CaM kinase) II alpha
+P07101	71	S	Q9UQM7	GRRQsLIED	CAMK2A	CAMK2A	CaM-KII_alpha	calcium/calmodulin-dependent protein kinase (CaM kinase) II alpha
+Q96A00	130	S	Q9UQM7	QPSPsHDGS	CAMK2A	CAMK2A	CaM-KII_alpha	calcium/calmodulin-dependent protein kinase (CaM kinase) II alpha
+P14921	282	S	Q9UQM7	QRVPsYDSF	CAMK2A	CAMK2A	CaM-KII_alpha	calcium/calmodulin-dependent protein kinase (CaM kinase) II alpha
+P09917	272	S	Q9UQM7	ERQLsLEQE	CAMK2A	CAMK2A	CaM-KII_alpha	calcium/calmodulin-dependent protein kinase (CaM kinase) II alpha
+P35367	398	S	Q9UQM7	LRSHsRQYV	CAMK2A	CAMK2A	CaM-KII_alpha	calcium/calmodulin-dependent protein kinase (CaM kinase) II alpha
+P14921	257	S	Q9UQM7	ESIEsYDSC	CAMK2A	CAMK2A	CaM-KII_alpha	calcium/calmodulin-dependent protein kinase (CaM kinase) II alpha
+Q00613	230	S	Q9UQM7	SRQFsLEHV	CAMK2A	CAMK2A	CaM-KII_alpha	calcium/calmodulin-dependent protein kinase (CaM kinase) II alpha
+P07101	19	S	Q9UQM7	RRAVsELDA	CAMK2A	CAMK2A	CaM-KII_alpha	calcium/calmodulin-dependent protein kinase (CaM kinase) II alpha
+Q01970	537	S	Q9UQM7	EPQKsLGDE	CAMK2A	CAMK2A	CaM-KII_alpha	calcium/calmodulin-dependent protein kinase (CaM kinase) II alpha
+P35367	396	S	Q9UQM7	KRLRsHSRQ	CAMK2A	CAMK2A	CaM-KII_alpha	calcium/calmodulin-dependent protein kinase (CaM kinase) II alpha
+Q92736	2808	S	Q9UQM7	TRRIsQTSQ	CAMK2A	CAMK2A	CaM-KII_alpha	calcium/calmodulin-dependent protein kinase (CaM kinase) II alpha
+P35367	140	T	Q9UQM7	LKYRtKTRA	CAMK2A	CAMK2A	CaM-KII_alpha	calcium/calmodulin-dependent protein kinase (CaM kinase) II alpha
+P14921	251	S	Q9UQM7	GGQDsFESI	CAMK2A	CAMK2A	CaM-KII_alpha	calcium/calmodulin-dependent protein kinase (CaM kinase) II alpha
+P35638	31	S	P68400	EVLSsDENG	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P60484	380	S	P68400	HYRYsDTTD	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+Q9UNN5	291	S	P68400	MVSDsDGDD	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P18887	488	T	P68400	DSGDtEDEL	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P04004	76	T	P68400	EDEYtVYDD	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+Q15287	53	S	P68400	TKESsEKDR	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P45984	407	S	P68400	QTLAsDTDS	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+Q04724	239	S	P68400	SHYDsDGDK	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P60983	53	S	P68400	LEGIsPDEL	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+Q9UNN5	289	S	P68400	VHMVsDSDG	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P06127	482	S	P68400	QPDNsSDSD	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+Q08945	510	S	P68400	NEGDsDRDE	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+Q08945	688	S	P68400	RSEDsEEEE	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P49810	9	S	P68400	MASDsEEEV	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P32121	382	T	P68400	TNYAtDDDI	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P11388	1525	S	P68400	YLEEsDEDD	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P05455	366	S	P68400	TKFAsDDEH	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P25963	283	S	P68400	MLPEsEDEE	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P10242	12	S	P68400	SIYSsDEDD	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+Q13323	35	S	P68400	GMTDsEEDL	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P18887	485	S	P68400	GAEDsGDTE	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P25963	288	S	P68400	EDEEsYDTE	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P18887	475	S	P68400	EGVQsEGQD	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P31749	129	S	P68400	PSDNsGAEE	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P18887	525	S	P68400	ENTDsEEHQ	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P07900	263	S	P68400	EDVGsDEEE	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P42768	484	S	P68400	AIHSsDEGE	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P55010	390	S	P68400	EEESsGGEE	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+Q04206	529	S	P68400	NGLLsGDED	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P45984	404	T	P68400	STEQtLASD	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P35638	14	S	P68400	FGTLsSWEL	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P11717	2484	S	P68400	FHDDsDEDL	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P19447	751	S	P68400	MSSMsGADD	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+Q16666	132	S	P68400	KRKKsTKEK	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P00736	206	S	P68400	SGYIsSLEY	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+Q712K3	233	S	P68400	DDDDsGNEE	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P49810	330	S	P68400	DSYDsFGEP	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+O95477	1255	S	P68400	VAEEsGVDA	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P05412	231	T	P68400	EEPQtVPEM	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P49810	7	S	P68400	TFMAsDSEE	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P35638	15	S	P68400	GTLSsWELE	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+Q9UBF6	10	T	P68400	DGEEtCALA	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P18887	523	T	P68400	TDENtDSEE	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P10646	30	S	P68400	LNADsEEDE	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P11717	2409	S	P68400	DDQDsEDEV	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P18887	518	S	P68400	PYAGsTDEN	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P60484	385	S	P68400	DTTDsDPEN	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P25963	293	S	P68400	YDTEsEFTE	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P49427	231	S	P68400	DEDDsGTEE	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P48426	304	S	P68400	EEGEsDGTH	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+Q02078	289	S	P68400	MPPLsEEEE	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P18887	519	T	P68400	YAGStDENT	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P55010	389	S	P68400	AEEEsSGGE	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P10242	11	S	P68400	HSIYsSDED	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+Q16543	13	S	P68400	HIEVsDDED	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P30305	187	S	P68400	GAASsSGED	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P61244	2	S	P68400	sDNDD	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P08238	226	S	P68400	EKEIsDDEA	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P04004	69	T	P68400	GDVFtMPED	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+O95477	1243	T	P68400	ISETtLEEI	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+Q92769	394	S	P68400	VHEDsGDED	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P11831	79	S	P68400	LYSGsEGDS	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P25963	291	T	P68400	ESYDtESEF	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P11831	83	S	P68400	SEGDsESGE	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P04198	261	S	P68400	EDTLsDSDD	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P06127	485	S	P68400	NSSDsDYDL	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P60484	370	S	P68400	TPDVsDNEP	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+O95477	1242	T	P68400	GISEtTLEE	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+O76061	288	S	P68400	PSGSsEWED	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P04198	263	S	P68400	TLSDsDDED	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P61244	11	S	P68400	IEVEsDEEQ	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P49810	335	S	P68400	FGEPsYPEV	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+Q13563	812	S	P68400	SLDDsEEDD	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P08238	255	S	P68400	EDVGsDEED	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+Q13547	423	S	P68400	EFSDsEEEG	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+Q13547	421	S	P68400	EEEFsDSEE	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+Q15185	113	S	P68400	WEDDsDEDM	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P09651	199	S	P68400	GRSGsGNFG	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P60484	382	T	P68400	RYSDtTDSD	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P30305	186	S	P68400	SGAAsSSGE	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P11473	208	S	P68400	NLDLsEEDS	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P11388	1377	S	P68400	KSVVsDLEA	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P06493	39	S	P68400	IRLEsEEEG	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P06401	81	S	P68400	QQSLsDVEG	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P37840	129	S	P68400	YEMPsEEGY	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P12259	720	S	P68400	EDEEsDADY	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+Q15185	118	S	P68400	DEDMsNFDR	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P11831	77	S	P68400	GALYsGSEG	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+P06127	483	S	P68400	PDNSsDSDY	CK2A1	CSNK2A1	CK2_alpha	casein kinase 2, alpha 1 polypeptide
+O14965	67	S	O14965	KLVSsHKPV	AurA	AURKA	Aurora A	Serine/threonine-protein kinase 6 (STK6)
+O14965	287	T	O14965	SSRRtTLCG	AurA	AURKA	Aurora A	Serine/threonine-protein kinase 6 (STK6)
+O14965	266	S	O14965	LLLGsAGEL	AurA	AURKA	Aurora A	Serine/threonine-protein kinase 6 (STK6)
+O14965	278	S	O14965	DFGWsVHAP	AurA	AURKA	Aurora A	Serine/threonine-protein kinase 6 (STK6)
+P38398	308	S	O14965	FCNKsKQPG	AurA	AURKA	Aurora A	Serine/threonine-protein kinase 6 (STK6)
+O14965	226	S	O14965	LQKLsKFDE	AurA	AURKA	Aurora A	Serine/threonine-protein kinase 6 (STK6)
+O14965	16	T	O14965	PVKAtAPVG	AurA	AURKA	Aurora A	Serine/threonine-protein kinase 6 (STK6)
+Q9NRM7	83	S	O14965	EIRYsLLPF	AurA	AURKA	Aurora A	Serine/threonine-protein kinase 6 (STK6)
+O14965	10	S	O14965	ENCIsGPVK	AurA	AURKA	Aurora A	Serine/threonine-protein kinase 6 (STK6)
+O14965	41	S	O14965	LPVNsGQAQ	AurA	AURKA	Aurora A	Serine/threonine-protein kinase 6 (STK6)
+O14965	98	S	O14965	NTQKsKQPL	AurA	AURKA	Aurora A	Serine/threonine-protein kinase 6 (STK6)
+O14965	342	S	O14965	YKRIsRVEF	AurA	AURKA	Aurora A	Serine/threonine-protein kinase 6 (STK6)
+O14965	104	S	O14965	QPLPsAPEN	AurA	AURKA	Aurora A	Serine/threonine-protein kinase 6 (STK6)
+O95983	24	S	O14965	VPRRsGLSA	AurA	AURKA	Aurora A	Serine/threonine-protein kinase 6 (STK6)
+P04637	215	S	O14965	TFRHsVVVP	AurA	AURKA	Aurora A	Serine/threonine-protein kinase 6 (STK6)
+O14965	83	S	O14965	LQATsVPHP	AurA	AURKA	Aurora A	Serine/threonine-protein kinase 6 (STK6)
+O14965	391	S	O14965	SSKPsNCQN	AurA	AURKA	Aurora A	Serine/threonine-protein kinase 6 (STK6)
+O14965	288	T	O14965	SRRTtLCGT	AurA	AURKA	Aurora A	Serine/threonine-protein kinase 6 (STK6)
+P49450	7	S	O14965	PRRRsRKPE	AurA	AURKA	Aurora A	Serine/threonine-protein kinase 6 (STK6)
+P04637	315	S	O14965	NTSSsPQPK	AurA	AURKA	Aurora A	Serine/threonine-protein kinase 6 (STK6)
+P30305	353	S	O14965	KRRRsVTPP	AurA	AURKA	Aurora A	Serine/threonine-protein kinase 6 (STK6)
+P09619	1021	Y	P09619	GDNDyIIPL	PDGFRB	PDGFRB	PDGFR_beta	platelet-derived growth factor receptor, beta polypeptide
+P09619	1009	Y	P09619	SSVLyTAVQ	PDGFRB	PDGFRB	PDGFR_beta	platelet-derived growth factor receptor, beta polypeptide
+P09619	579	Y	P09619	DGHEyIYVD	PDGFRB	PDGFRB	PDGFR_beta	platelet-derived growth factor receptor, beta polypeptide
+P09619	562	Y	P09619	KKPRyEIRW	PDGFRB	PDGFRB	PDGFR_beta	platelet-derived growth factor receptor, beta polypeptide
+P09619	740	Y	P09619	SDGGyMDMS	PDGFRB	PDGFRB	PDGFR_beta	platelet-derived growth factor receptor, beta polypeptide
+P06241	28	Y	P09619	QSSGyRYGT	PDGFRB	PDGFRB	PDGFR_beta	platelet-derived growth factor receptor, beta polypeptide
+P09619	763	Y	P09619	GDVKyADIE	PDGFRB	PDGFRB	PDGFR_beta	platelet-derived growth factor receptor, beta polypeptide
+P09619	581	Y	P09619	HEYIyVDPM	PDGFRB	PDGFRB	PDGFR_beta	platelet-derived growth factor receptor, beta polypeptide
+P09619	857	Y	P09619	RDSNyISKG	PDGFRB	PDGFRB	PDGFR_beta	platelet-derived growth factor receptor, beta polypeptide
+P09619	775	Y	P09619	YMAPyDNYV	PDGFRB	PDGFRB	PDGFR_beta	platelet-derived growth factor receptor, beta polypeptide
+P09619	771	Y	P09619	ESSNyMAPY	PDGFRB	PDGFRB	PDGFR_beta	platelet-derived growth factor receptor, beta polypeptide
+P09619	751	Y	P09619	ESVDyVPML	PDGFRB	PDGFRB	PDGFR_beta	platelet-derived growth factor receptor, beta polypeptide
+P09619	778	Y	P09619	PYDNyVPSA	PDGFRB	PDGFRB	PDGFR_beta	platelet-derived growth factor receptor, beta polypeptide
+P03372	118	S	P50613	PPQLsPFLQ	CDK7	CDK7	CDK7	Cell division protein kinase 7 (CDK-activating kinase) (TFIIH basal transcription factor complex kinase subunit)
+P04637	371	S	P50613	SHLKsKKGQ	CDK7	CDK7	CDK7	Cell division protein kinase 7 (CDK-activating kinase) (TFIIH basal transcription factor complex kinase subunit)
+P10276	77	S	P50613	PSPPsPPPL	CDK7	CDK7	CDK7	Cell division protein kinase 7 (CDK-activating kinase) (TFIIH basal transcription factor complex kinase subunit)
+P04637	376	S	P50613	KKGQsTSRH	CDK7	CDK7	CDK7	Cell division protein kinase 7 (CDK-activating kinase) (TFIIH basal transcription factor complex kinase subunit)
+Q01094	433	T	P50613	FGDLtPLDF	CDK7	CDK7	CDK7	Cell division protein kinase 7 (CDK-activating kinase) (TFIIH basal transcription factor complex kinase subunit)
+P11802	172	T	P50613	QMALtPVVV	CDK7	CDK7	CDK7	Cell division protein kinase 7 (CDK-activating kinase) (TFIIH basal transcription factor complex kinase subunit)
+P04637	378	S	P50613	GQSTsRHKK	CDK7	CDK7	CDK7	Cell division protein kinase 7 (CDK-activating kinase) (TFIIH basal transcription factor complex kinase subunit)
+P06493	161	T	P50613	IRVYtHEVV	CDK7	CDK7	CDK7	Cell division protein kinase 7 (CDK-activating kinase) (TFIIH basal transcription factor complex kinase subunit)
+P04637	392	S	P50613	EGPDsD	CDK7	CDK7	CDK7	Cell division protein kinase 7 (CDK-activating kinase) (TFIIH basal transcription factor complex kinase subunit)
+P04637	33	S	P50613	NNVLsPLPS	CDK7	CDK7	CDK7	Cell division protein kinase 7 (CDK-activating kinase) (TFIIH basal transcription factor complex kinase subunit)
+Q01094	403	S	P50613	FISLsPPHE	CDK7	CDK7	CDK7	Cell division protein kinase 7 (CDK-activating kinase) (TFIIH basal transcription factor complex kinase subunit)
+P22455	754	Y	P22455	VSEEyLDLR	FGFR4	FGFR4	FGFR4	fibroblast growth factor receptor 4
+Q15208	281	S	Q15208	QLAFsTVGT	NDR1	STK38	NDR1	serine/threonine kinase 38
+Q9UQL6	498	S	Q16566	SRTQsSPLP	CAMK4	CAMK4	CaM-KIV	calcium/calmodulin-dependent protein kinase (CaM kinase) IV
+Q9UQL6	259	S	Q16566	RKTAsEPNL	CAMK4	CAMK4	CaM-KIV	calcium/calmodulin-dependent protein kinase (CaM kinase) IV
+Q9Y2H1	282	S	Q9Y2H1	QLAYsTVGT	NDR2	STK38L	NDR2	serine/threonine kinase 38 like
+O15055	662	S	P49674	GKAEsVASL	CK1E	CSNK1E	CK1_epsilon	casein kinase 1, epsilon
+P49674	323	S	P49674	QLRGsATRA	CK1E	CSNK1E	CK1_epsilon	casein kinase 1, epsilon
+P49674	407	T	P49674	PASQtSVPF	CK1E	CSNK1E	CK1_epsilon	casein kinase 1, epsilon
+P25054	1279	S	P49674	SSLSsLSSA	CK1E	CSNK1E	CK1_epsilon	casein kinase 1, epsilon
+P49674	408	S	P49674	ASQTsVPFD	CK1E	CSNK1E	CK1_epsilon	casein kinase 1, epsilon
+P49674	368	S	P49674	PRAIsRVDR	CK1E	CSNK1E	CK1_epsilon	casein kinase 1, epsilon
+P25054	1392	S	P49674	TSVSsLDSF	CK1E	CSNK1E	CK1_epsilon	casein kinase 1, epsilon
+P49674	405	S	P49674	RIPAsQTSV	CK1E	CSNK1E	CK1_epsilon	casein kinase 1, epsilon
+P49674	334	T	P49674	PGPPtGATA	CK1E	CSNK1E	CK1_epsilon	casein kinase 1, epsilon
+P49674	337	T	P49674	PTGAtANRL	CK1E	CSNK1E	CK1_epsilon	casein kinase 1, epsilon
+P49674	325	T	P49674	RGSAtRALP	CK1E	CSNK1E	CK1_epsilon	casein kinase 1, epsilon
+Q14653	386	S	Q9UHD2	GGASsLENT	TBK1	TBK1	TBK1	TANK-binding kinase 1
+Q04206	536	S	Q9UHD2	EDFSsIADM	TBK1	TBK1	TBK1	TANK-binding kinase 1
+Q14653	385	S	Q9UHD2	VGGAsSLEN	TBK1	TBK1	TBK1	TANK-binding kinase 1
+Q02763	992	Y	Q02763	GQEVyVKKT	TIE2	TEK	TIE2	Angiopoietin-1 receptor precursor (EC 2.7.1.112) (Tyrosine-protein kinase receptor TIE-2) (Tyrosine-protein kinase receptor TEK)
+Q02763	1108	Y	Q02763	NTTLyEKFT	TIE2	TEK	TIE2	Angiopoietin-1 receptor precursor (EC 2.7.1.112) (Tyrosine-protein kinase receptor TIE-2) (Tyrosine-protein kinase receptor TEK)
+P07333	809	Y	P07333	NDSNyIVKG	CSFR	CSF1R	CSF1R	colony stimulating factor 1 receptor, formerly McDonough feline sarcoma viral (v-fms) oncogene homolog
+P07333	561	Y	P07333	EGNSyTFID	CSFR	CSF1R	CSF1R	colony stimulating factor 1 receptor, formerly McDonough feline sarcoma viral (v-fms) oncogene homolog
+P02730	904	Y	P43405	GRDEyDEVA	Syk	SYK	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).
+P02730	21	Y	P43405	EQEEyEDPD	Syk	SYK	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).
+P02730	8	Y	P43405	LQDDyEDMM	Syk	SYK	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).
+P19174	771	Y	P43405	AEPDyGALY	Syk	SYK	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).
+Q8WV28	96	Y	P43405	ADDSyEPPP	Syk	SYK	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).
+P14317	378	Y	P43405	PENDyEDVE	Syk	SYK	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).
+P12318	304	Y	P43405	DKNIyLTLP	Syk	SYK	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).
+Q8WV28	84	Y	P43405	DSEMyVMPA	Syk	SYK	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).
+P19174	783	Y	P43405	NPGFyVEAN	Syk	SYK	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).
+P22681	700	Y	P43405	EDTEyMTPS	Syk	SYK	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).
+P31995	287	Y	P43405	TNNDyETAD	Syk	SYK	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).
+P02730	359	Y	P43405	DSSFyKGLD	Syk	SYK	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).
+P37840	133	Y	P43405	SEEGyQDYE	Syk	SYK	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).
+P37840	136	Y	P43405	GYQDyEPEA	Syk	SYK	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).
+P51452	138	Y	P43405	LVIAyLMMR	Syk	SYK	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).
+P43405	352	Y	P43405	YESPyADPE	Syk	SYK	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).
+P37840	125	Y	P43405	DNEAyEMPS	Syk	SYK	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).
+Q8WV28	178	Y	P43405	DEADyVVPV	Syk	SYK	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).
+P12318	281	Y	P43405	TNNDyETAD	Syk	SYK	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).
+P43405	348	Y	P43405	DTEVyESPY	Syk	SYK	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).
+P22681	774	Y	P43405	EDDGyDVPK	Syk	SYK	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).
+P22681	731	Y	P43405	DSCTyEAMY	Syk	SYK	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).
+Q8WV28	72	Y	P43405	FDSDyENPD	Syk	SYK	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).
+P43405	525	Y	P43405	ADENyYKAQ	Syk	SYK	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).
+Q13094	113	Y	P43405	EEDDyESPN	Syk	SYK	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).
+P43405	526	Y	P43405	DENYyKAQT	Syk	SYK	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).
+P14317	397	Y	P43405	PEGDyEEVL	Syk	SYK	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).
+Q13094	128	Y	P43405	DDGDyESPN	Syk	SYK	SYK	Tyrosine-protein kinase SYK (Spleen tyrosine kinase).
+P51617	387	T	P51617	TVRGtLAYL	IRAK1	IRAK1	IRAK1	interleukin-1 receptor-associated kinase 1
+P51617	209	T	P51617	ISRGtHNFS	IRAK1	IRAK1	IRAK1	interleukin-1 receptor-associated kinase 1
+P40763	727	S	P51617	DLPMsPRTL	IRAK1	IRAK1	IRAK1	interleukin-1 receptor-associated kinase 1
+Q8IW41	182	T	Q15759	GDLMtPQFT	P38B	MAPK11	MAPK11	mitogen-activated protein kinase 11 (p38beta)
+P41235	167	S	Q15759	RQITsPVSG	P38B	MAPK11	MAPK11	mitogen-activated protein kinase 11 (p38beta)
+Q02750	222	S	P04049	SMANsFVGT	RAF1	RAF1	RAF1	RAF proto-oncogene serine/threonine-protein kinase
+Q02750	218	S	P04049	QLIDsMANS	RAF1	RAF1	RAF1	RAF proto-oncogene serine/threonine-protein kinase
+P04792	78	S	P49137	SRALsRQLS	MAPKAPK2	MAPKAPK2	MAPKAPK2	MAP kinase-activated protein kinase 2
+O95816	20	S	P49137	CRSSsMADR	MAPKAPK2	MAPKAPK2	MAPKAPK2	MAP kinase-activated protein kinase 2
+O00418	377	S	P49137	LRPLsENSG	MAPKAPK2	MAPKAPK2	MAPKAPK2	MAP kinase-activated protein kinase 2
+P49137	338	T	P49137	TPLHtSRVL	MAPKAPK2	MAPKAPK2	MAPKAPK2	MAP kinase-activated protein kinase 2
+P30305	323	S	P49137	FRSPsMPCS	MAPKAPK2	MAPKAPK2	MAPKAPK2	MAP kinase-activated protein kinase 2
+P33241	252	S	P49137	ARQAsIELP	MAPKAPK2	MAPKAPK2	MAPKAPK2	MAP kinase-activated protein kinase 2
+P09917	272	S	P49137	ERQLsLEQE	MAPKAPK2	MAPKAPK2	MAPKAPK2	MAP kinase-activated protein kinase 2
+P04792	15	S	P49137	LRGPsWDPF	MAPKAPK2	MAPKAPK2	MAPKAPK2	MAP kinase-activated protein kinase 2
+Q00613	121	S	P49137	RKVTsVSTL	MAPKAPK2	MAPKAPK2	MAPKAPK2	MAP kinase-activated protein kinase 2
+P49815	1254	S	P49137	YKSLsVPAA	MAPKAPK2	MAPKAPK2	MAPKAPK2	MAP kinase-activated protein kinase 2
+P07101	19	S	P49137	RRAVsELDA	MAPKAPK2	MAPKAPK2	MAPKAPK2	MAP kinase-activated protein kinase 2
+P04792	82	S	P49137	SRQLsSGVS	MAPKAPK2	MAPKAPK2	MAPKAPK2	MAP kinase-activated protein kinase 2
+Q04759	219	T	Q04759	NSREtMFHK	PKCT	PRKCQ	PKC_theta	Protein kinase C, theta type
+P35568	1101	S	Q04759	RRHSsETFS	PKCT	PRKCQ	PKC_theta	Protein kinase C, theta type
+O43516	488	S	Q04759	SRSGsNRRE	PKCT	PRKCQ	PKC_theta	Protein kinase C, theta type
+P32942	518	S	Q04759	QRSGsYHVR	PKCT	PRKCQ	PKC_theta	Protein kinase C, theta type
+Q8IV61	133	T	Q04759	MRRVtQRKK	PKCT	PRKCQ	PKC_theta	Protein kinase C, theta type
+Q9UKI8	743	S	O14757	RRSNsSGNL	Chk1	CHEK1	CHK1	Serine/threonine-protein kinase Chk1
+O15350	47	S	O14757	GGTDsSMDV	Chk1	CHEK1	CHK1	Serine/threonine-protein kinase Chk1
+P30304	76	S	O14757	QRMGsSEST	Chk1	CHEK1	CHK1	Serine/threonine-protein kinase Chk1
+P30304	124	S	O14757	KRSHsDSLD	Chk1	CHEK1	CHK1	Serine/threonine-protein kinase Chk1
+P30304	178	S	O14757	QRQNsAPAR	Chk1	CHEK1	CHK1	Serine/threonine-protein kinase Chk1
+P04637	20	S	O14757	QETFsDLWK	Chk1	CHEK1	CHK1	Serine/threonine-protein kinase Chk1
+P30304	507	T	O14757	TKSRtWAGE	Chk1	CHEK1	CHK1	Serine/threonine-protein kinase Chk1
+P30304	279	S	O14757	RPERsQEES	Chk1	CHEK1	CHK1	Serine/threonine-protein kinase Chk1
+P30304	293	S	O14757	KRRKsMSGA	Chk1	CHEK1	CHK1	Serine/threonine-protein kinase Chk1
+P30305	230	S	O14757	QRPSsAPDL	Chk1	CHEK1	CHK1	Serine/threonine-protein kinase Chk1
+Q9UD71	34	T	P17612	RRRPtPAML	PKACA	PRKACA	PKA_alpha	protein kinase, cAMP-dependent, catalytic, alpha
+Q9NYV6	633	S	P27361	THFRsPSSS	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+Q9BUB5	385	T	P27361	KGLPtPQVL	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P14598	348	S	P27361	QSPGsPLEE	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P78536	735	T	P27361	PAPQtPGRL	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P41212	257	S	P27361	PKPSsPRQE	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P19419	389	S	P27361	IAPRsPAKL	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P55211	125	T	P27361	LRPEtPRPV	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+Q16828	159	S	P27361	CSSSsPPLP	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+Q15788	1179	T	P27361	TNPGtPPAS	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+Q15796	255	S	P27361	PTTLsPVNH	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P11388	1247	S	P27361	NTEGsPQED	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P01100	232	T	P27361	PEVAtPESE	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+Q15788	1185	S	P27361	PASTsPFSQ	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+O43521	69	S	P27361	APPAsPGPF	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+Q13485	277	T	P27361	TAPYtPNLP	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P61978	284	S	P27361	YDDMsPRRG	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P49841	43	T	P27361	TVVAtPGQG	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P42702	1044	S	P27361	VSPDsPRSI	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+Q14247	405	S	P27361	TPPVsPAPQ	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P01100	331	T	P27361	VVTCtPSCT	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+Q15796	250	S	P27361	PAELsPTTL	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P08047	739	T	P27361	SGTAtPSAL	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P61978	353	S	P27361	IDTWsPSEW	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P10828	142	S	P27361	NLHPsYSCK	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+Q15796	245	S	P27361	MDTGsPAEL	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+Q9UJY1	87	T	P27361	AEGRtPPPF	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+Q12772	432	S	P27361	VLLMsPPAS	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P36956	117	S	P27361	MPAFsPGPG	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+Q14934	676	S	P27361	RRKRsPTQS	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P02686	232	T	P27361	VTPRtPPPS	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P11388	1361	S	P27361	KTKTsPKLS	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P49715	21	S	P27361	SHLQsPPHA	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P56270	72	T	P27361	APPPtPQAP	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P19793	260	S	P27361	LNPSsPNDP	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+Q9NQ66	982	S	P27361	SEPSsPDHG	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P17655	50	S	P27361	FQDPsFPAI	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P03372	118	S	P27361	PPQLsPFLQ	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P14598	345	S	P27361	PGPQsPGSP	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P23396	42	T	P27361	EVRVtPTRT	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P28562	364	S	P27361	PITTsPSC	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P41212	213	S	P27361	IRRLsPAER	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+Q15648	1457	T	P27361	SPAYtPQNL	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+O75582	360	S	P27361	DPTYsPAAL	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+Q15796	8	T	P27361	ILPFtPPVV	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+Q9UJY1	27	S	P27361	DSPLsSRLL	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P42229	780	S	P27361	DSRLsPPAG	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P17542	122	S	P27361	MVQLsPPAL	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P00533	693	T	P27361	VEPLtPSGE	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+Q07820	163	T	P27361	SLPStPPPA	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P11388	1354	S	P27361	PSDAsPPKT	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P27708	456	T	P27361	FLPItPHYV	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P08047	453	T	P27361	IIIRtPTVG	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+Q14247	418	S	P27361	RLPSsPVYE	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+O75582	581	T	P27361	QPLKtPCFT	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P19419	383	S	P27361	WSTLsPIAP	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P01100	325	T	P27361	EPLCtPVVT	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+Q9UQC2	623	S	P27361	FQPSsPSPH	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P11388	1393	S	P27361	PLSSsPPAT	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+Q12772	455	S	P27361	SEPGsPLLD	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P05787	432	S	P27361	GGLTsPGLS	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P06401	294	S	P27361	APGRsPLAT	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+Q15796	220	T	P27361	YIPEtPPPG	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P11388	1213	S	P27361	EVLPsPRGQ	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P17676	235	T	P27361	SPPGtPSPA	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+Q05682	789	S	P27361	DKVTsPTKV	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P10242	532	S	P27361	QEVEsPTDK	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+P35568	616	S	P27361	YMPMsPGVA	ERK1	MAPK3	MAPK3	mitogen-activated protein kinase 3 (Erk1)
+Q16584	281	S	Q92918	TTQMsAAGT	HPK1	MAP4K1	MAP4K1	mitogen-activated protein kinase kinase kinase kinase 1 (HPK1)
+Q13094	376	S	Q92918	PQSAsLPPY	HPK1	MAP4K1	MAP4K1	mitogen-activated protein kinase kinase kinase kinase 1 (HPK1)
+P10301	66	Y	P29323	IEDSyTKIC	EphB2	EPHB2	EphB2	EPH receptor B2
+Q8IU85	180	T	Q8N5S9	DVMStACGT	CAMKK1	CAMKK1	CaM-KK_alpha	calcium/calmodulin-dependent protein kinase kinase 1, alpha
+P56817	498	S	P48730	ADDIsLLK	CK1D	CSNK1D	CK1_delta	casein kinase 1, delta
+P12830	844	S	P48730	SEAAsLSSL	CK1D	CSNK1D	CK1_delta	casein kinase 1, delta
+P49810	330	S	P48730	DSYDsFGEP	CK1D	CSNK1D	CK1_delta	casein kinase 1, delta
+P49810	327	S	P48730	MEEDsYDSF	CK1D	CSNK1D	CK1_delta	casein kinase 1, delta
+P08559	300	S	Q16654	DPGVsYRTR	PDHK4	PDK4	PDHK4	pyruvate dehydrogenase kinase, isozyme 4
+P08559	293	S	Q16654	YHGHsMSDP	PDHK4	PDK4	PDHK4	pyruvate dehydrogenase kinase, isozyme 4
+P45984	183	T	O14733	NFMMtPYVV	MKK7	MAP2K7	MAP2K7	mitogen-activated protein kinase kinase 7
+P45983	185	Y	O14733	MMTPyVVTR	MKK7	MAP2K7	MAP2K7	mitogen-activated protein kinase kinase 7
+P45984	407	S	O14733	QTLAsDTDS	MKK7	MAP2K7	MAP2K7	mitogen-activated protein kinase kinase 7
+P45983	183	T	O14733	SFMMtPYVV	MKK7	MAP2K7	MAP2K7	mitogen-activated protein kinase kinase 7
+P45984	404	T	O14733	STEQtLASD	MKK7	MAP2K7	MAP2K7	mitogen-activated protein kinase kinase 7
+P53779	221	T	O14733	SFMMtPYVV	MKK7	MAP2K7	MAP2K7	mitogen-activated protein kinase kinase 7
+P04626	1222	Y	P04626	DNLYyWDQD	HER2	ERBB2	ErbB2	Receptor tyrosine-protein kinase erbB-2 precursor
+P04626	1221	Y	P04626	FDNLyYWDQ	HER2	ERBB2	ErbB2	Receptor tyrosine-protein kinase erbB-2 precursor
+P04626	1248	Y	P04626	ENPEyLGLD	HER2	ERBB2	ErbB2	Receptor tyrosine-protein kinase erbB-2 precursor
+P04626	1139	Y	P04626	PQPEyVNQP	HER2	ERBB2	ErbB2	Receptor tyrosine-protein kinase erbB-2 precursor
+P04626	1196	Y	P04626	ENPEyLTPQ	HER2	ERBB2	ErbB2	Receptor tyrosine-protein kinase erbB-2 precursor
+P16885	753	Y	P12931	INSLyDVSR	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P19022	884	Y	P12931	GEQDyDYLN	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P30411	347	Y	P12931	SWEVyQGVC	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P61978	234	Y	P12931	YDETyDYGG	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+O15492	177	Y	P12931	KSPAyRDLA	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+O15530	376	Y	P12931	CYGNyDNLL	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P29350	564	Y	P12931	KEDVyENLH	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P07355	24	Y	P12931	PPSAyGSVK	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+Q13813	1176	Y	P12931	QQEVyGMMP	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P61978	230	Y	P12931	DPNFyDETY	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+O15162	69	Y	P12931	NQPVyNQPV	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+O15162	74	Y	P12931	NQPVyNQPV	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P04083	21	Y	P12931	EEQEyVQTV	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P30411	177	Y	P12931	WAKLySLVI	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+Q14247	470	Y	P12931	TEAVyESAE	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P10398	302	Y	P12931	DSGYyWEVP	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P42229	694	Y	P12931	AVDGyVKPQ	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+O95297	263	Y	P12931	ESVVyADIR	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P61978	236	Y	P12931	ETYDyGGFT	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+Q13905	504	Y	P12931	PSVPyAPFA	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P19022	852	Y	P12931	TAPPyDSLL	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P46527	88	Y	P12931	LPEFyYRPP	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P35222	86	Y	P12931	IDGQyAMTR	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+O14746	707	Y	P12931	PPELyFVKV	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P04049	341	Y	P12931	DSSYyWEIE	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P46527	74	Y	P12931	LEGKyEWQE	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P63244	246	Y	P12931	SPNRyWLCA	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+O15530	373	Y	P12931	DEDCyGNYD	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P06396	465	Y	P12931	DPATyGQFY	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+Q03135	14	Y	P12931	EGHLyTVPI	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P15941	1229	Y	P12931	DRSPyEKVS	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P15311	478	Y	P12931	PPPVyEPVS	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+Q15139	95	Y	P12931	ECGFyGMYD	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+Q13322	67	Y	P12931	LESLySACS	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P00533	1016	Y	P12931	DADEyLIPQ	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P16885	759	Y	P12931	VSRMyVDPS	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P63244	228	Y	P12931	GKHLyTLDG	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P00533	869	Y	P12931	EEKEyHAEG	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P61978	380	Y	P12931	GRGSyGDLG	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+Q14247	486	Y	P12931	EDSTyDEYE	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+Q05397	861	Y	P12931	NQHIyQPVG	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P10301	66	Y	P12931	IEDSyTKIC	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P51636	19	Y	P12931	DDDSySHHS	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+Q99961	315	Y	P12931	CKALyDFEP	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P46527	89	Y	P12931	PEFYyRPPR	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P00533	944	Y	P12931	TIDVyMIMV	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P00533	1125	Y	P12931	RDPHyQDPH	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P29350	536	Y	P12931	QESEyGNIT	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P05106	773	Y	P12931	NNPLyKEAT	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+O15492	168	Y	P12931	EKDSyPRFL	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P35222	654	Y	P12931	GVATyAAAV	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P36544	386	Y	P12931	GNLLyIGFR	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P03372	537	Y	P12931	VVPLyDLLL	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P36544	442	Y	P12931	EEVRyIANR	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P00533	915	Y	P12931	GSKPyDGIP	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+O43597	55	Y	P12931	NTNEyTEGP	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+O95297	241	Y	P12931	GPVIyAQLD	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+Q92558	125	Y	P12931	LQETyDVCE	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P10398	301	Y	P12931	RDSGyYWEV	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P12931	338	Y	P12931	EEPIyIVTE	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+Q00610	1477	Y	P12931	TEEDyQALR	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+Q9NRY4	1105	Y	P12931	EENIySVPH	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P12931	419	Y	P12931	EDNEyTARQ	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P51813	566	Y	P12931	LDDQyVSSV	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P49023	88	Y	P12931	SSPVyGSSA	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+Q07954	4507	Y	P12931	TNPVyATLY	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P05106	785	Y	P12931	TNITyRGT	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P42224	701	Y	P12931	KGTGyIKTE	Src	SRC	SRC	Proto-oncogene tyrosine-protein kinase Src
+P18846	63	S	Q00526	ARRPsYRKI	CDK3	CDK3	CDK3	cyclin-dependent kinase 3
+P31749	473	S	Q13418	FPQFsYSAS	ILK	ILK	ILK	Integrin-linked protein kinase 1
+Q96A00	38	T	Q13418	HARVtVKYD	ILK	ILK	ILK	Integrin-linked protein kinase 1
+Q8TAE6	73	T	Q13418	QGKVtVKYD	ILK	ILK	ILK	Integrin-linked protein kinase 1
+Q96C90	57	T	Q13418	QGKVtVKYD	ILK	ILK	ILK	Integrin-linked protein kinase 1
+P23528	3	S	Q15569	sGVAV	TESK1	TESK1	TESK1	Dual specificity testis-specific protein kinase 1
+P04637	18	T	Q99986	LSQEtFSDL	VRK1	VRK1	VRK1	vaccinia related kinase 1
+P05412	73	S	Q99986	LKLAsPELE	VRK1	VRK1	VRK1	vaccinia related kinase 1
+P05412	63	S	Q99986	DLLTsPDVG	VRK1	VRK1	VRK1	vaccinia related kinase 1
+Q9UBS0	473	S	P41743	GTKKsKRGR	PKCI	PRKCI	PKC_iota	protein kinase C, iota
+Q9UQC2	614	Y	P43403	GSVDyLALD	ZAP70	ZAP70	ZAP70	Tyrosine-protein kinase ZAP-70
+P43403	315	Y	P43403	DTSVyESPY	ZAP70	ZAP70	ZAP70	Tyrosine-protein kinase ZAP-70
+Q9UJU6	334	Y	P43403	EEAVyEEPP	ZAP70	ZAP70	ZAP70	Tyrosine-protein kinase ZAP-70
+Q9UJU6	344	Y	P43403	QETFyEQPP	ZAP70	ZAP70	ZAP70	Tyrosine-protein kinase ZAP-70
+Q13094	128	Y	P43403	DDGDyESPN	ZAP70	ZAP70	ZAP70	Tyrosine-protein kinase ZAP-70
+P43403	493	Y	P43403	DDSYyTARS	ZAP70	ZAP70	ZAP70	Tyrosine-protein kinase ZAP-70
+Q13094	145	Y	P43403	DDADyEPPP	ZAP70	ZAP70	ZAP70	Tyrosine-protein kinase ZAP-70
+Q16539	323	Y	P43403	VADPyDQSF	ZAP70	ZAP70	ZAP70	Tyrosine-protein kinase ZAP-70
+P43403	492	Y	P43403	ADDSyYTAR	ZAP70	ZAP70	ZAP70	Tyrosine-protein kinase ZAP-70
+P51452	138	Y	P43403	LVIAyLMMR	ZAP70	ZAP70	ZAP70	Tyrosine-protein kinase ZAP-70
+P43403	126	Y	P43403	MVRDyVRQT	ZAP70	ZAP70	ZAP70	Tyrosine-protein kinase ZAP-70
+P43403	292	Y	P43403	NSDGyTPEP	ZAP70	ZAP70	ZAP70	Tyrosine-protein kinase ZAP-70
+Q13094	113	Y	P43403	EEDDyESPN	ZAP70	ZAP70	ZAP70	Tyrosine-protein kinase ZAP-70
+P42681	91	Y	P42681	VKALyDFLP	TXK	TXK	TXK	Syn= Rlk
+Q15797	465	S	O00238	ISSVs	BMPR1B	BMPR1B	BMPR1B	bone morphogenetic protein receptor, type IB
+Q15796	467	S	O00238	CSSMs	BMPR1B	BMPR1B	BMPR1B	bone morphogenetic protein receptor, type IB
+Q15797	462	S	O00238	HNPIsSVS	BMPR1B	BMPR1B	BMPR1B	bone morphogenetic protein receptor, type IB
+Q15796	465	S	O00238	VRCSsMS	BMPR1B	BMPR1B	BMPR1B	bone morphogenetic protein receptor, type IB
+Q15797	463	S	O00238	NPISsVS	BMPR1B	BMPR1B	BMPR1B	bone morphogenetic protein receptor, type IB
+Q15796	464	S	O00238	SVRCsSMS	BMPR1B	BMPR1B	BMPR1B	bone morphogenetic protein receptor, type IB
+P29597	1054	Y	P29597	EGHEyYRVR	Tyk2	TYK2	Tyk2	Non-receptor tyrosine-protein kinase TYK2
+P29597	1055	Y	P29597	GHEYyRVRE	Tyk2	TYK2	Tyk2	Non-receptor tyrosine-protein kinase TYK2
+P17181	466	Y	P29597	RCINyVFFP	Tyk2	TYK2	Tyk2	Non-receptor tyrosine-protein kinase TYK2
+P63244	194	Y	P29597	GHTGyLNTV	Tyk2	TYK2	Tyk2	Non-receptor tyrosine-protein kinase TYK2
+P17181	481	Y	P29597	SIDEyFSEQ	Tyk2	TYK2	Tyk2	Non-receptor tyrosine-protein kinase TYK2
+Q14289	402	Y	Q14289	ESDIyAEIP	Pyk2	PTK2B	PYK2	Focal adhesion kinase 2
+P04792	82	S	Q9UBS0	SRQLsSGVS	P70S6KB	RPS6KB2	p70S6Kb	ribosomal protein S6 kinase, 70kDa, polypeptide 2
+P04792	78	S	Q9UBS0	SRALsRQLS	P70S6KB	RPS6KB2	p70S6Kb	ribosomal protein S6 kinase, 70kDa, polypeptide 2
+P05783	53	S	Q9UBS0	SRSTsFRGG	P70S6KB	RPS6KB2	p70S6Kb	ribosomal protein S6 kinase, 70kDa, polypeptide 2
+Q13882	447	Y	Q13882	SFTSyENPT	Brk	PTK6	Brk	Breast tumor kinase (PTK6)
+Q13882	342	Y	Q13882	KEDVyLSHD	Brk	PTK6	Brk	Breast tumor kinase (PTK6)
+P42680	206	Y	P42680	RGQEyLILE	TEC	TEC	TEC	Tyrosine-protein kinase Tec
+Q99638	328	S	Q9UKI8	SISLsPGPQ	TLK1	TLK1	TLK1	tousled-like kinase 1
+P46060	409	T	P06493	EKSAtPSRK	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P23443	447	S	P06493	RTPVsPVKF	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P17096	78	T	P06493	KTTTtPGRK	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P62136	320	T	P06493	GRPItPPRN	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P55211	125	T	P06493	LRPEtPRPV	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P04183	13	S	P06493	VLPGsPSKT	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+Q92574	1047	T	P06493	SELStPEKP	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P47736	484	S	P06493	VPGKsPTRK	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P48200	157	S	P06493	AGKLsPLKV	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P15927	29	S	P06493	GGFGsPAPS	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P11388	1247	S	P06493	NTEGsPQED	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+Q9H1A4	537	T	P06493	DGVStPKPL	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+Q9H1A4	377	S	P06493	SHNQsPKRH	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P27816	696	S	P06493	ELPPsPEKK	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P30307	122	S	P06493	LMKCsPAQL	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P68400	344	T	P06493	PGGStPVSS	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+Q14807	463	T	P06493	PLLStPKRE	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P30307	168	S	P06493	KYLGsPITT	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+Q8N122	696	S	P06493	YALPsPATT	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P30260	289	T	P06493	LPLEtPSPG	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P30304	18	S	P06493	LFACsPPPA	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P30307	67	T	P06493	LSGGtPKRC	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P68400	362	S	P06493	VPTPsPLGP	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P30304	116	S	P06493	LLGCsPALK	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+O00571	323	T	P06493	LLVAtPGRL	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+Q99638	355	T	P06493	TVPGtPPPK	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+Q92574	584	S	P06493	IFTPsPCKI	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P06748	234	T	P06493	KQEKtPKTP	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P30307	130	T	P06493	LLCStPNGL	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P36956	439	S	P06493	PFQSsPLSL	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P68400	360	T	P06493	SSVPtPSPL	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+Q8TAP9	120	T	P06493	PRTStPFGS	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+O15392	34	T	P06493	GCACtPERM	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P30260	343	T	P06493	SREVtPILA	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+O14757	301	S	P06493	NLDFsPVNS	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+O00562	382	S	P06493	DAFAsPVEA	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+Q8TAP9	93	S	P06493	SYSRsPAGS	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P31350	20	S	P06493	QLQLsPLKG	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P06748	199	T	P06493	SIRDtPAKN	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P61020	123	S	P06493	QRQAsPSIV	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P11388	1361	S	P06493	KTKTsPKLS	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+Q99638	328	S	P06493	SISLsPGPQ	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P30291	123	S	P06493	FGSSsPVKS	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+Q06830	90	T	P06493	AWVNtPKKQ	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+Q99638	277	S	P06493	QDLGsPERH	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P18031	386	S	P06493	AQAAsPAKG	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+Q99638	336	S	P06493	QPPKsPGPH	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+Q9H1A4	688	S	P06493	EGSLsPVIA	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P23443	394	S	P06493	TPVDsPDDS	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P30260	205	T	P06493	VLTEtPQDT	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P30307	214	S	P06493	GLYRsPSMP	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+O00443	259	S	P06493	NLQVsPKSE	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+Q01094	332	S	P06493	ATIVsPPPS	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P49459	120	S	P06493	PNPNsPANS	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+Q08050-2	596	T	P06493	PISStPSKS	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P30307	48	T	P06493	DVPRtPVGK	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P67870	209	S	P06493	SNFKsPVKT	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+Q14674	1126	S	P06493	STNSsPVLK	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+Q92574	417	T	P06493	QATVtPPRK	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P39748	187	S	P06493	LTFGsPVLM	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P68400	370	S	P06493	PLAGsPVIA	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+O00571	204	T	P06493	YTRPtPVQK	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+Q14739	71	S	P06493	STSSsPSRR	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+Q9UNZ2	140	S	P06493	RVTKsPGET	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+Q02750	286	T	P06493	DAAEtPPRP	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+O15287	387	S	P06493	SPPPsPPGP	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+Q53EZ4	425	S	P06493	KVAAsPKSP	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+Q9H1A4	291	T	P06493	EQGGtPQNV	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P00533	1026	S	P06493	GFFSsPSTS	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P15927	23	S	P06493	GYTQsPGGF	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+O00562	287	T	P06493	SNTGtPDGP	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P17096	53	T	P06493	SEVPtPKRP	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P11388	1354	S	P06493	PSDAsPPKT	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P23443	434	S	P06493	PKIRsPRRF	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+Q53EZ4	428	S	P06493	ASPKsPTAA	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+Q9H1A4	355	S	P06493	SRAHsPALG	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+Q92993	90	S	P06493	SRPGsPERE	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+Q8TAP9	104	S	P06493	QFGYsPGQQ	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+Q9H1A4	555	S	P06493	VVLLsPVPE	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+Q8N122	706	T	P06493	GGSLtPVRD	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P17706-2	304	S	P06493	AFDHsPNKI	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+Q96KB5	9	T	P06493	SNFKtPSKL	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+Q01094	337	S	P06493	PPPSsPPSS	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+Q99638	292	T	P06493	QAHStPHPD	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P30260	446	T	P06493	ISTItPQIQ	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P11388	1393	S	P06493	PLSSsPPAT	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P06748	237	T	P06493	KTPKtPKGP	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+Q9H1A4	530	T	P06493	PRPStPLDG	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P52732	926	T	P06493	PTGTtPQRK	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+O95835	613	S	P06493	QITTsPITV	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P05787	432	S	P06493	GGLTsPGLS	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P11388	1213	S	P06493	EVLPsPRGQ	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+Q8IXJ6	368	S	P06493	STSAsPKKS	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P27816	787	S	P06493	EKRAsPSKP	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+Q06481	736	T	P06493	DPMLtPEER	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P08670	56	S	P06493	LYASsPGGV	CDK1	CDK1	CDK1	Cell division control protein 2 homolog (p34 protein kinase) (Cyclin-dependent kinase 1) GENE=CDC2
+P04049	269	T	Q8IVT5	MVSTtLPVD	KSR	KSR1	KSR1	kinase suppressor of ras 1
+Q01094	364	S	O96017	SRMGsLRAP	Chk2	CHEK2	CHK2	CHK2 checkpoint homolog
+P38398	988	S	O96017	FPIKsFVKT	Chk2	CHEK2	CHK2	CHK2 checkpoint homolog
+P30307	216	S	O96017	YRSPsMPEN	Chk2	CHEK2	CHK2	CHK2 checkpoint homolog
+P30304	279	S	O96017	RPERsQEES	Chk2	CHEK2	CHK2	CHK2 checkpoint homolog
+P30304	124	S	O96017	KRSHsDSLD	Chk2	CHEK2	CHK2	CHK2 checkpoint homolog
+O96017	516	S	O96017	LAQPsTSRK	Chk2	CHEK2	CHK2	CHK2 checkpoint homolog
+P30304	178	S	O96017	QRQNsAPAR	Chk2	CHEK2	CHK2	CHK2 checkpoint homolog
+P04637	20	S	O96017	QETFsDLWK	Chk2	CHEK2	CHK2	CHK2 checkpoint homolog
+O96017	68	T	O96017	ETVStQELY	Chk2	CHEK2	CHK2	CHK2 checkpoint homolog
+O96017	387	T	O96017	TLCGtPTYL	Chk2	CHEK2	CHK2	CHK2 checkpoint homolog
+P30304	293	S	O96017	KRRKsMSGA	Chk2	CHEK2	CHK2	CHK2 checkpoint homolog
+O96017	383	T	O96017	SLMRtLCGT	Chk2	CHEK2	CHK2	CHK2 checkpoint homolog
+Q15722	308	T	P43250	LLEGtGSEA	GRK6	GRK6	GRK-6	G protein-coupled receptor kinase 6
+O14745	290	S	P43250	VRSAsSDTS	GRK6	GRK6	GRK-6	G protein-coupled receptor kinase 6
+P17948	1327	Y	P17948	PPPDyNSVV	VEGFR1	FLT1	FLT1	Vascular endothelial growth factor receptor 1 (VEGFR-1)
+P17948	1213	Y	P17948	DDVRyVNAF	VEGFR1	FLT1	FLT1	Vascular endothelial growth factor receptor 1 (VEGFR-1)
+P17948	1333	Y	P17948	SVVLySTPP	VEGFR1	FLT1	FLT1	Vascular endothelial growth factor receptor 1 (VEGFR-1)
+P17948	1242	Y	P17948	MFDDyQGDS	VEGFR1	FLT1	FLT1	Vascular endothelial growth factor receptor 1 (VEGFR-1)
+P08069	1161	Y	P08069	TRDIyETDY	IGF1R	IGF1R	IGF1R	Insulin-like growth factor 1 receptor (CD221)
+P08069	1281	Y	P08069	VSFYySEEN	IGF1R	IGF1R	IGF1R	Insulin-like growth factor 1 receptor (CD221)
+P08069	980	Y	P08069	VNPEyFSAA	IGF1R	IGF1R	IGF1R	Insulin-like growth factor 1 receptor (CD221)
+P08069	1165	Y	P08069	YETDyYRKG	IGF1R	IGF1R	IGF1R	Insulin-like growth factor 1 receptor (CD221)
+P08069	1280	Y	P08069	EVSFyYSEE	IGF1R	IGF1R	IGF1R	Insulin-like growth factor 1 receptor (CD221)
+P08069	1166	Y	P08069	ETDYyRKGG	IGF1R	IGF1R	IGF1R	Insulin-like growth factor 1 receptor (CD221)
+P37173	213	S	P37173	LMEFsEHCA	TGFBR2	TGFBR2	TGFbR2	TGF-beta receptor type II
+P37173	259	Y	P37173	FAEVyKAKL	TGFBR2	TGFBR2	TGFbR2	TGF-beta receptor type II
+P37173	416	S	P37173	DLANsGQVG	TGFBR2	TGFBR2	TGFbR2	TGF-beta receptor type II
+P37173	424	Y	P37173	GTARyMAPE	TGFBR2	TGFBR2	TGFbR2	TGF-beta receptor type II
+P37173	409	S	P37173	DPTLsVDDL	TGFBR2	TGFBR2	TGFbR2	TGF-beta receptor type II
+P37173	336	Y	P37173	NLQEyLTRH	TGFBR2	TGFBR2	TGFbR2	TGF-beta receptor type II
+P18031	50	S	P49759	YRDVsPFDH	CLK1	CLK1	CLK1	CDC-like kinase 1
+P04637	37	S	P78527	SPLPsQAMD	DNAPK	PRKDC	DNA-PK	DNA-dependent protein kinase catalytic subunit
+P07900	7	T	P78527	EETQtQDQP	DNAPK	PRKDC	DNA-PK	DNA-dependent protein kinase catalytic subunit
+P11831	446	S	P78527	QVSHsQVQE	DNAPK	PRKDC	DNA-PK	DNA-dependent protein kinase catalytic subunit
+P11831	435	S	P78527	LNAFsQAPS	DNAPK	PRKDC	DNA-PK	DNA-dependent protein kinase catalytic subunit
+P49917	650	T	P78527	APNLtNVNK	DNAPK	PRKDC	DNA-PK	DNA-dependent protein kinase catalytic subunit
+P78527	2638	T	P78527	QIRAtQQQH	DNAPK	PRKDC	DNA-PK	DNA-dependent protein kinase catalytic subunit
+P78527	2609	T	P78527	MFVEtQASQ	DNAPK	PRKDC	DNA-PK	DNA-dependent protein kinase catalytic subunit
+P78527	2647	T	P78527	DFTLtQTAD	DNAPK	PRKDC	DNA-PK	DNA-dependent protein kinase catalytic subunit
+P78527	2612	S	P78527	ETQAsQGTL	DNAPK	PRKDC	DNA-PK	DNA-dependent protein kinase catalytic subunit
+P15927	33	S	P78527	SPAPsQAEK	DNAPK	PRKDC	DNA-PK	DNA-dependent protein kinase catalytic subunit
+P15927	21	T	P78527	AGGYtQSPG	DNAPK	PRKDC	DNA-PK	DNA-dependent protein kinase catalytic subunit
+P04637	15	S	P78527	EPPLsQETF	DNAPK	PRKDC	DNA-PK	DNA-dependent protein kinase catalytic subunit
+P78527	2056	S	P78527	YSYSsQDPR	DNAPK	PRKDC	DNA-PK	DNA-dependent protein kinase catalytic subunit
+Q96RR4	511	S	P53355	ERSLsAPGN	DAPK1	DAPK1	DAPK1	death-associated protein kinase 1
+P53355	308	S	P53355	KWKQsVRLI	DAPK1	DAPK1	DAPK1	death-associated protein kinase 1
+Q14457	119	T	P53355	RLKVtGDLF	DAPK1	DAPK1	DAPK1	death-associated protein kinase 1
+P04637	20	S	P53355	QETFsDLWK	DAPK1	DAPK1	DAPK1	death-associated protein kinase 1
+P25205	160	S	P53355	ERRYsDLTT	DAPK1	DAPK1	DAPK1	death-associated protein kinase 1
+Q96A00	38	T	Q15139	HARVtVKYD	PRKD1	PRKD1	PKD1	protein kinase D1
+Q15139	910	S	Q15139	GERVsIL	PRKD1	PRKD1	PKD1	protein kinase D1
+Q13671	351	S	Q15139	LRSMsAAFC	PRKD1	PRKD1	PKD1	protein kinase D1
+P04792	82	S	Q15139	SRQLsSGVS	PRKD1	PRKD1	PKD1	protein kinase D1
+Q8WUI4	155	S	Q15139	RKTVsEPNL	PRKD1	PRKD1	PKD1	protein kinase D1
+O43318	184	T	O43318	CDIQtHMTN	TAK1	MAP3K7	MAP3K7	mitogen-activated protein kinase kinase kinase 7
+O43318	192	S	O43318	NNKGsAAWM	TAK1	MAP3K7	MAP3K7	mitogen-activated protein kinase kinase kinase 7
+O43318	187	T	O43318	QTHMtNNKG	TAK1	MAP3K7	MAP3K7	mitogen-activated protein kinase kinase kinase 7
+P10721	703	Y	P10721	EAALyKNLL	Kit	KIT	Kit	Mast/stem cell growth factor receptor (SCFR)
+P10721	568	Y	P10721	NGNNyVYID	Kit	KIT	Kit	Mast/stem cell growth factor receptor (SCFR)
+P10721	936	Y	P10721	TNHIySNLA	Kit	KIT	Kit	Mast/stem cell growth factor receptor (SCFR)
+P10721	570	Y	P10721	NNYVyIDPT	Kit	KIT	Kit	Mast/stem cell growth factor receptor (SCFR)
+P19525	242	S	P19525	KAKRsLAPR	PKR	EIF2AK2	EIF2AK2	Interferon-inducible RNA-dependent protein kinase
+P19525	83	S	P19525	KKAVsPLLL	PKR	EIF2AK2	EIF2AK2	Interferon-inducible RNA-dependent protein kinase
+P19525	451	T	P19525	RSKGtLRYM	PKR	EIF2AK2	EIF2AK2	Interferon-inducible RNA-dependent protein kinase
+P19525	446	T	P19525	DGKRtRSKG	PKR	EIF2AK2	EIF2AK2	Interferon-inducible RNA-dependent protein kinase
+P05198	49	S	P19525	MILLsELSR	PKR	EIF2AK2	EIF2AK2	Interferon-inducible RNA-dependent protein kinase
+P19525	255	T	P19525	DMKEtKYTV	PKR	EIF2AK2	EIF2AK2	Interferon-inducible RNA-dependent protein kinase
+P19525	89	T	P19525	LLLTtTNSS	PKR	EIF2AK2	EIF2AK2	Interferon-inducible RNA-dependent protein kinase
+P19525	88	T	P19525	PLLLtTTNS	PKR	EIF2AK2	EIF2AK2	Interferon-inducible RNA-dependent protein kinase
+P19525	90	T	P19525	LLTTtNSSE	PKR	EIF2AK2	EIF2AK2	Interferon-inducible RNA-dependent protein kinase
+P05198	52	S	P19525	LSELsRRRI	PKR	EIF2AK2	EIF2AK2	Interferon-inducible RNA-dependent protein kinase
+P19525	258	T	P19525	ETKYtVDKR	PKR	EIF2AK2	EIF2AK2	Interferon-inducible RNA-dependent protein kinase
+O14493	208	Y	P29317	AASNyV	EphA2	EPHA2	EphA2	EPH receptor A2
+Q9H093	208	T	Q15831	KFLQtFCGS	LKB1	STK11	LKB1	serine/threonine kinase 11 (LKB1)
+O60285	211	T	Q15831	KFLQtFCGS	LKB1	STK11	LKB1	serine/threonine kinase 11 (LKB1)
+Q14680	167	T	Q15831	YHLQtCCGS	LKB1	STK11	LKB1	serine/threonine kinase 11 (LKB1)
+Q96L34	214	T	Q15831	SKLDtFCGS	LKB1	STK11	LKB1	serine/threonine kinase 11 (LKB1)
+Q8IWQ3	174	T	Q15831	SLLEtSCGS	LKB1	STK11	LKB1	serine/threonine kinase 11 (LKB1)
+Q9H0K1	175	T	Q15831	ELLAtWCGS	LKB1	STK11	LKB1	serine/threonine kinase 11 (LKB1)
+Q7KZI7	208	T	Q15831	NKLDtFCGS	LKB1	STK11	LKB1	serine/threonine kinase 11 (LKB1)
+Q15831	189	T	Q15831	TTGGtLKIS	LKB1	STK11	LKB1	serine/threonine kinase 11 (LKB1)
+P57059	182	T	Q15831	EPLStWCGS	LKB1	STK11	LKB1	serine/threonine kinase 11 (LKB1)
+Q9P0L2	215	T	Q15831	NKLDtFCGS	LKB1	STK11	LKB1	serine/threonine kinase 11 (LKB1)
+Q9NRH2	173	T	Q15831	KKLTtSCGS	LKB1	STK11	LKB1	serine/threonine kinase 11 (LKB1)
+P60484	382	T	Q15831	RYSDtTDSD	LKB1	STK11	LKB1	serine/threonine kinase 11 (LKB1)
+P42224	701	Y	P23458	KGTGyIKTE	JAK1	JAK1	JAK1	Janus protein-tyrosine kinase 1
+P04040	231	Y	P00519	GEAVyCKFH	Abl	ABL1	Abl	Proto-oncogene tyrosine-protein kinase ABL1
+P00519	393	Y	P00519	TGDTyTAHA	Abl	ABL1	Abl	Proto-oncogene tyrosine-protein kinase ABL1
+O15350	99	Y	P00519	THSPyAQPS	Abl	ABL1	Abl	Proto-oncogene tyrosine-protein kinase ABL1
+P46108	221	Y	P00519	EPGPyAQPS	Abl	ABL1	Abl	Proto-oncogene tyrosine-protein kinase ABL1
+P55211	153	Y	P00519	ADLAyILSM	Abl	ABL1	Abl	Proto-oncogene tyrosine-protein kinase ABL1
+O15162	69	Y	P00519	NQPVyNQPV	Abl	ABL1	Abl	Proto-oncogene tyrosine-protein kinase ABL1
+O15162	74	Y	P00519	NQPVyNQPV	Abl	ABL1	Abl	Proto-oncogene tyrosine-protein kinase ABL1
+P04083	21	Y	P00519	EEQEyVQTV	Abl	ABL1	Abl	Proto-oncogene tyrosine-protein kinase ABL1
+P46109	207	Y	P00519	PAHAyAQPQ	Abl	ABL1	Abl	Proto-oncogene tyrosine-protein kinase ABL1
+Q00987	394	Y	P00519	ESEDySQPS	Abl	ABL1	Abl	Proto-oncogene tyrosine-protein kinase ABL1
+Q06609	54	Y	P00519	EAVAyAPKK	Abl	ABL1	Abl	Proto-oncogene tyrosine-protein kinase ABL1
+P25963	305	Y	P00519	DELPyDDCV	Abl	ABL1	Abl	Proto-oncogene tyrosine-protein kinase ABL1
+P15941	1243	Y	P00519	SSLSyTNPA	Abl	ABL1	Abl	Proto-oncogene tyrosine-protein kinase ABL1
+Q06609	315	Y	P00519	ICKIyDSPC	Abl	ABL1	Abl	Proto-oncogene tyrosine-protein kinase ABL1
+P11274	177	Y	P00519	EKPFyVNVE	Abl	ABL1	Abl	Proto-oncogene tyrosine-protein kinase ABL1
+Q06187	223	Y	P00519	VVALyDYMP	Abl	ABL1	Abl	Proto-oncogene tyrosine-protein kinase ABL1
+P04040	386	Y	P00519	RVANyQRDG	Abl	ABL1	Abl	Proto-oncogene tyrosine-protein kinase ABL1
+P43351	104	Y	P00519	NGKFyVGVC	Abl	ABL1	Abl	Proto-oncogene tyrosine-protein kinase ABL1
+Q99638	28	Y	P00519	GDELyLEPL	Abl	ABL1	Abl	Proto-oncogene tyrosine-protein kinase ABL1
+Q15139	463	Y	P00519	GSRYyKEIP	Abl	ABL1	Abl	Proto-oncogene tyrosine-protein kinase ABL1
+P11387	268	Y	P00519	LDHEyTTKE	Abl	ABL1	Abl	Proto-oncogene tyrosine-protein kinase ABL1
+P49768	353	S	P49841	GPHRsTPES	GSK3B	GSK3B	GSK-3_beta	Glycogen synthase kinase-3 beta
+P15941	1227	S	P49841	STDRsPYEK	GSK3B	GSK3B	GSK-3_beta	Glycogen synthase kinase-3 beta
+P03372	104	S	P49841	LNSVsPSPL	GSK3B	GSK3B	GSK-3_beta	Glycogen synthase kinase-3 beta
+P60484	362	S	P49841	EASSsTSVT	GSK3B	GSK3B	GSK-3_beta	Glycogen synthase kinase-3 beta
+P38936	114	S	P49841	HVDLsLSCT	GSK3B	GSK3B	GSK-3_beta	Glycogen synthase kinase-3 beta
+Q07820	159	S	P49841	STDGsLPST	GSK3B	GSK3B	GSK-3_beta	Glycogen synthase kinase-3 beta
+P13807	641	S	P49841	PRPAsVPPS	GSK3B	GSK3B	GSK-3_beta	Glycogen synthase kinase-3 beta
+P01106	58	T	P49841	ELLPtPPLS	GSK3B	GSK3B	GSK-3_beta	Glycogen synthase kinase-3 beta
+Q9BYG3	230	S	P49841	KTVDsQGPT	GSK3B	GSK3B	GSK-3_beta	Glycogen synthase kinase-3 beta
+Q04206	468	S	P49841	TDLAsVDNS	GSK3B	GSK3B	GSK-3_beta	Glycogen synthase kinase-3 beta
+Q16555	509	T	P49841	EVSVtPKTV	GSK3B	GSK3B	GSK-3_beta	Glycogen synthase kinase-3 beta
+Q16555	514	T	P49841	PKTVtPASS	GSK3B	GSK3B	GSK-3_beta	Glycogen synthase kinase-3 beta
+P30281	283	T	P49841	SQTStPTDV	GSK3B	GSK3B	GSK-3_beta	Glycogen synthase kinase-3 beta
+O95863	107	S	P49841	PSPPsPAPS	GSK3B	GSK3B	GSK-3_beta	Glycogen synthase kinase-3 beta
+P49768	357	S	P49841	STPEsRAAV	GSK3B	GSK3B	GSK-3_beta	Glycogen synthase kinase-3 beta
+Q16555	518	S	P49841	TPASsAKTS	GSK3B	GSK3B	GSK-3_beta	Glycogen synthase kinase-3 beta
+O95863	104	S	P49841	SQPPsPPSP	GSK3B	GSK3B	GSK-3_beta	Glycogen synthase kinase-3 beta
+P03372	102	S	P49841	PPLNsVSPS	GSK3B	GSK3B	GSK-3_beta	Glycogen synthase kinase-3 beta
+P03372	118	S	P49841	PPQLsPFLQ	GSK3B	GSK3B	GSK-3_beta	Glycogen synthase kinase-3 beta
+P60484	366	T	P49841	STSVtPDVS	GSK3B	GSK3B	GSK-3_beta	Glycogen synthase kinase-3 beta
+P03372	106	S	P49841	SVSPsPLML	GSK3B	GSK3B	GSK-3_beta	Glycogen synthase kinase-3 beta
+Q14103	83	S	P49841	HSNSsPRHS	GSK3B	GSK3B	GSK-3_beta	Glycogen synthase kinase-3 beta
+P24864	395	T	P49841	SGLLtPPQS	GSK3B	GSK3B	GSK-3_beta	Glycogen synthase kinase-3 beta
+P54252	256	S	P49841	AIQLsMQGS	GSK3B	GSK3B	GSK-3_beta	Glycogen synthase kinase-3 beta
+P41236	73	T	P49841	DEPStPYHS	GSK3B	GSK3B	GSK-3_beta	Glycogen synthase kinase-3 beta
+Q9BYG3	234	T	P49841	SQGPtPVCT	GSK3B	GSK3B	GSK-3_beta	Glycogen synthase kinase-3 beta
+P13807	645	S	P49841	SVPPsPSLS	GSK3B	GSK3B	GSK-3_beta	Glycogen synthase kinase-3 beta
+P38936	57	T	P49841	FVTEtPLEG	GSK3B	GSK3B	GSK-3_beta	Glycogen synthase kinase-3 beta
+Q96T51	400	Y	P51813	LDEMySDVW	Etk	BMX	BMX	BMX non-receptor tyrosine kinase (Etk)
+Q96T51	389	Y	P51813	ELETyKQTR	Etk	BMX	BMX	BMX non-receptor tyrosine kinase (Etk)
+Q9Y463	271	Y	Q9Y463	GQRIyQYIQ	DYRK1B	DYRK1B	DYRK1B	Dual specificity tyrosine-phosphorylation-regulated kinase 1B
+P38936	153	S	Q9Y463	DFYHsKRRL	DYRK1B	DYRK1B	DYRK1B	Dual specificity tyrosine-phosphorylation-regulated kinase 1B
+P20823	249	S	Q9Y463	GVSPsQAQG	DYRK1B	DYRK1B	DYRK1B	Dual specificity tyrosine-phosphorylation-regulated kinase 1B
+Q9Y463	273	Y	Q9Y463	RIYQyIQSR	DYRK1B	DYRK1B	DYRK1B	Dual specificity tyrosine-phosphorylation-regulated kinase 1B
+O75533	434	T	Q9Y463	KLTAtPTPL	DYRK1B	DYRK1B	DYRK1B	Dual specificity tyrosine-phosphorylation-regulated kinase 1B
+P06730	209	S	Q9HBH9	TKSGsTTKN	Mnk2	MKNK2	Mnk2	MAP kinase interacting serine/threonine kinase 2
+P06127	453	Y	P06239	VDNEySQPP	Lck	LCK	Lck	lymphocyte-specific protein tyrosine kinase
+P16885	753	Y	P06239	INSLyDVSR	Lck	LCK	Lck	lymphocyte-specific protein tyrosine kinase
+P14784	418	Y	P06239	EDDAyCTFP	Lck	LCK	Lck	lymphocyte-specific protein tyrosine kinase
+P29350	564	Y	P06239	KEDVyENLH	Lck	LCK	Lck	lymphocyte-specific protein tyrosine kinase
+P15498	142	Y	P06239	DEDIySGLS	Lck	LCK	Lck	lymphocyte-specific protein tyrosine kinase
+P43403	474	Y	P06239	VNRHyAKIS	Lck	LCK	Lck	lymphocyte-specific protein tyrosine kinase
+P14784	384	Y	P06239	VYFTyDPYS	Lck	LCK	Lck	lymphocyte-specific protein tyrosine kinase
+Q13291	307	Y	P06239	CTTIyVAAT	Lck	LCK	Lck	lymphocyte-specific protein tyrosine kinase
+P16885	1197	Y	P06239	EEELySSCR	Lck	LCK	Lck	lymphocyte-specific protein tyrosine kinase
+P60484	240	Y	P06239	DKFMyFEFP	Lck	LCK	Lck	lymphocyte-specific protein tyrosine kinase
+O14543	221	Y	P06239	FLDQyDAPL	Lck	LCK	Lck	lymphocyte-specific protein tyrosine kinase
+Q96LC7	597	Y	P06239	TILDyINVV	Lck	LCK	Lck	lymphocyte-specific protein tyrosine kinase
+P14784	381	Y	P06239	ACQVyFTYD	Lck	LCK	Lck	lymphocyte-specific protein tyrosine kinase
+Q08881	512	Y	P06239	LDDQyTSST	Lck	LCK	Lck	lymphocyte-specific protein tyrosine kinase
+P06239	394	Y	P06239	EDNEyTARE	Lck	LCK	Lck	lymphocyte-specific protein tyrosine kinase
+Q13094	128	Y	P06239	DDGDyESPN	Lck	LCK	Lck	lymphocyte-specific protein tyrosine kinase
+P20138	340	Y	P06239	EELHyASLN	Lck	LCK	Lck	lymphocyte-specific protein tyrosine kinase
+P43403	493	Y	P06239	DDSYyTARS	Lck	LCK	Lck	lymphocyte-specific protein tyrosine kinase
+P06239	505	Y	P06239	TEGQyQPQP	Lck	LCK	Lck	lymphocyte-specific protein tyrosine kinase
+P15498	160	Y	P06239	DEDLyDCVE	Lck	LCK	Lck	lymphocyte-specific protein tyrosine kinase
+P14784	536	Y	P06239	NTDAyLSLQ	Lck	LCK	Lck	lymphocyte-specific protein tyrosine kinase
+P16885	759	Y	P06239	VSRMyVDPS	Lck	LCK	Lck	lymphocyte-specific protein tyrosine kinase
+P43403	492	Y	P06239	ADDSyYTAR	Lck	LCK	Lck	lymphocyte-specific protein tyrosine kinase
+P29350	536	Y	P06239	QESEyGNIT	Lck	LCK	Lck	lymphocyte-specific protein tyrosine kinase
+P14784	387	Y	P06239	TYDPySEED	Lck	LCK	Lck	lymphocyte-specific protein tyrosine kinase
+P60484	315	Y	P06239	NDKEyLVLT	Lck	LCK	Lck	lymphocyte-specific protein tyrosine kinase
+Q04759	90	Y	P06239	TVELySLAE	Lck	LCK	Lck	lymphocyte-specific protein tyrosine kinase
+P06127	487	Y	P06239	SDSDyDLHG	Lck	LCK	Lck	lymphocyte-specific protein tyrosine kinase
+P03372	537	Y	P06239	VVPLyDLLL	Lck	LCK	Lck	lymphocyte-specific protein tyrosine kinase
+Q96LC7	667	Y	P06239	EELHyATLN	Lck	LCK	Lck	lymphocyte-specific protein tyrosine kinase
+P25963	42	Y	P06239	KDEEyEQMV	Lck	LCK	Lck	lymphocyte-specific protein tyrosine kinase
+O14543	204	Y	P06239	HLDSyEKVT	Lck	LCK	Lck	lymphocyte-specific protein tyrosine kinase
+P43403	292	Y	P06239	NSDGyTPEP	Lck	LCK	Lck	lymphocyte-specific protein tyrosine kinase
+P15311	146	Y	P06239	HKSGyLSSE	Lck	LCK	Lck	lymphocyte-specific protein tyrosine kinase
+Q96LC7	691	Y	P06239	TQADyAEVK	Lck	LCK	Lck	lymphocyte-specific protein tyrosine kinase
+Q13094	113	Y	P06239	EEDDyESPN	Lck	LCK	Lck	lymphocyte-specific protein tyrosine kinase
+Q9UN19	139	Y	P06239	EPSIyESVR	Lck	LCK	Lck	lymphocyte-specific protein tyrosine kinase
+P16885	1217	Y	P06239	QLFLyDTHQ	Lck	LCK	Lck	lymphocyte-specific protein tyrosine kinase
+P46527	10	S	Q8TAS1	VSNGsPSLE	KIS	UHMK1	KIS	Kinase interacting with stathmin
+Q14653	386	S	Q14164	GGASsLENT	IKKE	IKBKE	IKK_epsilon	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase epsilon
+Q04206	536	S	Q14164	EDFSsIADM	IKKE	IKBKE	IKK_epsilon	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase epsilon
+P53778	3	S	P53778	sPPPA	P38G	MAPK12	MAPK12	mitogen-activated protein kinase 12 (p38gamma)
+P45984	185	Y	P45985	MMTPyVVTR	MKK4	MAP2K4	MAP2K4	mitogen-activated protein kinase kinase 4 (MEK4)
+P45983	185	Y	P45985	MMTPyVVTR	MKK4	MAP2K4	MAP2K4	mitogen-activated protein kinase kinase 4 (MEK4)
+P19793	249	Y	P45985	KTETyVEAN	MKK4	MAP2K4	MAP2K4	mitogen-activated protein kinase kinase 4 (MEK4)
+P53779	223	Y	P45985	MMTPyVVTR	MKK4	MAP2K4	MAP2K4	mitogen-activated protein kinase kinase 4 (MEK4)
+P45985	257	S	P45985	QLVDsIAKT	MKK4	MAP2K4	MAP2K4	mitogen-activated protein kinase kinase 4 (MEK4)
+P45985	261	T	P45985	SIAKtRDAG	MKK4	MAP2K4	MAP2K4	mitogen-activated protein kinase kinase 4 (MEK4)
+O15530	393	S	O15530	SSSSsSHSL	PDK1	PDPK1	PDK-1	3-phosphoinositide dependent protein kinase 1
+Q05513	410	T	O15530	DTTStFCGT	PDK1	PDPK1	PDK-1	3-phosphoinositide dependent protein kinase 1
+P23443	412	T	O15530	FLGFtYVAP	PDK1	PDPK1	PDK-1	3-phosphoinositide dependent protein kinase 1
+P31749	473	S	O15530	FPQFsYSAS	PDK1	PDPK1	PDK-1	3-phosphoinositide dependent protein kinase 1
+Q15418	221	S	O15530	KKAYsFCGT	PDK1	PDPK1	PDK-1	3-phosphoinositide dependent protein kinase 1
+O15530	410	S	O15530	QRSGsNIEQ	PDK1	PDPK1	PDK-1	3-phosphoinositide dependent protein kinase 1
+Q02750	222	S	O15530	SMANsFVGT	PDK1	PDPK1	PDK-1	3-phosphoinositide dependent protein kinase 1
+Q9Y243	305	T	O15530	ATMKtFCGT	PDK1	PDPK1	PDK-1	3-phosphoinositide dependent protein kinase 1
+O15530	25	S	O15530	CSCPsPSMV	PDK1	PDPK1	PDK-1	3-phosphoinositide dependent protein kinase 1
+O00141	256	T	O15530	STTStFCGT	PDK1	PDPK1	PDK-1	3-phosphoinositide dependent protein kinase 1
+O15530	396	S	O15530	SSSHsLSAS	PDK1	PDPK1	PDK-1	3-phosphoinositide dependent protein kinase 1
+O15530	241	S	O15530	ARANsFVGT	PDK1	PDPK1	PDK-1	3-phosphoinositide dependent protein kinase 1
+P31751	309	T	O15530	ATMKtFCGT	PDK1	PDPK1	PDK-1	3-phosphoinositide dependent protein kinase 1
+P05106	779	T	O15530	EATStFTNI	PDK1	PDPK1	PDK-1	3-phosphoinositide dependent protein kinase 1
+P23443	252	T	O15530	TVTHtFCGT	PDK1	PDPK1	PDK-1	3-phosphoinositide dependent protein kinase 1
+O15530	513	T	O15530	KNFKtFFVH	PDK1	PDPK1	PDK-1	3-phosphoinositide dependent protein kinase 1
+Q96BR1	320	T	O15530	DTTTtFCGT	PDK1	PDPK1	PDK-1	3-phosphoinositide dependent protein kinase 1
+P36507	226	S	O15530	SMANsFVGT	PDK1	PDPK1	PDK-1	3-phosphoinositide dependent protein kinase 1
+Q13153	423	T	O15530	SKRStMVGT	PDK1	PDPK1	PDK-1	3-phosphoinositide dependent protein kinase 1
+Q05655	507	T	O15530	SRAStFCGT	PDK1	PDPK1	PDK-1	3-phosphoinositide dependent protein kinase 1
+Q16512	774	T	O15530	DRTStFCGT	PDK1	PDPK1	PDK-1	3-phosphoinositide dependent protein kinase 1
+P31749	308	T	O15530	ATMKtFCGT	PDK1	PDPK1	PDK-1	3-phosphoinositide dependent protein kinase 1
+Q16513	816	T	O15530	DRTStFCGT	PDK1	PDPK1	PDK-1	3-phosphoinositide dependent protein kinase 1
+Q02156	566	T	O15530	VTTTtFCGT	PDK1	PDPK1	PDK-1	3-phosphoinositide dependent protein kinase 1
+P38936	98	S	Q99683	RPGTsPALL	ASK1	MAP3K5	MAP3K5	mitogen-activated protein kinase kinase kinase 5 (ASK1)
+P45985	261	T	Q99683	SIAKtRDAG	ASK1	MAP3K5	MAP3K5	mitogen-activated protein kinase kinase kinase 5 (ASK1)
+Q99683	966	S	Q99683	LRSIsLPVP	ASK1	MAP3K5	MAP3K5	mitogen-activated protein kinase kinase kinase 5 (ASK1)
+P35968	1054	Y	P35968	ARDIyKDPD	VEGFR2	KDR	KDR	Vascular endothelial growth factor receptor 2 (VEGFR-2)
+P35968	1175	Y	P35968	DGKDyIVLP	VEGFR2	KDR	KDR	Vascular endothelial growth factor receptor 2 (VEGFR-2)
+P35968	1214	Y	P35968	PKFHyDNTA	VEGFR2	KDR	KDR	Vascular endothelial growth factor receptor 2 (VEGFR-2)
+P35968	951	Y	P35968	QGKDyVGAI	VEGFR2	KDR	KDR	Vascular endothelial growth factor receptor 2 (VEGFR-2)
+P35968	996	Y	P35968	PEDLyKDFL	VEGFR2	KDR	KDR	Vascular endothelial growth factor receptor 2 (VEGFR-2)
+P07550	396	S	P34947	GTVPsDNID	GRK5	GRK5	GRK-5	G protein-coupled receptor kinase 5
+P34947	485	T	P34947	EQFStVKGV	GRK5	GRK5	GRK-5	G protein-coupled receptor kinase 5
+P07550	407	S	P34947	GRNCsTNDS	GRK5	GRK5	GRK-5	G protein-coupled receptor kinase 5
+P37840	129	S	P34947	YEMPsEEGY	GRK5	GRK5	GRK-5	G protein-coupled receptor kinase 5
+P07550	411	S	P34947	STNDsLL	GRK5	GRK5	GRK-5	G protein-coupled receptor kinase 5
+P07550	393	T	P34947	GHQGtVPSD	GRK5	GRK5	GRK-5	G protein-coupled receptor kinase 5
+P07550	401	S	P34947	DNIDsQGRN	GRK5	GRK5	GRK-5	G protein-coupled receptor kinase 5
+P07550	384	T	P34947	DLPGtEDFV	GRK5	GRK5	GRK-5	G protein-coupled receptor kinase 5
+P34947	484	S	P34947	IEQFsTVKG	GRK5	GRK5	GRK-5	G protein-coupled receptor kinase 5
+P26038	558	T	Q5S007	DKYKtLRQI	LRRK2	LRRK2	LRRK2	leucine-rich repeat kinase 2
+P19634	726	S	Q16539	ASPQsPESV	P38A	MAPK14	MAPK14	mitogen-activated protein kinase 14 (p38alpha)
+P14598	348	S	Q16539	QSPGsPLEE	P38A	MAPK14	MAPK14	mitogen-activated protein kinase 14 (p38alpha)
+P19419	389	S	Q16539	IAPRsPAKL	P38A	MAPK14	MAPK14	mitogen-activated protein kinase 14 (p38alpha)
+Q9UBK2	263	T	Q16539	SLPLtPESP	P38A	MAPK14	MAPK14	mitogen-activated protein kinase 14 (p38alpha)
+Q9UBK2	299	T	Q16539	TPPTtPPHK	P38A	MAPK14	MAPK14	mitogen-activated protein kinase 14 (p38alpha)
+Q14790	347	S	Q16539	LKCPsLAGK	P38A	MAPK14	MAPK14	mitogen-activated protein kinase 14 (p38alpha)
+Q02078	319	T	Q16539	VSVTtPSLP	P38A	MAPK14	MAPK14	mitogen-activated protein kinase 14 (p38alpha)
+Q15750	431	T	Q16539	LDEAtPTLT	P38A	MAPK14	MAPK14	mitogen-activated protein kinase 14 (p38alpha)
+P49137	272	S	Q16539	GLAIsPGMK	P38A	MAPK14	MAPK14	mitogen-activated protein kinase 14 (p38alpha)
+Q14934	168	S	Q16539	GAFFsPSPG	P38A	MAPK14	MAPK14	mitogen-activated protein kinase 14 (p38alpha)
+P05787	74	S	Q16539	QSLLsPLVL	P38A	MAPK14	MAPK14	mitogen-activated protein kinase 14 (p38alpha)
+Q14934	170	S	Q16539	FFSPsPGSS	P38A	MAPK14	MAPK14	mitogen-activated protein kinase 14 (p38alpha)
+Q02078	408	S	Q16539	SEPIsPPRD	P38A	MAPK14	MAPK14	mitogen-activated protein kinase 14 (p38alpha)
+P19634	718	T	Q16539	LPVItIDPA	P38A	MAPK14	MAPK14	mitogen-activated protein kinase 14 (p38alpha)
+Q15750	423	S	Q16539	NGAHsASTL	P38A	MAPK14	MAPK14	mitogen-activated protein kinase 14 (p38alpha)
+P19634	723	S	Q16539	IDPAsPQSP	P38A	MAPK14	MAPK14	mitogen-activated protein kinase 14 (p38alpha)
+P14598	345	S	Q16539	PGPQsPGSP	P38A	MAPK14	MAPK14	mitogen-activated protein kinase 14 (p38alpha)
+P19634	729	S	Q16539	QSPEsVDLV	P38A	MAPK14	MAPK14	mitogen-activated protein kinase 14 (p38alpha)
+Q02078	312	T	Q16539	QPLAtPVVS	P38A	MAPK14	MAPK14	mitogen-activated protein kinase 14 (p38alpha)
+P49137	222	T	Q16539	NSLTtPCYT	P38A	MAPK14	MAPK14	mitogen-activated protein kinase 14 (p38alpha)
+O75582	360	S	Q16539	DPTYsPAAL	P38A	MAPK14	MAPK14	mitogen-activated protein kinase 14 (p38alpha)
+Q9NQU5	165	S	Q16539	PEPQsPRVL	P38A	MAPK14	MAPK14	mitogen-activated protein kinase 14 (p38alpha)
+P42574	150	S	Q16539	DRCRsLTGK	P38A	MAPK14	MAPK14	mitogen-activated protein kinase 14 (p38alpha)
+P03372	311	T	Q16539	ALSLtADQM	P38A	MAPK14	MAPK14	mitogen-activated protein kinase 14 (p38alpha)
+Q8IW41	182	T	Q16539	GDLMtPQFT	P38A	MAPK14	MAPK14	mitogen-activated protein kinase 14 (p38alpha)
+O75676	196	S	Q16539	ERTFsFCGT	P38A	MAPK14	MAPK14	mitogen-activated protein kinase 14 (p38alpha)
+P49137	25	T	Q16539	PQPPtPALP	P38A	MAPK14	MAPK14	mitogen-activated protein kinase 14 (p38alpha)
+Q15750	438	S	Q16539	LTNQsPTLT	P38A	MAPK14	MAPK14	mitogen-activated protein kinase 14 (p38alpha)
+P49137	334	T	Q16539	KVPQtPLHT	P38A	MAPK14	MAPK14	mitogen-activated protein kinase 14 (p38alpha)
+O75582	581	T	Q16539	QPLKtPCFT	P38A	MAPK14	MAPK14	mitogen-activated protein kinase 14 (p38alpha)
+P19419	383	S	Q16539	WSTLsPIAP	P38A	MAPK14	MAPK14	mitogen-activated protein kinase 14 (p38alpha)
+Q9UBK2	266	S	Q16539	LTPEsPNDP	P38A	MAPK14	MAPK14	mitogen-activated protein kinase 14 (p38alpha)
+Q96CW1	156	T	Q2M2I8	TSQVtGQIG	AAK1	AAK1	AAK1	AP2 associated kinase 1
+P49757	102	T	Q2M2I8	VDEKtKDLI	AAK1	AAK1	AAK1	AP2 associated kinase 1
+P07332	811	Y	P07332	FSTIyQELQ	Fes	FES	Fes	Proto-oncogene tyrosine-protein kinase Fes/Fps
+P11274	246	Y	P07332	VDGDyEDAE	Fes	FES	Fes	Proto-oncogene tyrosine-protein kinase Fes/Fps
+P07332	713	Y	P07332	ADGVyAASG	Fes	FES	Fes	Proto-oncogene tyrosine-protein kinase Fes/Fps
+P19838	923	S	O15111	RDSDsVCDS	IKKA	CHUK	IKK_alpha	conserved helix-loop-helix ubiquitous kinase
+Q04206	536	S	O15111	EDFSsIADM	IKKA	CHUK	IKK_alpha	conserved helix-loop-helix ubiquitous kinase
+P24385	286	T	O15111	DLACtPTDV	IKKA	CHUK	IKK_alpha	conserved helix-loop-helix ubiquitous kinase
+P19838	927	S	O15111	SVCDsGVET	IKKA	CHUK	IKK_alpha	conserved helix-loop-helix ubiquitous kinase
+Q00653	872	S	O15111	YGSQsVEQE	IKKA	CHUK	IKK_alpha	conserved helix-loop-helix ubiquitous kinase
+Q08999	639	S	P24941	CIAGsPLTP	CDK2	CDK2	CDK2	Cell division protein kinase 2
+Q99741	106	S	P24941	LTIKsPSKR	CDK2	CDK2	CDK2	Cell division protein kinase 2
+O15350	86	T	P24941	ASPYtPEHA	CDK2	CDK2	CDK2	Cell division protein kinase 2
+P04183	13	S	P24941	VLPGsPSKT	CDK2	CDK2	CDK2	Cell division protein kinase 2
+Q08999	688	S	P24941	VENDsPSDG	CDK2	CDK2	CDK2	Cell division protein kinase 2
+P33991	110	T	P24941	GVRGtPVRQ	CDK2	CDK2	CDK2	Cell division protein kinase 2
+P06401	676	S	P24941	RFTFsPGQD	CDK2	CDK2	CDK2	Cell division protein kinase 2
+Q08999	417	T	P24941	SPCVtPVST	CDK2	CDK2	CDK2	Cell division protein kinase 2
+Q8WXE1	224	S	P24941	VSHVsPRKN	CDK2	CDK2	CDK2	Cell division protein kinase 2
+P50613	170	T	P24941	NRAYtHQVV	CDK2	CDK2	CDK2	Cell division protein kinase 2
+Q08999	662	S	P24941	RSITsPTTL	CDK2	CDK2	CDK2	Cell division protein kinase 2
+Q08999	1068	S	P24941	ETMLsPREK	CDK2	CDK2	CDK2	Cell division protein kinase 2
+P06401	400	S	P24941	ASARsPRSY	CDK2	CDK2	CDK2	Cell division protein kinase 2
+P50613	164	S	P24941	KSFGsPNRA	CDK2	CDK2	CDK2	Cell division protein kinase 2
+Q08999	642	T	P24941	GSPLtPRRV	CDK2	CDK2	CDK2	Cell division protein kinase 2
+P10244	577	S	P24941	GLRRsPIKK	CDK2	CDK2	CDK2	Cell division protein kinase 2
+P06401	190	S	P24941	PRGLsPARQ	CDK2	CDK2	CDK2	Cell division protein kinase 2
+O75533	313	T	P24941	GWAEtPRTD	CDK2	CDK2	CDK2	Cell division protein kinase 2
+Q99741	74	S	P24941	LPPCsPPKQ	CDK2	CDK2	CDK2	Cell division protein kinase 2
+P38398	1497	S	P24941	VERSsPSKC	CDK2	CDK2	CDK2	Cell division protein kinase 2
+Q08999	694	T	P24941	SDGGtPGRM	CDK2	CDK2	CDK2	Cell division protein kinase 2
+Q08999	413	S	P24941	IKENsPCVT	CDK2	CDK2	CDK2	Cell division protein kinase 2
+P46527	187	T	P24941	SVEQtPKKP	CDK2	CDK2	CDK2	Cell division protein kinase 2
+Q08999	1097	T	P24941	RTGEtPTKK	CDK2	CDK2	CDK2	Cell division protein kinase 2
+P38936	130	S	P24941	QAEGsPGGP	CDK2	CDK2	CDK2	Cell division protein kinase 2
+P54198	555	T	P24941	SVLTtPSKI	CDK2	CDK2	CDK2	Cell division protein kinase 2
+O75533	248	T	P24941	TPGAtPGSK	CDK2	CDK2	CDK2	Cell division protein kinase 2
+P49459	120	S	P24941	PNPNsPANS	CDK2	CDK2	CDK2	Cell division protein kinase 2
+Q08050-2	596	T	P24941	PISStPSKS	CDK2	CDK2	CDK2	Cell division protein kinase 2
+Q08999	1080	S	P24941	YFSNsPSKR	CDK2	CDK2	CDK2	Cell division protein kinase 2
+O75533	244	T	P24941	KGSEtPGAT	CDK2	CDK2	CDK2	Cell division protein kinase 2
+P33991	32	S	P24941	DARSsPSQR	CDK2	CDK2	CDK2	Cell division protein kinase 2
+P24864	395	T	P24941	SGLLtPPQS	CDK2	CDK2	CDK2	Cell division protein kinase 2
+Q99741	54	S	P24941	ALPLsPRKR	CDK2	CDK2	CDK2	Cell division protein kinase 2
+Q08999	952	S	P24941	SHQNsPTEL	CDK2	CDK2	CDK2	Cell division protein kinase 2
+P06401	213	S	P24941	PVKPsPQAA	CDK2	CDK2	CDK2	Cell division protein kinase 2
+Q08999	1044	S	P24941	VRTGsPRRI	CDK2	CDK2	CDK2	Cell division protein kinase 2
+P06401	162	S	P24941	QRVLsPLMS	CDK2	CDK2	CDK2	Cell division protein kinase 2
+P24864	399	S	P24941	TPPQsGKKQ	CDK2	CDK2	CDK2	Cell division protein kinase 2
+Q08999	1112	S	P24941	DGSEsPAKR	CDK2	CDK2	CDK2	Cell division protein kinase 2
+P33991	54	S	P24941	PMPTsPGVD	CDK2	CDK2	CDK2	Cell division protein kinase 2
+Q9UJU2	166	S	Q9UBE8	DEHFsPGSH	NLK	NLK	NLK	Serine/threonine kinase NLK
+Q9UJU2	155	T	Q9UBE8	VHPLtPLIT	NLK	NLK	NLK	Serine/threonine kinase NLK
+O00213	709	T	P28482	LGAHtP	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+Q15797	195	S	P28482	SYPNsPGSS	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+Q15797	187	S	P28482	PFPHsPNSS	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+P49815	664	S	P28482	SGPLsPPTG	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+Q9BY84	446	S	P28482	LCQFsPVQE	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+P55211	125	T	P28482	LRPEtPRPV	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+Q16828	159	S	P28482	CSSSsPPLP	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+Q15788	1179	T	P28482	TNPGtPPAS	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+P49795	151	S	P28482	VSILsPKEV	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+P11388	1247	S	P28482	NTEGsPQED	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+P01100	232	T	P28482	PEVAtPESE	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+P28562	323	S	P28482	AEAGsPAMA	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+O00562	1223	T	P28482	EGPGtPPTT	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+O00213	175	S	P28482	EDLSsPPGL	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+O00213	347	S	P28482	AQSLsPEPL	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+Q15788	1185	S	P28482	PASTsPFSQ	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+P37231	112	S	P28482	VEPAsPPYY	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+O43521	69	S	P28482	APPAsPGPF	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+Q02750	292	T	P28482	PRPRtPGRP	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+P49841	43	T	P28482	TVVAtPGQG	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+P42702	1044	S	P28482	VSPDsPRSI	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+O00213	287	S	P28482	PGRAsPSQG	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+Q15797	206	S	P28482	TYPHsPTSS	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+Q15788	395	S	P28482	NPSIsPAHG	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+Q13322	476	S	P28482	LGSQsPLHP	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+P47712	505	S	P28482	SYPLsPLSD	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+P08047	739	T	P28482	SGTAtPSAL	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+P10828	142	S	P28482	NLHPsYSCK	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+Q07889	1178	S	P28482	KHLDsPPAI	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+Q15797	214	S	P28482	SDPGsPFQM	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+P84022	179	T	P28482	NIPEtPPPG	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+P84022	213	S	P28482	PNPMsPAHN	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+Q12772	432	S	P28482	VLLMsPPAS	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+P36956	117	S	P28482	MPAFsPGPG	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+Q13480	476	T	P28482	YVPMtPGTF	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+Q14934	676	S	P28482	RRKRsPTQS	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+P02686	232	T	P28482	VTPRtPPPS	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+P11388	1361	S	P28482	KTKTsPKLS	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+O00562	794	T	P28482	LVPStPTST	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+P49715	21	S	P28482	SHLQsPPHA	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+P50548	526	T	P28482	GGPLtPRRV	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+P19793	260	S	P28482	LNPSsPNDP	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+P17655	50	S	P28482	FQDPsFPAI	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+P03372	118	S	P28482	PPQLsPFLQ	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+Q07889	1197	S	P28482	SPRYsISDR	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+Q13322	150	S	P28482	CGPGsPPVL	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+P84022	208	S	P28482	SPNLsPNPM	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+Q07889	1193	S	P28482	SKAYsPRYS	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+P49137	9	S	P28482	SQGQsPPVP	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+P23396	42	T	P28482	EVRVtPTRT	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+Q14674	1126	S	P28482	STNSsPVLK	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+Q15648	1457	T	P28482	SPAYtPQNL	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+O75582	360	S	P28482	DPTYsPAAL	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+P84022	204	S	P28482	MDAGsPNLS	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+P42229	780	S	P28482	DSRLsPPAG	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+P00533	693	T	P28482	VEPLtPSGE	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+Q8IW41	182	T	P28482	GDLMtPQFT	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+Q07820	163	T	P28482	SLPStPPPA	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+P11388	1354	S	P28482	PSDAsPPKT	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+P01106	62	S	P28482	TPPLsPSRR	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+P46527	178	S	P28482	VSDGsPNAG	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+P50548	161	S	P28482	EDPRsPPAC	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+P27708	456	T	P28482	FLPItPHYV	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+P08047	453	T	P28482	IIIRtPTVG	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+Q07889	1132	S	P28482	HGPRsASVS	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+O75582	581	T	P28482	QPLKtPCFT	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+Q02750	386	T	P28482	NQPStPTHA	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+P11388	1393	S	P28482	PLSSsPPAT	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+Q12772	455	S	P28482	SEPGsPLLD	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+P06401	294	S	P28482	APGRsPLAT	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+P38936	57	T	P28482	FVTEtPLEG	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+P11388	1213	S	P28482	EVLPsPRGQ	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+P28562	296	S	P28482	RSIIsPNFS	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+Q07889	1167	S	P28482	PAESsPSKI	ERK2	MAPK1	MAPK1	mitogen-activated protein kinase 1 (Erk2)
+P01106	58	T	P49840	ELLPtPPLS	GSK3A	GSK3A	GSK-3_alpha	glycogen synthase kinase 3 alpha
+Q9BYG3	230	S	P49840	KTVDsQGPT	GSK3A	GSK3A	GSK-3_alpha	glycogen synthase kinase 3 alpha
+P24864	395	T	P49840	SGLLtPPQS	GSK3A	GSK3A	GSK-3_alpha	glycogen synthase kinase 3 alpha
+Q9BYG3	234	T	P49840	SQGPtPVCT	GSK3A	GSK3A	GSK-3_alpha	glycogen synthase kinase 3 alpha
+P08559	300	S	Q15119	DPGVsYRTR	PDHK2	PDK2	PDHK2	pyruvate dehydrogenase kinase, isozyme 2
+P08559	293	S	Q15119	YHGHsMSDP	PDHK2	PDK2	PDHK2	pyruvate dehydrogenase kinase, isozyme 2
+P23528	3	S	P53671	sGVAV	LIMK2	LIMK2	LIMK2	LIM domain kinase 2
+P08581	1349	Y	P08581	IGEHyVHVN	Met	MET	Met	Hepatocyte growth factor receptor
+P08581	1230	Y	P08581	ARDMyDKEY	Met	MET	Met	Hepatocyte growth factor receptor
+P08581	1356	Y	P08581	VNATyVNVK	Met	MET	Met	Hepatocyte growth factor receptor
+P08581	1234	Y	P08581	YDKEyYSVH	Met	MET	Met	Hepatocyte growth factor receptor
+P08581	1235	Y	P08581	DKEYySVHN	Met	MET	Met	Hepatocyte growth factor receptor
+Q12778	329	S	Q13627	SGRLsPIMT	DYRK1A	DYRK1A	DYRK1A	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 1A
+P37840	87	S	Q13627	EGAGsIAAA	DYRK1A	DYRK1A	DYRK1A	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 1A
+Q05193	857	S	Q13627	SRPEsPRPP	DYRK1A	DYRK1A	DYRK1A	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 1A
+P49418	293	S	Q13627	ARPRsPSQT	DYRK1A	DYRK1A	DYRK1A	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 1A
+O43597	75	T	Q13627	PRPStQHKH	DYRK1A	DYRK1A	DYRK1A	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 1A
+P42229	694	Y	O60674	AVDGyVKPQ	JAK2	JAK2	JAK2	Janus protein-tyrosine kinase 2
+P41597	139	Y	O60674	TIDRyLAIV	JAK2	JAK2	JAK2	Janus protein-tyrosine kinase 2
+P40763	705	Y	O60674	SAAPyLKTK	JAK2	JAK2	JAK2	Janus protein-tyrosine kinase 2
+P42224	701	Y	O60674	KGTGyIKTE	JAK2	JAK2	JAK2	Janus protein-tyrosine kinase 2
+Q08999	401	T	P11802	LRIStPLTG	CDK4	CDK4	CDK4	Cell division protein kinase 4 (Cyclin-dependent kinase 4)
+Q08999	672	S	P11802	DRYSsPPAS	CDK4	CDK4	CDK4	Cell division protein kinase 4 (Cyclin-dependent kinase 4)
+P28749	975	S	P11802	QQPGsPRRI	CDK4	CDK4	CDK4	Cell division protein kinase 4 (Cyclin-dependent kinase 4)
+P28749	369	T	P11802	FAPStPLTG	CDK4	CDK4	CDK4	Cell division protein kinase 4 (Cyclin-dependent kinase 4)
+P84022	179	T	P11802	NIPEtPPPG	CDK4	CDK4	CDK4	Cell division protein kinase 4 (Cyclin-dependent kinase 4)
+Q08999	1035	S	P11802	APPLsPYPF	CDK4	CDK4	CDK4	Cell division protein kinase 4 (Cyclin-dependent kinase 4)
+P84022	213	S	P11802	PNPMsPAHN	CDK4	CDK4	CDK4	Cell division protein kinase 4 (Cyclin-dependent kinase 4)
+P28749	640	S	P11802	MQPLsPISV	CDK4	CDK4	CDK4	Cell division protein kinase 4 (Cyclin-dependent kinase 4)
+P28749	964	S	P11802	APPLsPFPH	CDK4	CDK4	CDK4	Cell division protein kinase 4 (Cyclin-dependent kinase 4)
+P84022	8	T	P11802	ILPFtPPIV	CDK4	CDK4	CDK4	Cell division protein kinase 4 (Cyclin-dependent kinase 4)
+Q15796	467	S	P36897	CSSMs	TGFBR1	TGFBR1	TGFbR1	TGF-beta receptor type I
+Q15796	465	S	P36897	VRCSsMS	TGFBR1	TGFBR1	TGFbR1	TGF-beta receptor type I
+Q15796	464	S	P36897	SVRCsSMS	TGFBR1	TGFBR1	TGFbR1	TGF-beta receptor type I
+P04637	37	S	Q8IW41	SPLPsQAMD	MAPKAPK5	MAPKAPK5	MAPKAPK5	mitogen-activated protein kinase-activated protein kinase 5
+Q9UIK4	318	S	Q9UIK4	RWKLsFSIV	DAPK2	DAPK2	DAPK2	death-associated protein kinase 2
+P05107	745	S	P24723	EKLKsQWNN	PKCH	PRKCH	PKC_eta	Protein kinase C, eta
+P05107	758	T	P24723	FKSAtTTVM	PKCH	PRKCH	PKC_eta	Protein kinase C, eta
+Q15139	738	S	P24723	IGEKsFRRS	PKCH	PRKCH	PKC_eta	Protein kinase C, eta
+Q15139	742	S	P24723	SFRRsVVGT	PKCH	PRKCH	PKC_eta	Protein kinase C, eta
+Q9Y2I6	88	S	P53350	DEDSsSLES	PLK1	PLK1	PLK1	Polo like kinase 1
+Q9H1A4	520	T	P53350	APSLtMSNT	PLK1	PLK1	PLK1	Polo like kinase 1
+P30260	209	T	P53350	TPQDtIELN	PLK1	PLK1	PLK1	Polo like kinase 1
+Q9H1A4	377	S	P53350	SHNQsPKRH	PLK1	PLK1	PLK1	Polo like kinase 1
+Q9UJX3	23	S	P53350	VRLLsSLLL	PLK1	PLK1	PLK1	Polo like kinase 1
+P14635	126	S	P53350	VDTAsPSPM	PLK1	PLK1	PLK1	Polo like kinase 1
+P51587	193	S	P53350	DPDMsWSSS	PLK1	PLK1	PLK1	Polo like kinase 1
+P30260	430	T	P53350	SLEItKLDS	PLK1	PLK1	PLK1	Polo like kinase 1
+P30291	53	S	P53350	TGEDsAFQE	PLK1	PLK1	PLK1	Polo like kinase 1
+Q9Y266	326	S	P53350	EMDFsKAKF	PLK1	PLK1	PLK1	Polo like kinase 1
+Q9Y2I6	87	S	P53350	SDEDsSSLE	PLK1	PLK1	PLK1	Polo like kinase 1
+P14635	147	S	P53350	CQAFsDVIL	PLK1	PLK1	PLK1	Polo like kinase 1
+P35568	24	S	P53350	RKPKsMHKR	PLK1	PLK1	PLK1	Polo like kinase 1
+Q13526	65	S	P53350	LVKHsQSRR	PLK1	PLK1	PLK1	Polo like kinase 1
+Q9UJX3	17	S	P53350	AGLHsNVRL	PLK1	PLK1	PLK1	Polo like kinase 1
+Q9H1A4	688	S	P53350	EGSLsPVIA	PLK1	PLK1	PLK1	Polo like kinase 1
+P06748	4	S	P53350	sMDMD	PLK1	PLK1	PLK1	Polo like kinase 1
+P30307	198	S	P53350	LMEFsLKDQ	PLK1	PLK1	PLK1	Polo like kinase 1
+Q9UJX5	779	S	P53350	VLSEsEAEN	PLK1	PLK1	PLK1	Polo like kinase 1
+Q9H1A4	291	T	P53350	EQGGtPQNV	PLK1	PLK1	PLK1	Polo like kinase 1
+P14635	133	S	P53350	PMETsGCAP	PLK1	PLK1	PLK1	Polo like kinase 1
+Q9Y2I6	161	T	P53350	EAEStKEAQ	PLK1	PLK1	PLK1	Polo like kinase 1
+Q9Y266	274	S	P53350	NPENsKLSD	PLK1	PLK1	PLK1	Polo like kinase 1
+Q9UJX3	30	S	P53350	LLTMsNNNP	PLK1	PLK1	PLK1	Polo like kinase 1
+Q99640	495	T	P53350	LFEDtLDPT	PLK1	PLK1	PLK1	Polo like kinase 1
+Q9H1A4	355	S	P53350	SRAHsPALG	PLK1	PLK1	PLK1	Polo like kinase 1
+O96017	68	T	P53350	ETVStQELY	PLK1	PLK1	PLK1	Polo like kinase 1
+P30260	434	S	P53350	TKLDsSIIS	PLK1	PLK1	PLK1	Polo like kinase 1
+P14635	128	S	P53350	TASPsPMET	PLK1	PLK1	PLK1	Polo like kinase 1
+Q99640	426	S	P53350	LLDSsLSSN	PLK1	PLK1	PLK1	Polo like kinase 1
+P30260	446	T	P53350	ISTItPQIQ	PLK1	PLK1	PLK1	Polo like kinase 1
+O60566	676	S	P53350	IIEDsREAT	PLK1	PLK1	PLK1	Polo like kinase 1
+Q9H1A4	530	T	P53350	PRPStPLDG	PLK1	PLK1	PLK1	Polo like kinase 1
+P13693	46	S	P53350	NIDDsLIGG	PLK1	PLK1	PLK1	Polo like kinase 1
+Q9Y2I6	686	S	P53350	LHEKsQEVI	PLK1	PLK1	PLK1	Polo like kinase 1
+O00303	46	S	Q9BWU1	APASsSDPA	CDK19	CDK19	CDK11	Cell division cycle 2-like 6
+Q15078	138	T	Q00535	TSAGtPKRV	CDK5	CDK5	CDK5	Cell division protein kinase 5
+Q02078	408	S	Q00535	SEPIsPPRD	CDK5	CDK5	CDK5	Cell division protein kinase 5
+P49768	354	T	Q00535	PHRStPESR	CDK5	CDK5	CDK5	Cell division protein kinase 5
+Q15833	572	T	Q00535	SHILtPTRF	CDK5	CDK5	CDK5	Cell division protein kinase 5
+Q15078	8	S	Q00535	VLSLsPSYR	CDK5	CDK5	CDK5	Cell division protein kinase 5
+P12931	75	S	Q00535	DTVTsPQRA	CDK5	CDK5	CDK5	Cell division protein kinase 5
+P41236	73	T	Q00535	DEPStPYHS	CDK5	CDK5	CDK5	Cell division protein kinase 5
+Q9BZL6	876	S	Q9BZL6	AERIsVL	PRKD2	PRKD2	PKD2	protein kinase D2
+Q9P286	573	S	Q9P286	IKSDsILLT	PAK5	PAK5	PAK5	p21(CDKN1A)-activated kinase 7
+P22607	724	Y	P22607	THDLyMIMR	FGFR3	FGFR3	FGFR3	Fibroblast growth factor receptor 3
+P22607	648	Y	P22607	NLDYyKKTT	FGFR3	FGFR3	FGFR3	Fibroblast growth factor receptor 3
+P22607	647	Y	P22607	HNLDyYKKT	FGFR3	FGFR3	FGFR3	Fibroblast growth factor receptor 3
+P53778	185	Y	P52564	EMTGyVVTR	MKK6	MAP2K6	MAP2K6	mitogen-activated protein kinase kinase 6 (MEK6)
+P53778	183	T	P52564	DSEMtGYVV	MKK6	MAP2K6	MAP2K6	mitogen-activated protein kinase kinase 6 (MEK6)
+Q9NQU5	566	Y	P52564	VGTPyWMAP	MKK6	MAP2K6	MAP2K6	mitogen-activated protein kinase kinase 6 (MEK6)
+Q16539	180	T	P52564	DDEMtGYVA	MKK6	MAP2K6	MAP2K6	mitogen-activated protein kinase kinase 6 (MEK6)
+P15311	567	T	Q13464	DKYKtLRQI	ROCK1	ROCK1	ROCK1	Rho-associated, coiled-coil containing protein kinase 1
+P14136	38	S	Q13464	GTRLsLARM	ROCK1	ROCK1	ROCK1	Rho-associated, coiled-coil containing protein kinase 1
+P60484	229	S	Q13464	YSSNsGPTR	ROCK1	ROCK1	ROCK1	Rho-associated, coiled-coil containing protein kinase 1
+P08670	72	S	Q13464	VRLRsSVPG	ROCK1	ROCK1	ROCK1	Rho-associated, coiled-coil containing protein kinase 1
+P14136	13	S	Q13464	AARRsYVSS	ROCK1	ROCK1	ROCK1	Rho-associated, coiled-coil containing protein kinase 1
+Q05397	732	S	Q13464	GFYPsPQHM	ROCK1	ROCK1	ROCK1	Rho-associated, coiled-coil containing protein kinase 1
+P48436	181	S	Q13464	RRRKsVKNG	ROCK1	ROCK1	ROCK1	Rho-associated, coiled-coil containing protein kinase 1
+O14974	696	T	Q13464	SRRStQGVT	ROCK1	ROCK1	ROCK1	Rho-associated, coiled-coil containing protein kinase 1
+P14136	7	T	Q13464	RRRItSAAR	ROCK1	ROCK1	ROCK1	Rho-associated, coiled-coil containing protein kinase 1
+P35611	445	T	Q13464	QREKtRWLN	ROCK1	ROCK1	ROCK1	Rho-associated, coiled-coil containing protein kinase 1
+P60484	232	T	Q13464	NSGPtRRED	ROCK1	ROCK1	ROCK1	Rho-associated, coiled-coil containing protein kinase 1
+Q14847	146	S	Q13237	ERRDsQDGS	PKG2	PRKG2	PKG2/cGK-II	cGMP-dependent protein kinase 2
+P24928	1616	S	P50750	SPSYsPTSP	CDK9	CDK9	CDK9	cyclin-dependent kinase 9 (CDC2-related kinase)
+P49841	216	Y	Q02750	PNVSyICSR	MEK1	MAP2K1	MAP2K1	mitogen-activated protein kinase kinase 1 (MEK1)
+P27361	202	T	Q02750	TGFLtEYVA	MEK1	MAP2K1	MAP2K1	mitogen-activated protein kinase kinase 1 (MEK1)
+P28482	187	Y	Q02750	FLTEyVATR	MEK1	MAP2K1	MAP2K1	mitogen-activated protein kinase kinase 1 (MEK1)
+P27361	204	Y	Q02750	FLTEyVATR	MEK1	MAP2K1	MAP2K1	mitogen-activated protein kinase kinase 1 (MEK1)
+P30411	366	S	P32298	QMENsMGTL	GRK4	GRK4	GRK-4	G protein-coupled receptor kinase 4
+P30411	375	S	P32298	RTSIsVERQ	GRK4	GRK4	GRK-4	G protein-coupled receptor kinase 4
+P30411	373	S	P32298	TLRTsISVE	GRK4	GRK4	GRK-4	G protein-coupled receptor kinase 4
+P46734	218	S	P46734	YLVDsVAKT	MKK3	MAP2K3	MAP2K3	mitogen-activated protein kinase kinase 3 (MEK3)
+P46734	222	T	P46734	SVAKtMDAG	MKK3	MAP2K3	MAP2K3	mitogen-activated protein kinase kinase 3 (MEK3)
+Q08999	401	T	Q00534	LRIStPLTG	CDK6	CDK6	CDK6	cyclin-dependent kinase 6
+Q08999	672	S	Q00534	DRYSsPPAS	CDK6	CDK6	CDK6	cyclin-dependent kinase 6
+Q08999	1035	S	Q00534	APPLsPYPF	CDK6	CDK6	CDK6	cyclin-dependent kinase 6
+P12814	12	Y	Q05397	QTNDyMQPE	FAK	PTK2	FAK	Focal adhesion kinase
+P49023	118	Y	Q05397	EEHVySFPN	FAK	PTK2	FAK	Focal adhesion kinase
+Q05397	577	Y	Q05397	DSTYyKASK	FAK	PTK2	FAK	Focal adhesion kinase
+Q05397	397	Y	Q05397	ETDDyAEII	FAK	PTK2	FAK	Focal adhesion kinase
+Q99961	315	Y	Q05397	CKALyDFEP	FAK	PTK2	FAK	Focal adhesion kinase
+Q05397	576	Y	Q05397	EDSTyYKAS	FAK	PTK2	FAK	Focal adhesion kinase
+P54753	614	Y	P54753	DPFTyEDPN	EphB3	EPHB3	EphB3	EPH receptor B3
+Q92934	75	S	Q15418	SRHSsYPAG	p90RSK	RPS6KA1	RSK-1	Ribosomal protein S6 kinase alpha 1
+P16234	1018	Y	P16234	ADSGyIIPL	PDGFRA	PDGFRA	PDGFR_alpha	platelet-derived growth factor receptor, alpha polypeptide
+P16234	988	Y	P16234	SDNAyIGVT	PDGFRA	PDGFRA	PDGFR_alpha	platelet-derived growth factor receptor, alpha polypeptide
+P15311	567	T	P25098	DKYKtLRQI	GRK2	GRK2	GRK-2	G protein-coupled receptor kinase 2 = beta-ARK1 (beta-adrenergic receptor kinase 1)
+P07550	396	S	P25098	GTVPsDNID	GRK2	GRK2	GRK-2	G protein-coupled receptor kinase 2 = beta-ARK1 (beta-adrenergic receptor kinase 1)
+P35367	398	S	P25098	LRSHsRQYV	GRK2	GRK2	GRK-2	G protein-coupled receptor kinase 2 = beta-ARK1 (beta-adrenergic receptor kinase 1)
+P41143	361	T	P25098	VTACtPSDG	GRK2	GRK2	GRK-2	G protein-coupled receptor kinase 2 = beta-ARK1 (beta-adrenergic receptor kinase 1)
+P07550	407	S	P25098	GRNCsTNDS	GRK2	GRK2	GRK-2	G protein-coupled receptor kinase 2 = beta-ARK1 (beta-adrenergic receptor kinase 1)
+P37840	129	S	P25098	YEMPsEEGY	GRK2	GRK2	GRK-2	G protein-coupled receptor kinase 2 = beta-ARK1 (beta-adrenergic receptor kinase 1)
+P41143	363	S	P25098	ACTPsDGPG	GRK2	GRK2	GRK-2	G protein-coupled receptor kinase 2 = beta-ARK1 (beta-adrenergic receptor kinase 1)
+P07550	401	S	P25098	DNIDsQGRN	GRK2	GRK2	GRK-2	G protein-coupled receptor kinase 2 = beta-ARK1 (beta-adrenergic receptor kinase 1)
+P07550	384	T	P25098	DLPGtEDFV	GRK2	GRK2	GRK-2	G protein-coupled receptor kinase 2 = beta-ARK1 (beta-adrenergic receptor kinase 1)
+Q96LC7	597	Y	P52333	TILDyINVV	JAK3	JAK3	JAK3	Janus protein-tyrosine kinase 3
+P52333	980	Y	P52333	LDKDyYVVR	JAK3	JAK3	JAK3	Janus protein-tyrosine kinase 3
+P52333	785	Y	P52333	ISSDyELLS	JAK3	JAK3	JAK3	Janus protein-tyrosine kinase 3
+Q96LC7	667	Y	P52333	EELHyATLN	JAK3	JAK3	JAK3	Janus protein-tyrosine kinase 3
+P52333	981	Y	P52333	DKDYyVVRE	JAK3	JAK3	JAK3	Janus protein-tyrosine kinase 3
+Q96LC7	691	Y	P52333	TQADyAEVK	JAK3	JAK3	JAK3	Janus protein-tyrosine kinase 3
+Q96LC7	597	Y	Q08881	TILDyINVV	ITK	ITK	ITK	Tyrosine-protein kinase ITK/TSK
+P42680	206	Y	Q08881	RGQEyLILE	ITK	ITK	ITK	Tyrosine-protein kinase ITK/TSK
+Q08881	180	Y	Q08881	VIALyDYQT	ITK	ITK	ITK	Tyrosine-protein kinase ITK/TSK
+Q96LC7	667	Y	Q08881	EELHyATLN	ITK	ITK	ITK	Tyrosine-protein kinase ITK/TSK
+P08575	1216	Y	P41240	TFEQyQFLY	CSK	CSK	Csk	Tyrosine-protein kinase CSK
+P12931	530	Y	P41240	TEPQyQPGE	CSK	CSK	Csk	Tyrosine-protein kinase CSK
+P06241	531	Y	P41240	TEPQyQPGE	CSK	CSK	Csk	Tyrosine-protein kinase CSK
+Q02078	319	T	Q13164	VSVTtPSLP	ERK5	MAPK7	MAPK7	mitogen-activated protein kinase 7 (Erk5)
+Q13163	149	S	Q13164	LKKSsAELK	ERK5	MAPK7	MAPK7	mitogen-activated protein kinase 7 (Erk5)
+Q13163	129	S	Q13164	RAGPsQHSS	ERK5	MAPK7	MAPK7	mitogen-activated protein kinase 7 (Erk5)
+Q02078	355	S	Q13164	QGFNsPGML	ERK5	MAPK7	MAPK7	mitogen-activated protein kinase 7 (Erk5)
+O00141	78	S	Q13164	SPPPsPSQQ	ERK5	MAPK7	MAPK7	mitogen-activated protein kinase 7 (Erk5)
+Q13163	137	S	Q13164	SPAVsDSLP	ERK5	MAPK7	MAPK7	mitogen-activated protein kinase 7 (Erk5)
+P14921	38	T	Q13164	VPLLtPSSK	ERK5	MAPK7	MAPK7	mitogen-activated protein kinase 7 (Erk5)
+Q02078	312	T	Q13164	QPLAtPVVS	ERK5	MAPK7	MAPK7	mitogen-activated protein kinase 7 (Erk5)
+Q13163	142	S	Q13164	DSLPsNSLK	ERK5	MAPK7	MAPK7	mitogen-activated protein kinase 7 (Erk5)
+P04637	46	S	Q9H2X6	DLMLsPDDI	HIPK2	HIPK2	HIPK2	homeodomain interacting protein kinase 2
+P29590	38	S	Q9H2X6	QPSPsPSPT	HIPK2	HIPK2	HIPK2	homeodomain interacting protein kinase 2
+P23443	412	T	P42345	FLGFtYVAP	mTOR	MTOR	mTOR	FK506 binding protein 12-rapamycin associated protein 1
+Q13541	65	S	P42345	ECRNsPVTK	mTOR	MTOR	mTOR	FK506 binding protein 12-rapamycin associated protein 1
+P42345	2481	S	P42345	ESIHsFIGD	mTOR	MTOR	mTOR	FK506 binding protein 12-rapamycin associated protein 1
+P23443	394	S	P42345	TPVDsPDDS	mTOR	MTOR	mTOR	FK506 binding protein 12-rapamycin associated protein 1
+Q13541	70	T	P42345	PVTKtPPRD	mTOR	MTOR	mTOR	FK506 binding protein 12-rapamycin associated protein 1
+Q13541	37	T	P42345	DYSTtPGGT	mTOR	MTOR	mTOR	FK506 binding protein 12-rapamycin associated protein 1
+P23443	434	S	P42345	PKIRsPRRF	mTOR	MTOR	mTOR	FK506 binding protein 12-rapamycin associated protein 1
+Q13541	46	T	P42345	LFSTtPGGT	mTOR	MTOR	mTOR	FK506 binding protein 12-rapamycin associated protein 1
+P19419	417	T	Q13523	DGLStPVVL	PRP4	PRPF4B	PRP4	PRP4 pre-mRNA processing factor 4 homolog (yeast)
+O00141	377	S	Q9HC98	NPNVsGPND	NEK6	NEK6	NEK6	NIMA (never in mitosis gene a)-related kinase 6
+O00141	422	S	Q9HC98	FLGFsYAPP	NEK6	NEK6	NEK6	NIMA (never in mitosis gene a)-related kinase 6
+P02730	303	S	P48729	YMAQsRGEL	CK1A	CSNK1A1	CK1_alpha	casein kinase 1, alpha 1
+P27348	232	S	P48729	WTSDsAGEE	CK1A	CSNK1A1	CK1_alpha	casein kinase 1, alpha 1
+P56817	498	S	P48729	ADDIsLLK	CK1A	CSNK1A1	CK1_alpha	casein kinase 1, alpha 1
+P17931	12	S	P48729	HDALsGSGN	CK1A	CSNK1A1	CK1_alpha	casein kinase 1, alpha 1
+P02730	42	T	P48729	DTEAtATDY	CK1A	CSNK1A1	CK1_alpha	casein kinase 1, alpha 1
+P63104	232	T	P48729	WTSDtQGDE	CK1A	CSNK1A1	CK1_alpha	casein kinase 1, alpha 1
+Q12778	322	S	P48729	SSNAsTISG	CK1A	CSNK1A1	CK1_alpha	casein kinase 1, alpha 1
+P07910	260	S	P48729	GADDsAEEG	CK1A	CSNK1A1	CK1_alpha	casein kinase 1, alpha 1
+P37840	129	S	P48729	YEMPsEEGY	CK1A	CSNK1A1	CK1_alpha	casein kinase 1, alpha 1
+Q9Y2W7	63	S	P48729	GSDSsDSEL	CK1A	CSNK1A1	CK1_alpha	casein kinase 1, alpha 1
+P17931	6	S	P48729	ADNFsLHDA	CK1A	CSNK1A1	CK1_alpha	casein kinase 1, alpha 1
+O60260	378	S	P48729	EGECsAVFE	CK1A	CSNK1A1	CK1_alpha	casein kinase 1, alpha 1
+Q12778	325	S	P48729	ASTIsGRLS	CK1A	CSNK1A1	CK1_alpha	casein kinase 1, alpha 1
+P07910	253	S	P48729	VKMEsEGGA	CK1A	CSNK1A1	CK1_alpha	casein kinase 1, alpha 1
+P07910	299	S	P48729	DDRDsANGE	CK1A	CSNK1A1	CK1_alpha	casein kinase 1, alpha 1
+O60260	101	S	P48729	REPQsLTRV	CK1A	CSNK1A1	CK1_alpha	casein kinase 1, alpha 1
+Q9Y2H1	442	T	Q9Y6E0	FLNYtYKRF	MST3	STK24	MST3	serine/threonine kinase 24 (STE20 homolog, yeast) (MST3)
+P04637	46	S	Q92630	DLMLsPDDI	DYRK2	DYRK2	DYRK2	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 2
+Q96A00	38	T	Q02156	HARVtVKYD	PKCE	PRKCE	PKC_epsilon	Protein kinase C, epsilon type
+P19429	44	S	Q02156	KISAsRKLQ	PKCE	PRKCE	PKC_epsilon	Protein kinase C, epsilon type
+Q9UBS0	473	S	Q02156	GTKKsKRGR	PKCE	PRKCE	PKC_epsilon	Protein kinase C, epsilon type
+P05783	53	S	Q02156	SRSTsFRGG	PKCE	PRKCE	PKC_epsilon	Protein kinase C, epsilon type
+Q02156	729	S	Q02156	FKGFsYFGE	PKCE	PRKCE	PKC_epsilon	Protein kinase C, epsilon type
+P46940	1443	S	Q02156	KKSKsVKED	PKCE	PRKCE	PKC_epsilon	Protein kinase C, epsilon type
+P17302	368	S	Q02156	SSRAsSRAS	PKCE	PRKCE	PKC_epsilon	Protein kinase C, epsilon type
+P08581	985	S	Q02156	DRLVsARSV	PKCE	PRKCE	PKC_epsilon	Protein kinase C, epsilon type
+Q8WXE1	68	S	Q13535	DTLAsQALS	ATR	ATR	ATR	Ataxia telangiectasia and Rad3-related protein (FRAP-related protein 1)
+Q01094	31	S	Q13535	LLDSsQIVI	ATR	ATR	ATR	Ataxia telangiectasia and Rad3-related protein (FRAP-related protein 1)
+Q00987	407	S	Q13535	IIYSsQEDV	ATR	ATR	ATR	Ataxia telangiectasia and Rad3-related protein (FRAP-related protein 1)
+O14757	317	S	Q13535	KYSSsQPEP	ATR	ATR	ATR	Ataxia telangiectasia and Rad3-related protein (FRAP-related protein 1)
+P38398	1524	S	Q13535	RNYPsQEEL	ATR	ATR	ATR	Ataxia telangiectasia and Rad3-related protein (FRAP-related protein 1)
+P38398	1423	S	Q13535	EQHGsQPSN	ATR	ATR	ATR	Ataxia telangiectasia and Rad3-related protein (FRAP-related protein 1)
+O14757	345	S	Q13535	GISFsQPTC	ATR	ATR	ATR	Ataxia telangiectasia and Rad3-related protein (FRAP-related protein 1)
+P38398	1457	S	Q13535	AVLTsQKSS	ATR	ATR	ATR	Ataxia telangiectasia and Rad3-related protein (FRAP-related protein 1)
+Q8WXE1	72	S	Q13535	SQALsQCPA	ATR	ATR	ATR	Ataxia telangiectasia and Rad3-related protein (FRAP-related protein 1)
+P53350	210	T	O94804	ERKKtLCGT	LOK	STK10	LOK	serine/threonine kinase 10 (LOK)
+P26038	558	T	O94804	DKYKtLRQI	LOK	STK10	LOK	serine/threonine kinase 10 (LOK)
+P04040	231	Y	P42684	GEAVyCKFH	Arg	ABL2	Abl2	v-abl Abelson murine leukemia viral oncogene homolog 2 (arg, Abelson-related gene)
+P04040	386	Y	P42684	RVANyQRDG	Arg	ABL2	Abl2	v-abl Abelson murine leukemia viral oncogene homolog 2 (arg, Abelson-related gene)
+O15304	34	Y	P42684	CAERySQEV	Arg	ABL2	Abl2	v-abl Abelson murine leukemia viral oncogene homolog 2 (arg, Abelson-related gene)
+P23528	3	S	P53667	sGVAV	LIMK1	LIMK1	LIMK1	LIM domain kinase 1
+Q13444	715	Y	P08631	LGASyWYRA	Hck	HCK	HCK	Tyrosine-protein kinase HCK
+Q13905	504	Y	P08631	PSVPyAPFA	Hck	HCK	HCK	Tyrosine-protein kinase HCK
+P11274	177	Y	P08631	EKPFyVNVE	Hck	HCK	HCK	Tyrosine-protein kinase HCK
+P08631	411	Y	P08631	EDNEyTARE	Hck	HCK	HCK	Tyrosine-protein kinase HCK
+P51692	699	Y	P08631	AVDGyVKPQ	Hck	HCK	HCK	Tyrosine-protein kinase HCK
+P08631	522	Y	P08631	TESQyQQQP	Hck	HCK	HCK	Tyrosine-protein kinase HCK
+Q16584	277	T	Q16584	EWHKtTQMS	MLK3	MAP3K11	MAP3K11	mitogen-activated protein kinase kinase kinase 11
+Q16584	281	S	Q16584	TTQMsAAGT	MLK3	MAP3K11	MAP3K11	mitogen-activated protein kinase kinase kinase 11
+P45985	261	T	Q16584	SIAKtRDAG	MLK3	MAP3K11	MAP3K11	mitogen-activated protein kinase kinase kinase 11
+P08559	300	S	Q15120	DPGVsYRTR	PDHK3	PDK3	PDHK3	pyruvate dehydrogenase kinase, isozyme 3
+P08559	293	S	Q15120	YHGHsMSDP	PDHK3	PDK3	PDHK3	pyruvate dehydrogenase kinase, isozyme 3
+Q16555	555	T	O75116	PRRTtQRIV	ROCK2	ROCK2	ROCK2	Rho-associated, coiled-coil containing protein kinase 2
+Q00653	870	S	Q99558	SAYGsQSVE	Nik	MAP3K14	MAP3K14	mitogen-activated protein kinase kinase kinase 14
+Q00653	866	S	Q99558	VKEDsAYGS	Nik	MAP3K14	MAP3K14	mitogen-activated protein kinase kinase kinase 14
+P42345	2448	S	P23443	TRTDsYSAG	p70S6K	RPS6KB1	p70S6K	ribosomal protein S6 kinase, 70kDa, polypeptide 1
+P23443	412	T	P23443	FLGFtYVAP	p70S6K	RPS6KB1	p70S6K	ribosomal protein S6 kinase, 70kDa, polypeptide 1
+P42345	2446	T	P23443	SRTRtDSYS	p70S6K	RPS6KB1	p70S6K	ribosomal protein S6 kinase, 70kDa, polypeptide 1
+P62753	236	S	P23443	RRLSsLRAS	p70S6K	RPS6KB1	p70S6K	ribosomal protein S6 kinase, 70kDa, polypeptide 1
+P23588	422	S	P23443	SRTGsESSQ	p70S6K	RPS6KB1	p70S6K	ribosomal protein S6 kinase, 70kDa, polypeptide 1
+P62753	235	S	P23443	RRRLsSLRA	p70S6K	RPS6KB1	p70S6K	ribosomal protein S6 kinase, 70kDa, polypeptide 1
+Q9BY77	383	S	P23443	RRVNsASSS	p70S6K	RPS6KB1	p70S6K	ribosomal protein S6 kinase, 70kDa, polypeptide 1
+P35579	1808	S	Q96QT4	KYKAsITAL	ChaK1	TRPM7	Chak1	transient receptor potential cation channel, subfamily M, member 7
+P35579	1803	S	Q96QT4	GTVKsKYKA	ChaK1	TRPM7	Chak1	transient receptor potential cation channel, subfamily M, member 7
+P35579	1800	T	Q96QT4	EMEGtVKSK	ChaK1	TRPM7	Chak1	transient receptor potential cation channel, subfamily M, member 7
+Q12866	749	Y	Q12866	SKKIySGDY	Mer	MERTK	Mer	Proto-oncogene tyrosine-protein kinase MER
+Q12866	754	Y	Q12866	SGDYyRQGR	Mer	MERTK	Mer	Proto-oncogene tyrosine-protein kinase MER
+Q12866	753	Y	Q12866	YSGDyYRQG	Mer	MERTK	Mer	Proto-oncogene tyrosine-protein kinase MER
+P19086	16	S	Q13153	AARRsRRID	PAK1	PAK1	PAK1	Serine/threonine-protein kinase PAK1
+O95863	246	S	Q13153	ARTFsRMSL	PAK1	PAK1	PAK1	Serine/threonine-protein kinase PAK1
+P52565	174	S	Q13153	LARGsYSIK	PAK1	PAK1	PAK1	Serine/threonine-protein kinase PAK1
+P52565	101	S	Q13153	FKKQsFVLK	PAK1	PAK1	PAK1	Serine/threonine-protein kinase PAK1
+P16949	16	S	Q13153	EKRAsGQAF	PAK1	PAK1	PAK1	Serine/threonine-protein kinase PAK1
+Q02750	298	S	Q13153	GRPLsSYGM	PAK1	PAK1	PAK1	Serine/threonine-protein kinase PAK1
+Q92934	99	S	Q13153	GRSRsAPPN	PAK1	PAK1	PAK1	Serine/threonine-protein kinase PAK1
+P36871	467	T	Q13153	DKVYtVEKA	PAK1	PAK1	PAK1	Serine/threonine-protein kinase PAK1
+P04049	339	S	Q13153	QRDSsYYWE	PAK1	PAK1	PAK1	Serine/threonine-protein kinase PAK1
+P18669	23	S	Q13153	ENRFsGWYD	PAK1	PAK1	PAK1	Serine/threonine-protein kinase PAK1
+P21333	2152	S	Q13153	RRAPsVANV	PAK1	PAK1	PAK1	Serine/threonine-protein kinase PAK1
+P15056	446	S	Q13153	GRRDsSDDW	PAK1	PAK1	PAK1	Serine/threonine-protein kinase PAK1
+P18669	118	S	Q13153	IWRRsYDVP	PAK1	PAK1	PAK1	Serine/threonine-protein kinase PAK1
+P53667	508	T	Q13153	KKRYtVVGN	PAK1	PAK1	PAK1	Serine/threonine-protein kinase PAK1
+P04049	338	S	Q13153	GQRDsSYYW	PAK1	PAK1	PAK1	Serine/threonine-protein kinase PAK1
+P03372	305	S	Q13153	SKKNsLALS	PAK1	PAK1	PAK1	Serine/threonine-protein kinase PAK1
+O95747	325	S	Q9H4A3	VPGSsGRLH	WNK1	WNK1	WNK1	WNK lysine deficient protein kinase 1
+O95747	185	T	Q9H4A3	KVRKtFVGT	WNK1	WNK1	WNK1	WNK lysine deficient protein kinase 1
+Q13480	242	Y	P06213	QQMIyDSPP	INSR	INSR	INSR	Insulin receptor
+P53004	291	Y	P06213	EIQKyCCSR	INSR	INSR	INSR	Insulin receptor
+Q99704	362	Y	P06213	EDPIyDEPE	INSR	INSR	INSR	Insulin receptor
+Q13480	373	Y	P06213	TDSSyCIPT	INSR	INSR	INSR	Insulin receptor
+P06213	999	Y	P06213	SNPEyLSAS	INSR	INSR	INSR	Insulin receptor
+Q13480	589	Y	P06213	SEENyVPMN	INSR	INSR	INSR	Insulin receptor
+P06213	1355	Y	P06213	FKRSyEEHI	INSR	INSR	INSR	Insulin receptor
+P06213	1189	Y	P06213	YETDyYRKG	INSR	INSR	INSR	Insulin receptor
+P53004	198	Y	P06213	KEDQyMKMT	INSR	INSR	INSR	Insulin receptor
+P53004	228	Y	P06213	KRNRyLSFH	INSR	INSR	INSR	Insulin receptor
+P27986	607	Y	P06213	TEDQySLVE	INSR	INSR	INSR	Insulin receptor
+Q99704	398	Y	P06213	KEEGyELPY	INSR	INSR	INSR	Insulin receptor
+Q13480	447	Y	P06213	LDENyVPMN	INSR	INSR	INSR	Insulin receptor
+Q13480	472	Y	P06213	QEANyVPMT	INSR	INSR	INSR	Insulin receptor
+P06213	992	Y	P06213	LGPLyASSN	INSR	INSR	INSR	Insulin receptor
+P27986	368	Y	P06213	MHGDyTLTL	INSR	INSR	INSR	Insulin receptor
+P06213	1011	Y	P06213	PCSVyVPDE	INSR	INSR	INSR	Insulin receptor
+P06213	1361	Y	P06213	EHIPyTHMN	INSR	INSR	INSR	Insulin receptor
+P27986	580	Y	P06213	TRDQyLMWL	INSR	INSR	INSR	Insulin receptor
+P06213	1185	Y	P06213	TRDIyETDY	INSR	INSR	INSR	Insulin receptor
+Q13480	627	Y	P06213	KQVEyLDLD	INSR	INSR	INSR	Insulin receptor
+P06213	1190	Y	P06213	ETDYyRKGG	INSR	INSR	INSR	Insulin receptor
+Q02750	222	S	P41279	SMANsFVGT	Cot	MAP3K8	MAP3K8	Mitogen-activated protein kinase kinase kinase 8
+Q02750	218	S	P41279	QLIDsMANS	Cot	MAP3K8	MAP3K8	Mitogen-activated protein kinase kinase kinase 8
+P36507	222	S	P41279	QLIDsMANS	Cot	MAP3K8	MAP3K8	Mitogen-activated protein kinase kinase kinase 8
+P36507	226	S	P41279	SMANsFVGT	Cot	MAP3K8	MAP3K8	Mitogen-activated protein kinase kinase kinase 8
+Q12968	163	S	P45984	ESSLsPSPA	JNK2	MAPK9	MAPK9	mitogen-activated protein kinase 9 (JNK3
+P98177	451	T	P45984	KALGtPVLT	JNK2	MAPK9	MAPK9	mitogen-activated protein kinase 9 (JNK3
+Q12968	165	S	P45984	SLSPsPASS	JNK2	MAPK9	MAPK9	mitogen-activated protein kinase 9 (JNK3
+Q8IW41	182	T	P45984	GDLMtPQFT	JNK2	MAPK9	MAPK9	mitogen-activated protein kinase 9 (JNK3
+P05412	63	S	P45984	DLLTsPDVG	JNK2	MAPK9	MAPK9	mitogen-activated protein kinase 9 (JNK3
+Q9UQF2	103	T	P45984	ATGDtPGAE	JNK2	MAPK9	MAPK9	mitogen-activated protein kinase 9 (JNK3
+P98177	455	T	P45984	TPVLtPPTE	JNK2	MAPK9	MAPK9	mitogen-activated protein kinase 9 (JNK3
+Q9NYV6	200	T	P45984	YVPStPWFL	JNK2	MAPK9	MAPK9	mitogen-activated protein kinase 9 (JNK3
+P11362	653	Y	P11362	HHIDyYKKT	FGFR1	FGFR1	FGFR1	Basic fibroblast growth factor receptor 1
+P11362	583	Y	P11362	PGLEyCYNP	FGFR1	FGFR1	FGFR1	Basic fibroblast growth factor receptor 1
+P11362	585	Y	P11362	LEYCyNPSH	FGFR1	FGFR1	FGFR1	Basic fibroblast growth factor receptor 1
+P11362	730	Y	P11362	TNELyMMMR	FGFR1	FGFR1	FGFR1	Basic fibroblast growth factor receptor 1
+P11362	654	Y	P11362	HIDYyKKTT	FGFR1	FGFR1	FGFR1	Basic fibroblast growth factor receptor 1
+P11362	154	Y	P11362	PVAPyWTSP	FGFR1	FGFR1	FGFR1	Basic fibroblast growth factor receptor 1
+P11362	766	Y	P11362	SNQEyLDLS	FGFR1	FGFR1	FGFR1	Basic fibroblast growth factor receptor 1
+P11362	463	Y	P11362	GVSEyELPE	FGFR1	FGFR1	FGFR1	Basic fibroblast growth factor receptor 1
+P51681	337	S	P35626	ERASsVYTR	GRK3	GRK3	GRK-3	G protein-coupled receptor kinase 3 = beta-ARK2 (beta-adrenergic receptor kinase 2)
+P51681	342	S	P35626	VYTRsTGEQ	GRK3	GRK3	GRK-3	G protein-coupled receptor kinase 3 = beta-ARK2 (beta-adrenergic receptor kinase 2)
+P51681	336	S	P35626	PERAsSVYT	GRK3	GRK3	GRK-3	G protein-coupled receptor kinase 3 = beta-ARK2 (beta-adrenergic receptor kinase 2)
+Q12888	29	S	Q13315	SQPEsQVLE	ATM	ATM	ATM	Ataxia telangiectasia mutated
+Q9BXW9	222	S	Q13315	ILGDsQHAD	ATM	ATM	ATM	Ataxia telangiectasia mutated
+Q01094	31	S	Q13315	LLDSsQIVI	ATM	ATM	ATM	Ataxia telangiectasia mutated
+O96017	33	S	Q13315	QGSSsQSQG	ATM	ATM	ATM	Ataxia telangiectasia mutated
+O94916	1247	S	Q13315	SNSPsQEQQ	ATM	ATM	ATM	Ataxia telangiectasia mutated
+O96017	28	S	Q13315	SVTQsQGSS	ATM	ATM	ATM	Ataxia telangiectasia mutated
+Q99708	664	S	Q13315	GADLsQYKM	ATM	ATM	ATM	Ataxia telangiectasia mutated
+P04637	46	S	Q13315	DLMLsPDDI	ATM	ATM	ATM	Ataxia telangiectasia mutated
+Q14683	957	S	Q13315	EEGSsQGED	ATM	ATM	ATM	Ataxia telangiectasia mutated
+P38398	1524	S	Q13315	RNYPsQEEL	ATM	ATM	ATM	Ataxia telangiectasia mutated
+P38398	1387	S	Q13315	SGLSsQSDI	ATM	ATM	ATM	Ataxia telangiectasia mutated
+P54132	99	T	Q13315	AGQEtQRGG	ATM	ATM	ATM	Ataxia telangiectasia mutated
+P54274	219	S	Q13315	LMIIsQKDT	ATM	ATM	ATM	Ataxia telangiectasia mutated
+Q00987	395	S	Q13315	SEDYsQPST	ATM	ATM	ATM	Ataxia telangiectasia mutated
+P38398	1423	S	Q13315	EQHGsQPSN	ATM	ATM	ATM	Ataxia telangiectasia mutated
+Q14683	966	S	Q13315	SVSGsQRIS	ATM	ATM	ATM	Ataxia telangiectasia mutated
+O75943	646	S	Q13315	SLPLsQNSA	ATM	ATM	ATM	Ataxia telangiectasia mutated
+O14757	345	S	Q13315	GISFsQPTC	ATM	ATM	ATM	Ataxia telangiectasia mutated
+Q12888	25	S	Q13315	IIEDsQPES	ATM	ATM	ATM	Ataxia telangiectasia mutated
+P38398	1497	S	Q13315	VERSsPSKC	ATM	ATM	ATM	Ataxia telangiectasia mutated
+O60934	343	S	Q13315	GPSLsQGVS	ATM	ATM	ATM	Ataxia telangiectasia mutated
+O94916	1197	S	Q13315	TPMLsQEQA	ATM	ATM	ATM	Ataxia telangiectasia mutated
+P38398	1457	S	Q13315	AVLTsQKSS	ATM	ATM	ATM	Ataxia telangiectasia mutated
+Q99708	745	S	Q13315	ADSFsQAAD	ATM	ATM	ATM	Ataxia telangiectasia mutated
+P49959	264	S	Q13315	LFYIsQPGS	ATM	ATM	ATM	Ataxia telangiectasia mutated
+O96017	35	S	Q13315	SSSQsQGIS	ATM	ATM	ATM	Ataxia telangiectasia mutated
+Q13315	1981	S	Q13315	FEEGsQSTT	ATM	ATM	ATM	Ataxia telangiectasia mutated
+Q92878	635	S	Q13315	DVCGsQDFE	ATM	ATM	ATM	Ataxia telangiectasia mutated
+O60934	278	S	Q13315	GITNsQTLI	ATM	ATM	ATM	Ataxia telangiectasia mutated
+O96017	68	T	Q13315	ETVStQELY	ATM	ATM	ATM	Ataxia telangiectasia mutated
+P15927	21	T	Q13315	AGGYtQSPG	ATM	ATM	ATM	Ataxia telangiectasia mutated
+O75943	656	S	Q13315	ELPAsQPQP	ATM	ATM	ATM	Ataxia telangiectasia mutated
+Q14191	1141	S	Q13315	AYSSsQPVI	ATM	ATM	ATM	Ataxia telangiectasia mutated
+O96017	26	T	Q13315	HGSVtQSQG	ATM	ATM	ATM	Ataxia telangiectasia mutated
+P04637	15	S	Q13315	EPPLsQETF	ATM	ATM	ATM	Ataxia telangiectasia mutated
+O94916	1367	S	Q13315	GSPSsQEQQ	ATM	ATM	ATM	Ataxia telangiectasia mutated
+O60934	397	S	Q13315	FRMLsQDAP	ATM	ATM	ATM	Ataxia telangiectasia mutated
+Q99638	272	S	Q13315	TDSHsQDLG	ATM	ATM	ATM	Ataxia telangiectasia mutated
+P04629	680	Y	P04629	YSTDyYRVG	TrkA	NTRK1	TRKA	High affinity nerve growth factor receptor
+P04629	496	Y	P04629	ENPQyFSDA	TrkA	NTRK1	TRKA	High affinity nerve growth factor receptor
+P04629	681	Y	P04629	STDYyRVGG	TrkA	NTRK1	TRKA	High affinity nerve growth factor receptor
+P16949	25	S	O15264	ELILsPRSK	P38D	MAPK13	MAPK13	mitogen-activated protein kinase 13 (p38delta)
+P16949	38	S	O15264	EFPLsPPKK	P38D	MAPK13	MAPK13	mitogen-activated protein kinase 13 (p38delta)
+Q96J02	420	Y	P06241	QRFIyGNQD	Fyn	FYN	Fyn	Proto-oncogene tyrosine-protein kinase Fyn
+P30419	180	Y	P06241	LNENyVEDD	Fyn	FYN	Fyn	Proto-oncogene tyrosine-protein kinase Fyn
+O15117	651	Y	P06241	GDEVyDDVD	Fyn	FYN	Fyn	Proto-oncogene tyrosine-protein kinase Fyn
+Q86WV1	232	Y	P06241	KEETyDDID	Fyn	FYN	Fyn	Proto-oncogene tyrosine-protein kinase Fyn
+O43294	60	Y	P06241	KDHLySTVC	Fyn	FYN	Fyn	Proto-oncogene tyrosine-protein kinase Fyn
+Q13291	281	Y	P06241	SLTIyAQVQ	Fyn	FYN	Fyn	Proto-oncogene tyrosine-protein kinase Fyn
+Q13291	307	Y	P06241	CTTIyVAAT	Fyn	FYN	Fyn	Proto-oncogene tyrosine-protein kinase Fyn
+P06241	28	Y	P06241	QSSGyRYGT	Fyn	FYN	Fyn	Proto-oncogene tyrosine-protein kinase Fyn
+P37840	125	Y	P06241	DNEAyEMPS	Fyn	FYN	Fyn	Proto-oncogene tyrosine-protein kinase Fyn
+P06241	39	Y	P06241	TPQHyPSFG	Fyn	FYN	Fyn	Proto-oncogene tyrosine-protein kinase Fyn
+P22681	774	Y	P06241	EDDGyDVPK	Fyn	FYN	Fyn	Proto-oncogene tyrosine-protein kinase Fyn
+P12318	288	Y	P06241	ADGGyMTLN	Fyn	FYN	Fyn	Proto-oncogene tyrosine-protein kinase Fyn
+Q14643	353	Y	P06241	EKMVySLVS	Fyn	FYN	Fyn	Proto-oncogene tyrosine-protein kinase Fyn
+P06241	420	Y	P06241	EDNEyTARQ	Fyn	FYN	Fyn	Proto-oncogene tyrosine-protein kinase Fyn
+Q03135	14	Y	P06241	EGHLyTVPI	Fyn	FYN	Fyn	Proto-oncogene tyrosine-protein kinase Fyn
+Q13322	67	Y	P06241	LESLySACS	Fyn	FYN	Fyn	Proto-oncogene tyrosine-protein kinase Fyn
+P06241	30	Y	P06241	SGYRyGTDP	Fyn	FYN	Fyn	Proto-oncogene tyrosine-protein kinase Fyn
+O15117	595	Y	P06241	DQEVyDDVA	Fyn	FYN	Fyn	Proto-oncogene tyrosine-protein kinase Fyn
+Q13291	327	Y	P06241	SITVyASVT	Fyn	FYN	Fyn	Proto-oncogene tyrosine-protein kinase Fyn
+P22681	700	Y	P06241	EDTEyMTPS	Fyn	FYN	Fyn	Proto-oncogene tyrosine-protein kinase Fyn
+P22681	731	Y	P06241	DSCTyEAMY	Fyn	FYN	Fyn	Proto-oncogene tyrosine-protein kinase Fyn
+P11137	67	Y	P06241	SQGTySNTK	Fyn	FYN	Fyn	Proto-oncogene tyrosine-protein kinase Fyn
+P00519	735	T	P33981	WRSVtLPRD	TTK	TTK	TTK	TTK protein kinase
+P38646	62	T	P33981	IDLGtTNSC	TTK	TTK	TTK	TTK protein kinase
+Q53HL2	230	T	P33981	EIFLtVPVG	TTK	TTK	TTK	TTK protein kinase
+Q53HL2	94	T	P33981	DLDItEINK	TTK	TTK	TTK	TTK protein kinase
+Q53HL2	169	T	P33981	SRANtVTPA	TTK	TTK	TTK	TTK protein kinase
+Q53HL2	88	T	P33981	EEAAtADLD	TTK	TTK	TTK	TTK protein kinase
+P38646	65	S	P33981	GTTNsCVAV	TTK	TTK	TTK	TTK protein kinase
+O96017	68	T	P33981	ETVStQELY	TTK	TTK	TTK	TTK protein kinase
+P09758	303	S	P17252	NRRKsGKYK	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+Q15080	315	S	P17252	RGLPsQKRL	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P18031	378	S	P17252	VVGGsLRGA	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P19174	1248	S	P17252	AREGsFESR	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P05107	745	S	P17252	EKLKsQWNN	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P19086	16	S	P17252	AARRsRRID	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P21730	314	S	P17252	RLRKsLPSL	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P38936	146	S	P17252	RRQTsMTDF	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P11831	159	T	P17252	LRRYtTFSK	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P60983	72	S	P17252	FIVYsYKYQ	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P16150	351	S	P17252	GRRKsRQGS	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P56537	235	S	P17252	TIATsMRDS	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P35579	1916	S	P17252	REVSsLKNK	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P35367	398	S	P17252	LRSHsRQYV	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P07355	26	S	P17252	SAYGsVKAY	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P00749	158	S	P17252	GKKPsSPPE	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P16144	1356	S	P17252	DVLRsPSGS	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P05107	758	T	P17252	FKSAtTTVM	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P00749	323	S	P17252	GKENsTDYL	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+Q96A00	38	T	P17252	HARVtVKYD	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P14598	320	S	P17252	RKRLsQDAY	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+Q05209	435	S	P17252	ERNLsFEIK	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P00533	678	T	P17252	VRKRtLRRL	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P02786	24	S	P17252	YTRFsLARQ	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P06213	1062	S	P17252	TVNEsASLR	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+Q03721	21	S	P17252	NKPPsKTCL	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+Q13976	59	T	P17252	GPRTtRAQG	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+Q13224	1323	S	P17252	PRSVsLKDK	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P29966	163	S	P17252	SFKKsFKLS	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P41180	888	T	P17252	AARAtLRRS	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+O14939	252	T	P17252	MCLEtGAIS	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P21730	332	S	P17252	VVREsKSFT	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P14598	370	S	P17252	PPRPsADLI	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P16144	1364	S	P17252	SQRPsVSDD	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P10721	746	S	P17252	VRIGsYIER	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P14598	304	S	P17252	PRRSsIRNA	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+Q01954	541	S	P17252	SRKSsMPIK	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P35367	396	S	P17252	KRLRsHSRQ	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P08567	117	S	P17252	STRRsIRLP	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+Q15762	329	S	P17252	YPTFsRRPK	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P35367	478	T	P17252	NFKKtFKRI	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P29966	159	S	P17252	KKRFsFKKS	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P16144	1360	S	P17252	SPSGsQRPS	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+O14745	162	S	P17252	KKGPsGYGF	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P04083	27	S	P17252	QTVKsSKGG	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+Q99418	392	S	P17252	KKRIsVKKK	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P30086	153	S	P17252	FKVAsFRKK	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P21730	338	S	P17252	SFTRsTVDT	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+Q9UBS0	473	S	P17252	GTKKsKRGR	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+Q05209	39	S	P17252	LRRLsTKYR	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P21399	711	S	P17252	NSYGsRRGN	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P06213	1064	S	P17252	NESAsLRER	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P25098	29	S	P17252	AARAsKKIL	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P21730	334	S	P17252	RESKsFTRS	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+Q03721	15	S	P17252	RGRKsGNKP	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+Q15139	738	S	P17252	IGEKsFRRS	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P10721	741	S	P17252	DKRRsVRIG	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P14598	315	S	P17252	IHQRsRKRL	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P13569	686	S	P17252	TKKQsFKQT	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P29350	591	S	P17252	KSKGsLKRK	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P19086	27	S	P17252	LRSEsQRQR	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P35869	12	S	P17252	ITYAsRKRR	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P35611	726	S	P17252	FRTPsFLKK	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P49802	434	S	P17252	MKSDsYPRF	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P14598	328	S	P17252	YRRNsVRFL	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+Q15080	154	T	P17252	LRPRtRKVK	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P06127	434	T	P17252	HRNHtATVR	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P16070	672	S	P17252	IAVNsRRRC	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+Q09472	89	S	P17252	LRSGsSPNL	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P21730	317	S	P17252	KSLPsLLRN	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P08567	113	S	P17252	FARKsTRRS	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P21399	138	S	P17252	RRADsLQKN	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P35869	36	S	P17252	KSNPsKRHR	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P14598	303	S	P17252	PPRRsSIRN	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P43119	328	S	P17252	SQLAsGRRD	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+Q15139	742	S	P17252	SFRRsVVGT	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P06127	436	T	P17252	NHTAtVRSH	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+O14939	243	S	P17252	VVKDsFLLY	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P35611	716	S	P17252	GKSPsKKKK	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P14598	359	S	P17252	QTQRsKPQP	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P30411	373	S	P17252	TLRTsISVE	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+Q13769	6	S	P17252	SSESsKKRK	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P42261	849	S	P17252	IPQQsINEA	PKCA	PRKCA	PKC_alpha	Protein kinase C, alpha type
+P02810	24	S	Q12851	DEDVsQEDV	GCK	MAP4K2	MAP4K2	mitogen-activated protein kinase kinase kinase kinase 2
+P19838	923	S	O14920	RDSDsVCDS	IKKB	IKBKB	IKK_beta	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta
+Q9Y6K9	43	S	O14920	LHLPsEQGA	IKKB	IKBKB	IKK_beta	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta
+Q04206	536	S	O14920	EDFSsIADM	IKKB	IKBKB	IKK_beta	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta
+O43524	644	S	O14920	FNFDsLIST	IKKB	IKBKB	IKK_beta	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta
+P19838	927	S	O14920	SVCDsGVET	IKKB	IKBKB	IKK_beta	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta
+Q9Y6K9	31	S	O14920	LGEEsPLGK	IKKB	IKBKB	IKK_beta	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta
+Q9Y6K9	376	S	O14920	PAYLsSPLA	IKKB	IKBKB	IKK_beta	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta
+P06730	209	S	Q9BUB5	TKSGsTTKN	Mnk1	MKNK1	Mnk1	MAP kinase interacting serine/threonine kinase 1
+Q9H0H5	387	S	Q96GD4	LYRIsGCDR	AurB	AURKB	Aurora B	Serine/threonine-protein kinase 12 (AURKB)
+P14136	38	S	Q96GD4	GTRLsLARM	AurB	AURKB	Aurora B	Serine/threonine-protein kinase 12 (AURKB)
+P17661	17	T	Q96GD4	SYRRtFGGA	AurB	AURKB	Aurora B	Serine/threonine-protein kinase 12 (AURKB)
+Q99661	95	S	Q96GD4	QKRRsVNSK	AurB	AURKB	Aurora B	Serine/threonine-protein kinase 12 (AURKB)
+P17661	60	S	Q96GD4	VSRTsGGAG	AurB	AURKB	Aurora B	Serine/threonine-protein kinase 12 (AURKB)
+P14136	13	S	Q96GD4	AARRsYVSS	AurB	AURKB	Aurora B	Serine/threonine-protein kinase 12 (AURKB)
+P14136	7	T	Q96GD4	RRRItSAAR	AurB	AURKB	Aurora B	Serine/threonine-protein kinase 12 (AURKB)
+Q96GD4	232	T	Q96GD4	LRRKtMCGT	AurB	AURKB	Aurora B	Serine/threonine-protein kinase 12 (AURKB)
+P08670	73	S	Q96GD4	RLRSsVPGV	AurB	AURKB	Aurora B	Serine/threonine-protein kinase 12 (AURKB)
+O15392	117	T	Q96GD4	IAKEtNNKK	AurB	AURKB	Aurora B	Serine/threonine-protein kinase 12 (AURKB)
+P17661	12	S	Q96GD4	SQRVsSYRR	AurB	AURKB	Aurora B	Serine/threonine-protein kinase 12 (AURKB)
+P49450	7	S	Q96GD4	PRRRsRKPE	AurB	AURKB	Aurora B	Serine/threonine-protein kinase 12 (AURKB)
+P12318	304	Y	P51451	DKNIyLTLP	BLK	BLK	BLK	B lymphoid tyrosine kinase
+P31994	292	Y	P51451	NTITySLLM	BLK	BLK	BLK	B lymphoid tyrosine kinase
+P12318	288	Y	P51451	ADGGyMTLN	BLK	BLK	BLK	B lymphoid tyrosine kinase
+P36873	307	T	P51955	KPNAtRPVT	NEK2	NEK2	NEK2	Serine/threonine-protein kinase Nek2 (NimA-related protein kinase 2)
+P36873	318	T	P51955	RGMItKQAK	NEK2	NEK2	NEK2	Serine/threonine-protein kinase Nek2 (NimA-related protein kinase 2)
+O14777	165	S	P51955	PFALsKSSM	NEK2	NEK2	NEK2	Serine/threonine-protein kinase Nek2 (NimA-related protein kinase 2)
+P38936	146	S	P11309	RRQTsMTDF	Pim1	PIM1	PIM-1	pim-1 oncogene
+P38936	145	T	P11309	KRRQtSMTD	Pim1	PIM1	PIM-1	pim-1 oncogene
+Q13043	183	T	Q13043	AKRNtVIGT	MST1	STK4	MST1	Serine/threonine-protein kinase 4
+P54764	602	Y	P54764	DPFTyEDPN	EphA4	EPHA4	EphA4	EPH receptor A4
+P54764	596	Y	P54764	GVRTyVDPF	EphA4	EPHA4	EphA4	EPH receptor A4
+Q16659	189	S	Q16659	KGHLsEGLV	ERK3	MAPK6	MAPK6	mitogen-activated protein kinase 6 (Erk3)
+P08559	300	S	Q15118	DPGVsYRTR	PDHK1	PDK1	PDHK1	pyruvate dehydrogenase kinase, isozyme 1
+P08559	293	S	Q15118	YHGHsMSDP	PDHK1	PDK1	PDHK1	pyruvate dehydrogenase kinase, isozyme 1
+P31947	186	S	P45983	EIANsPEEA	JNK1	MAPK8	MAPK8	mitogen-activated protein kinase 8 (JNK1)
+Q07817	115	T	P45983	QLHItPGTA	JNK1	MAPK8	MAPK8	mitogen-activated protein kinase 8 (JNK1)
+P37231	112	S	P45983	VEPAsPPYY	JNK1	MAPK8	MAPK8	mitogen-activated protein kinase 8 (JNK1)
+P05787	74	S	P45983	QSLLsPLVL	JNK1	MAPK8	MAPK8	mitogen-activated protein kinase 8 (JNK1)
+P61978	353	S	P45983	IDTWsPSEW	JNK1	MAPK8	MAPK8	mitogen-activated protein kinase 8 (JNK1)
+O43521-2	44	S	P45983	PQDRsPAPM	JNK1	MAPK8	MAPK8	mitogen-activated protein kinase 8 (JNK1)
+Q07817	62	S	P45983	HLADsPAVN	JNK1	MAPK8	MAPK8	mitogen-activated protein kinase 8 (JNK1)
+P98177	451	T	P45983	KALGtPVLT	JNK1	MAPK8	MAPK8	mitogen-activated protein kinase 8 (JNK1)
+P10415	87	S	P45983	GPALsPVPP	JNK1	MAPK8	MAPK8	mitogen-activated protein kinase 8 (JNK1)
+Q07817	47	T	P45983	SEMEtPSAI	JNK1	MAPK8	MAPK8	mitogen-activated protein kinase 8 (JNK1)
+P10415	70	S	P45983	VARTsPLQT	JNK1	MAPK8	MAPK8	mitogen-activated protein kinase 8 (JNK1)
+P05412	73	S	P45983	LKLAsPELE	JNK1	MAPK8	MAPK8	mitogen-activated protein kinase 8 (JNK1)
+P05412	63	S	P45983	DLLTsPDVG	JNK1	MAPK8	MAPK8	mitogen-activated protein kinase 8 (JNK1)
+Q9UQF2	103	T	P45983	ATGDtPGAE	JNK1	MAPK8	MAPK8	mitogen-activated protein kinase 8 (JNK1)
+P63104	184	S	P45983	EILNsPEKA	JNK1	MAPK8	MAPK8	mitogen-activated protein kinase 8 (JNK1)
+P98177	455	T	P45983	TPVLtPPTE	JNK1	MAPK8	MAPK8	mitogen-activated protein kinase 8 (JNK1)
+P31946	186	S	P45983	EILNsPEKA	JNK1	MAPK8	MAPK8	mitogen-activated protein kinase 8 (JNK1)
+Q06481	736	T	P45983	DPMLtPEER	JNK1	MAPK8	MAPK8	mitogen-activated protein kinase 8 (JNK1)
+P15311	567	T	P31751	DKYKtLRQI	Akt2	AKT2	PKB_beta	v-akt murine thymoma viral oncogene homolog 2
+Q99683	83	S	P31751	GRGSsVGGG	Akt2	AKT2	PKB_beta	v-akt murine thymoma viral oncogene homolog 2
+P98170	87	S	P31751	HRKVsPNCR	Akt2	AKT2	PKB_beta	v-akt murine thymoma viral oncogene homolog 2
+P03372	167	S	P31751	ERLAsTNDK	Akt2	AKT2	PKB_beta	v-akt murine thymoma viral oncogene homolog 2
+P05107	745	S	P05771	EKLKsQWNN	PKCB	PRKCB	PKC_beta	protein kinase C, beta 1
+Q03721	9	S	P05771	VCVSsYRGR	PKCB	PRKCB	PKC_beta	protein kinase C, beta 1
+Q03721	21	S	P05771	NKPPsKTCL	PKCB	PRKCB	PKC_beta	protein kinase C, beta 1
+Q03721	8	S	P05771	SVCVsSYRG	PKCB	PRKCB	PKC_beta	protein kinase C, beta 1
+Q9UBS0	473	S	P05771	GTKKsKRGR	PKCB	PRKCB	PKC_beta	protein kinase C, beta 1
+Q03721	15	S	P05771	RGRKsGNKP	PKCB	PRKCB	PKC_beta	protein kinase C, beta 1
+Q96RG2	1165	T	Q96RG2	TFCGtIEYC	PASK	PASK	PASK	PAS domain containing serine/threonine kinase
+Q96RG2	1161	T	Q96RG2	KLFYtFCGT	PASK	PASK	PASK	PAS domain containing serine/threonine kinase
+P05198	52	S	Q9NZJ5	LSELsRRRI	PERK	EIF2AK3	EIF2AK3	eukaryotic translation initiation factor 2-alpha kinase 3
+Q8TDX7	195	S	Q8TD19	TAAHsLVGT	NEK9	NEK9	NEK9	Serine/threonine-protein kinase Nek9 (NimA-related protein kinase 9)
+Q9HC98	206	S	Q8TD19	TAAHsLVGT	NEK9	NEK9	NEK9	Serine/threonine-protein kinase Nek9 (NimA-related protein kinase 9)
+Q8TD19	210	T	Q8TD19	SMAEtLVGT	NEK9	NEK9	NEK9	Serine/threonine-protein kinase Nek9 (NimA-related protein kinase 9)
+Q03721	9	S	P05129	VCVSsYRGR	PKCG	PRKCG	PKC_gamma	protein kinase C, gamma
+Q03721	21	S	P05129	NKPPsKTCL	PKCG	PRKCG	PKC_gamma	protein kinase C, gamma
+Q03721	8	S	P05129	SVCVsSYRG	PKCG	PRKCG	PKC_gamma	protein kinase C, gamma
+Q9UBS0	473	S	P05129	GTKKsKRGR	PKCG	PRKCG	PKC_gamma	protein kinase C, gamma
+Q03721	15	S	P05129	RGRKsGNKP	PKCG	PRKCG	PKC_gamma	protein kinase C, gamma
+P36888	591	Y	P36888	NEYFyVDFR	FLT3	FLT3	FLT3	Tyrosine-protein kinase receptor FLT3 (Stem cell tyrosine kinase 1) (STK-1) (CD135 antigen) (PDGFR family)
+P36888	599	Y	P36888	REYEyDLKW	FLT3	FLT3	FLT3	Tyrosine-protein kinase receptor FLT3 (Stem cell tyrosine kinase 1) (STK-1) (CD135 antigen) (PDGFR family)
+P36888	589	Y	P36888	SDNEyFYVD	FLT3	FLT3	FLT3	Tyrosine-protein kinase receptor FLT3 (Stem cell tyrosine kinase 1) (STK-1) (CD135 antigen) (PDGFR family)
+O43315	222	S	Q05513	ARDLsPRLF	PKCZ	PRKCZ	PKC_zeta	Protein kinase C, zeta type
+Q96A00	38	T	Q05513	HARVtVKYD	PKCZ	PRKCZ	PKC_zeta	Protein kinase C, zeta type
+P55211	144	S	Q05513	GALEsLRGN	PKCZ	PRKCZ	PKC_zeta	Protein kinase C, zeta type
+P55040	261	S	Q05513	KRKEsMPRK	PKCZ	PRKCZ	PKC_zeta	Protein kinase C, zeta type
+Q04206	311	S	Q05513	ETFKsIMKK	PKCZ	PRKCZ	PKC_zeta	Protein kinase C, zeta type
+Q9UBS0	473	S	Q05513	GTKKsKRGR	PKCZ	PRKCZ	PKC_zeta	Protein kinase C, zeta type
+O43315	11	S	Q05513	EKGKsFKQR	PKCZ	PRKCZ	PKC_zeta	Protein kinase C, zeta type
+P35568	323	S	Q05513	GKPGsFRVR	PKCZ	PRKCZ	PKC_zeta	Protein kinase C, zeta type
+P06493	15	Y	P30291	GEGTyGVVY	Wee1	WEE1	WEE1	WEE1 homolog (S. pombe)
+P30307	191	S	Q9H4B4	AEEIsDELM	PLK3	PLK3	PLK3	Polo like kinase 3
+P30307	198	S	Q9H4B4	LMEFsLKDQ	PLK3	PLK3	PLK3	Polo like kinase 3
+Q96A00	12	S	O43293	KRVLsKLQS	DAPK3	DAPK3	DAPK3	death-associated protein kinase 3
+O43293	306	T	O43293	LKEYtIKSH	DAPK3	DAPK3	DAPK3	death-associated protein kinase 3
+O43293	311	S	O43293	IKSHsSLPP	DAPK3	DAPK3	DAPK3	death-associated protein kinase 3
+P24844	19	T	O43293	PQRAtSNVF	DAPK3	DAPK3	DAPK3	death-associated protein kinase 3
+Q00987	166	S	O43293	RRAIsETEE	DAPK3	DAPK3	DAPK3	death-associated protein kinase 3
+P40429	77	S	O43293	FRAPsRIFW	DAPK3	DAPK3	DAPK3	death-associated protein kinase 3
+O43293	180	T	O43293	NIFGtPEFV	DAPK3	DAPK3	DAPK3	death-associated protein kinase 3
+P24844	20	S	O43293	QRATsNVFA	DAPK3	DAPK3	DAPK3	death-associated protein kinase 3
+O43293	225	T	O43293	TKQEtLTNI	DAPK3	DAPK3	DAPK3	death-associated protein kinase 3
+O43293	265	T	O43293	KRRMtIAQS	DAPK3	DAPK3	DAPK3	death-associated protein kinase 3
+O43293	299	T	O43293	RRLKtTRLK	DAPK3	DAPK3	DAPK3	death-associated protein kinase 3
+Q07912	284	Y	Q07912	NDDHyVMQE	Ack	TNK2	TNK2	tyrosine kinase, non-receptor, 2 (p21cdc42Hs, ACK)
+O14733	275	T	Q13233	SKAKtRSAG	MEKK1	MAP3K1	MAP3K1	mitogen-activated protein kinase kinase kinase 1
+O14733	271	S	Q13233	RLVDsKAKT	MEKK1	MAP3K1	MAP3K1	mitogen-activated protein kinase kinase kinase 1
+P40763	705	Y	Q9UM73	SAAPyLKTK	ALK	ALK	ALK	Anaplastic lymphoma kinase
+O75582	376	S	O75582	FQGYsFVAP	MSK1	RPS6KA5	RSK-5	ribosomal protein S6 kinase, 90kDa, polypeptide 5 (MSK1)
+O75582	381	S	O75582	FVAPsILFK	MSK1	RPS6KA5	RSK-5	ribosomal protein S6 kinase, 90kDa, polypeptide 5 (MSK1)
+O75582	212	S	O75582	ERAYsFCGT	MSK1	RPS6KA5	RSK-5	ribosomal protein S6 kinase, 90kDa, polypeptide 5 (MSK1)
+O75582	752	S	O75582	KTSTsTETR	MSK1	RPS6KA5	RSK-5	ribosomal protein S6 kinase, 90kDa, polypeptide 5 (MSK1)
+O75582	750	S	O75582	MKKTsTSTE	MSK1	RPS6KA5	RSK-5	ribosomal protein S6 kinase, 90kDa, polypeptide 5 (MSK1)
+Q04206	276	S	O75582	LRRPsDREL	MSK1	RPS6KA5	RSK-5	ribosomal protein S6 kinase, 90kDa, polypeptide 5 (MSK1)
+O75582	758	S	O75582	ETRSsSSES	MSK1	RPS6KA5	RSK-5	ribosomal protein S6 kinase, 90kDa, polypeptide 5 (MSK1)
+P52735	172	Y	P00533	GDDIyEDII	EGFR	EGFR	EGFR	Epidermal growth factor receptor (Receptor tyrosine-protein kinase ErbB-1)
+Q13480	406	Y	P00533	SQDCyDIPR	EGFR	EGFR	EGFR	Epidermal growth factor receptor (Receptor tyrosine-protein kinase ErbB-1)
+P04083	21	Y	P00533	EEQEyVQTV	EGFR	EGFR	EGFR	Epidermal growth factor receptor (Receptor tyrosine-protein kinase ErbB-1)
+P18031	66	Y	P00533	EDNDyINAS	EGFR	EGFR	EGFR	Epidermal growth factor receptor (Receptor tyrosine-protein kinase ErbB-1)
+P00533	1092	Y	P00533	PVPEyINQS	EGFR	EGFR	EGFR	Epidermal growth factor receptor (Receptor tyrosine-protein kinase ErbB-1)
+Q13480	659	Y	P00533	ERVDyVVVD	EGFR	EGFR	EGFR	Epidermal growth factor receptor (Receptor tyrosine-protein kinase ErbB-1)
+Q13480	373	Y	P00533	TDSSyCIPT	EGFR	EGFR	EGFR	Epidermal growth factor receptor (Receptor tyrosine-protein kinase ErbB-1)
+Q13480	589	Y	P00533	SEENyVPMN	EGFR	EGFR	EGFR	Epidermal growth factor receptor (Receptor tyrosine-protein kinase ErbB-1)
+P00533	1110	Y	P00533	QNPVyHNQP	EGFR	EGFR	EGFR	Epidermal growth factor receptor (Receptor tyrosine-protein kinase ErbB-1)
+P00533	1197	Y	P00533	ENAEyLRVA	EGFR	EGFR	EGFR	Epidermal growth factor receptor (Receptor tyrosine-protein kinase ErbB-1)
+P52735	142	Y	P00533	DDDVyRSLE	EGFR	EGFR	EGFR	Epidermal growth factor receptor (Receptor tyrosine-protein kinase ErbB-1)
+P19174	771	Y	P00533	AEPDyGALY	EGFR	EGFR	EGFR	Epidermal growth factor receptor (Receptor tyrosine-protein kinase ErbB-1)
+P52735	159	Y	P00533	GEDIyDCVP	EGFR	EGFR	EGFR	Epidermal growth factor receptor (Receptor tyrosine-protein kinase ErbB-1)
+Q13480	447	Y	P00533	LDENyVPMN	EGFR	EGFR	EGFR	Epidermal growth factor receptor (Receptor tyrosine-protein kinase ErbB-1)
+Q13480	472	Y	P00533	QEANyVPMT	EGFR	EGFR	EGFR	Epidermal growth factor receptor (Receptor tyrosine-protein kinase ErbB-1)
+P19174	783	Y	P00533	NPGFyVEAN	EGFR	EGFR	EGFR	Epidermal growth factor receptor (Receptor tyrosine-protein kinase ErbB-1)
+O15492	168	Y	P00533	EKDSyPRFL	EGFR	EGFR	EGFR	Epidermal growth factor receptor (Receptor tyrosine-protein kinase ErbB-1)
+P15311	354	Y	P00533	RLQDyEEKT	EGFR	EGFR	EGFR	Epidermal growth factor receptor (Receptor tyrosine-protein kinase ErbB-1)
+Q13480	285	Y	P00533	DGELyVFNT	EGFR	EGFR	EGFR	Epidermal growth factor receptor (Receptor tyrosine-protein kinase ErbB-1)
+P15311	146	Y	P00533	HKSGyLSSE	EGFR	EGFR	EGFR	Epidermal growth factor receptor (Receptor tyrosine-protein kinase ErbB-1)
+P00533	1172	Y	P00533	DNPDyQQDF	EGFR	EGFR	EGFR	Epidermal growth factor receptor (Receptor tyrosine-protein kinase ErbB-1)
+Q13480	627	Y	P00533	KQVEyLDLD	EGFR	EGFR	EGFR	Epidermal growth factor receptor (Receptor tyrosine-protein kinase ErbB-1)
+P35240	518	S	Q13177	MKRLsMEIE	PAK2	PAK2	PAK2	Serine/threonine-protein kinase PAK2
+P07949	981	Y	P07949	SEEMyRLML	Ret	RET	RET	Proto-oncogene tyrosine-protein kinase receptor ret
+P07949	1090	Y	P07949	GFPRyPNDS	Ret	RET	RET	Proto-oncogene tyrosine-protein kinase receptor ret
+P07949	1096	Y	P07949	NDSVyANWM	Ret	RET	RET	Proto-oncogene tyrosine-protein kinase receptor ret
+P07949	826	Y	P07949	VGPGyLGSG	Ret	RET	RET	Proto-oncogene tyrosine-protein kinase receptor ret
+P07949	1015	Y	P07949	KRRDyLDLA	Ret	RET	RET	Proto-oncogene tyrosine-protein kinase receptor ret
+O15530	9	Y	P07949	TSQLyDAVP	Ret	RET	RET	Proto-oncogene tyrosine-protein kinase receptor ret
+P07949	809	Y	P07949	EYAKyGSLR	Ret	RET	RET	Proto-oncogene tyrosine-protein kinase receptor ret
+P07949	1029	Y	P07949	DSLIyDDGL	Ret	RET	RET	Proto-oncogene tyrosine-protein kinase receptor ret
+P07949	687	Y	P07949	FPVSySSSG	Ret	RET	RET	Proto-oncogene tyrosine-protein kinase receptor ret
+P07949	806	Y	P07949	LIVEyAKYG	Ret	RET	RET	Proto-oncogene tyrosine-protein kinase receptor ret
+P07949	900	Y	P07949	SRDVyEEDS	Ret	RET	RET	Proto-oncogene tyrosine-protein kinase receptor ret
+P07949	905	Y	P07949	EEDSyVKRS	Ret	RET	RET	Proto-oncogene tyrosine-protein kinase receptor ret
+P07949	1062	Y	P07949	ENKLyGMSD	Ret	RET	RET	Proto-oncogene tyrosine-protein kinase receptor ret
+P30419	180	Y	P07948	LNENyVEDD	LYN	LYN	Lyn	Tyrosine-protein kinase Lyn
+O15492	177	Y	P07948	KSPAyRDLA	LYN	LYN	Lyn	Tyrosine-protein kinase Lyn
+P02730	21	Y	P07948	EQEEyEDPD	LYN	LYN	Lyn	Tyrosine-protein kinase Lyn
+P02730	8	Y	P07948	LQDDyEDMM	LYN	LYN	Lyn	Tyrosine-protein kinase Lyn
+P12318	304	Y	P07948	DKNIyLTLP	LYN	LYN	Lyn	Tyrosine-protein kinase Lyn
+P15391	500	Y	P07948	GSQSyEDMR	LYN	LYN	Lyn	Tyrosine-protein kinase Lyn
+P02730	359	Y	P07948	DSSFyKGLD	LYN	LYN	Lyn	Tyrosine-protein kinase Lyn
+P31994	292	Y	P07948	NTITySLLM	LYN	LYN	Lyn	Tyrosine-protein kinase Lyn
+P02730	904	Y	P07948	GRDEyDEVA	LYN	LYN	Lyn	Tyrosine-protein kinase Lyn
+P31995	310	Y	P07948	DKNIyLTLP	LYN	LYN	Lyn	Tyrosine-protein kinase Lyn
+P15391	531	Y	P07948	DADSyENMD	LYN	LYN	Lyn	Tyrosine-protein kinase Lyn
+P07948	397	Y	P07948	EDNEyTARE	LYN	LYN	Lyn	Tyrosine-protein kinase Lyn
+Q13291	327	Y	P07948	SITVyASVT	LYN	LYN	Lyn	Tyrosine-protein kinase Lyn
+P14317	222	Y	P07948	PTTAyKKTT	LYN	LYN	Lyn	Tyrosine-protein kinase Lyn
+Q06187	551	Y	P07948	LDDEyTSSV	LYN	LYN	Lyn	Tyrosine-protein kinase Lyn
+Q12972	335	Y	P07948	KKKKyAKEA	LYN	LYN	Lyn	Tyrosine-protein kinase Lyn
+P16885	753	Y	Q06187	INSLyDVSR	Btk	BTK	BTK	Bruton`s tyrosine kinase (AGMX1) (ATK) (BPK)
+P51813	216	Y	Q06187	SLAQyDSNS	Btk	BTK	BTK	Bruton`s tyrosine kinase (AGMX1) (ATK) (BPK)
+P42680	206	Y	Q06187	RGQEyLILE	Btk	BTK	BTK	Bruton`s tyrosine kinase (AGMX1) (ATK) (BPK)
+Q06187	223	Y	Q06187	VVALyDYMP	Btk	BTK	BTK	Bruton`s tyrosine kinase (AGMX1) (ATK) (BPK)
+Q08881	180	Y	Q06187	VIALyDYQT	Btk	BTK	BTK	Bruton`s tyrosine kinase (AGMX1) (ATK) (BPK)
+P16885	759	Y	Q06187	VSRMyVDPS	Btk	BTK	BTK	Bruton`s tyrosine kinase (AGMX1) (ATK) (BPK)
+Q06187	551	Y	Q06187	LDDEyTSSV	Btk	BTK	BTK	Bruton`s tyrosine kinase (AGMX1) (ATK) (BPK)
+P16885	1217	Y	Q06187	QLFLyDTHQ	Btk	BTK	BTK	Bruton`s tyrosine kinase (AGMX1) (ATK) (BPK)
+P51617	376	S	Q9NWZ3	PSQSsMVAR	IRAK4	IRAK4	IRAK4	interleukin-1 receptor-associated kinase 4
+P51617	387	T	Q9NWZ3	TVRGtLAYL	IRAK4	IRAK4	IRAK4	interleukin-1 receptor-associated kinase 4
+P55212	257	S	O60285	NRKVsQRRV	NuaK1	NUAK1	NuaK1	NUAK family, SNF1-like kinase, 1
+P27986	608	S	P42336	EDQYsLVED	PIK3CA	PIK3CA	PIK3CA	
+P48736	1101	S	P48736	GEKHsA	PIK3CG	PIK3CG	PIK3CG	
+O00329	1039	S	O00329	AHNVsKDNR	PIK3CD	PIK3CD	PIK3CD	
+P42338	1070	S	P42338	KDYRs	PIK3CB	PIK3CB	PIK3CB	
+P09493	61	S	P42336	LDKYsEALK	PIK3CA	PIK3CA	PIK3CA	
+P30305	169	S	Q14680	NITNsQAPD	MELK	MELK	Eg3 kinase	member of the KIN1/PAR-1/MARK family
+P30305	323	S	Q14680	FRSPsMPCS	MELK	MELK	Eg3 kinase	member of the KIN1/PAR-1/MARK family

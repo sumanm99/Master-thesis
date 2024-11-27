@@ -1,0 +1,4 @@
+Database	# K-S interactions	% coverage of K-S interactions	% of exclusive K-S interactions	PhosphoELM_PC	PhosphoSitePlus_PC	High confidence additions	Medium confidence additions (P.ELM)	Medium confidence additions (PSP)	Total additions	Autophosphorylation	
+STRING	617550	74.9	72.7	1529	8473	434	161	4919	5514	827
+Pathway Commons	121627	14.7	11.2	611	10186	245	377	3393	4015	155
+BioGRID	85559	10.4	9.4	1254	5245	598	276	7988	8862	825
